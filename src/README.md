@@ -5,4 +5,3 @@
 ||2025.4.24|Bolt: Clothing Virtual Characters at Scale|||[link](3.md)|
 ||2025.4.24|PICO: Reconstructing 3D People In Contact with Objects|||[link](4.md)|
 ||2025.4.24|Unveiling Hidden Vulnerabilities in Digital Human Generation via Adversarial Attacks|||[link](5.md)|
-||2025.4.25|xxxx|||[link](6.md)|
