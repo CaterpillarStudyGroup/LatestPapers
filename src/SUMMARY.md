@@ -4,7 +4,7 @@
 
 - [  ](*.md)
 - [  ](21.md)
-- [  ](20.md)
+- [Joint Optimization of Neural Radiance Fields and Continuous Camera Motion from a Monocular Video](20.md)
 - [Sketch2Anim: Towards Transferring Sketch Storyboards into 3D Animation](19.md)
 - [HumMorph: Generalized Dynamic Human Neural Fields from Few Views](18.md)
 - [AnimateAnywhere: Rouse the Background in Human Image Animation](17.md)

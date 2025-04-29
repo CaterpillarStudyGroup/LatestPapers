@@ -37,5 +37,4 @@
 ||2025.4.29|AnimateAnywhere: Rouse the Background in Human Image Animation|| |[link](17.md)|
 ||2025.4.29|HumMorph: Generalized Dynamic Human Neural Fields from Few Views|| |[link](18.md)|
 ||2025.4.29|Sketch2Anim: Towards Transferring Sketch Storyboards into 3D Animation|| |[link](19.md)|
-||2025.4.29|****|| |[link](20.md)|
-||2025.4.29|****|| |[link](21.md)|
+||2025.4.29|Joint Optimization of Neural Radiance Fields and Continuous Camera Motion from a Monocular Video|| |[link](20.md)|
