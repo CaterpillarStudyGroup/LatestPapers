@@ -8,7 +8,7 @@
 - [3DV-TON](13.md)
 - [3DV-TON](12.md)
 - [3DV-TON](11.md)
-- [3DV-TON](10.md)
+- [PIN-WM: Learning Physics-INformed World Models for Non-Prehensile Manipulation](10.md)
 - [Gaussian Splatting is an Effective Data Generator for 3D Object Detection](9.md)
 - [HUG: Hierarchical Urban Gaussian Splatting with Block-Based Reconstruction](8.md)
 - [Physically Consistent Humanoid Loco-Manipulation using Latent Diffusion Models](7.md)
