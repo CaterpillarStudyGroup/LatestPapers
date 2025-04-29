@@ -9,7 +9,7 @@
 - [3DV-TON](12.md)
 - [3DV-TON](11.md)
 - [3DV-TON](10.md)
-- [3DV-TON](9.md)
+- [Gaussian Splatting is an Effective Data Generator for 3D Object Detection](9.md)
 - [HUG: Hierarchical Urban Gaussian Splatting with Block-Based Reconstruction](8.md)
 - [Physically Consistent Humanoid Loco-Manipulation using Latent Diffusion Models](7.md)
 - [PMG: Progressive Motion Generation via Sparse Anchor Postures Curriculum Learning](6.md)
