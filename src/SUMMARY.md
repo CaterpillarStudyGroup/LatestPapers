@@ -7,7 +7,7 @@
 - [  ](20.md)
 - [  ](19.md)
 - [  ](18.md)
-- [  ](17.md)
+- [AnimateAnywhere: Rouse the Background in Human Image Animation](17.md)
 - [Generative AI for Character Animation: A Comprehensive Survey of Techniques, Applications, and Future Directions](16.md)
 - [ActionArt: Advancing Multimodal Large Models for Fine-Grained Human-Centric Video Understanding](15.md)
 - [SmallGS: Gaussian Splatting-based Camera Pose Estimation for Small-Baseline Videos](14.md)

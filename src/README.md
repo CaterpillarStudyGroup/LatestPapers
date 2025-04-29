@@ -34,7 +34,7 @@
 |ID|Year|Name|Note|Tags|Link|
 |---|---|---|---|---|---|
 ||2025.4.29|Generative AI for Character Animation: A Comprehensive Survey of Techniques, Applications, and Future Directions|| |[link](16.md)|
-||2025.4.29|****|| |[link](17.md)|
+||2025.4.29|AnimateAnywhere: Rouse the Background in Human Image Animation|| |[link](17.md)|
 ||2025.4.29|****|| |[link](18.md)|
 ||2025.4.29|****|| |[link](19.md)|
 ||2025.4.29|****|| |[link](20.md)|
