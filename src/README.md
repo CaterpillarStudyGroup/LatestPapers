@@ -13,3 +13,20 @@
 ||2025.4.24|Dynamic Camera Poses and Where to Find Them||相机位姿估计|[link](2.md)|
 ||2025.4.24|Bolt: Clothing Virtual Characters at Scale||3D服装迁移适配|[link](3.md)|
 ||2025.4.24|Unveiling Hidden Vulnerabilities in Digital Human Generation via Adversarial Attacks||HPS攻击对抗|[link](5.md)|
+
+|ID|Year|Name|Note|Tags|Link|
+|---|---|---|---|---|---|
+||2025.4.24|Dynamic Camera Poses and Where to Find Them||相机位姿估计|[link](2.md)|
+||2025.4.24|PMG: Progressive Motion Generation via Sparse Anchor Postures Curriculum Learning|| |[link](6.md)|
+||2025.4.24|Physically Consistent Humanoid Loco-Manipulation using Latent Diffusion Models|| |[link](7.md)|
+||2025.4.24|HUG: Hierarchical Urban Gaussian Splatting with Block-Based Reconstruction|| |[link](8.md)|
+||2025.4.24|Gaussian Splatting is an Effective Data Generator for 3D Object Detection|| |[link](9.md)|
+||2025.4.24|PIN-WM: Learning Physics-INformed World Models for Non-Prehensile Manipulation|| |[link](10.md)|
+
+|ID|Year|Name|Note|Tags|Link|
+|---|---|---|---|---|---|
+||2025.4.25|////||相机位姿估计|[link](11.md)|
+||2025.4.25|////||相机位姿估计|[link](12.md)|
+||2025.4.25|////||相机位姿估计|[link](13.md)|
+||2025.4.25|////||相机位姿估计|[link](14.md)|
+||2025.4.25|////||相机位姿估计|[link](15.md)|
