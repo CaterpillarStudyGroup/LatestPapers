@@ -30,3 +30,12 @@
 ||2025.4.28|STP4D: Spatio-Temporal-Prompt Consistent Modeling for Text-to-4D Gaussian Splatting|| |[link](13.md)|
 ||2025.4.28|SmallGS: Gaussian Splatting-based Camera Pose Estimation for Small-Baseline Videos|| |[link](14.md)|
 ||2025.4.28|ActionArt: Advancing Multimodal Large Models for Fine-Grained Human-Centric Video Understanding|| |[link](15.md)|
+
+|ID|Year|Name|Note|Tags|Link|
+|---|---|---|---|---|---|
+||2025.4.29|****|| |[link](16.md)|
+||2025.4.29|****|| |[link](17.md)|
+||2025.4.29|****|| |[link](18.md)|
+||2025.4.29|****|| |[link](19.md)|
+||2025.4.29|****|| |[link](20.md)|
+||2025.4.29|****|| |[link](21.md)|
