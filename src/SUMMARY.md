@@ -6,7 +6,7 @@
 - [  ](21.md)
 - [  ](20.md)
 - [  ](19.md)
-- [  ](18.md)
+- [HumMorph: Generalized Dynamic Human Neural Fields from Few Views](18.md)
 - [AnimateAnywhere: Rouse the Background in Human Image Animation](17.md)
 - [Generative AI for Character Animation: A Comprehensive Survey of Techniques, Applications, and Future Directions](16.md)
 - [ActionArt: Advancing Multimodal Large Models for Fine-Grained Human-Centric Video Understanding](15.md)
