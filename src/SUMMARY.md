@@ -5,7 +5,7 @@
 - [  ](*.md)
 - [  ](21.md)
 - [  ](20.md)
-- [  ](19.md)
+- [Sketch2Anim: Towards Transferring Sketch Storyboards into 3D Animation](19.md)
 - [HumMorph: Generalized Dynamic Human Neural Fields from Few Views](18.md)
 - [AnimateAnywhere: Rouse the Background in Human Image Animation](17.md)
 - [Generative AI for Character Animation: A Comprehensive Survey of Techniques, Applications, and Future Directions](16.md)
