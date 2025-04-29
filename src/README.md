@@ -25,8 +25,8 @@
 
 |ID|Year|Name|Note|Tags|Link|
 |---|---|---|---|---|---|
-||2025.4.25|////||相机位姿估计|[link](11.md)|
-||2025.4.25|////||相机位姿估计|[link](12.md)|
-||2025.4.25|////||相机位姿估计|[link](13.md)|
-||2025.4.25|////||相机位姿估计|[link](14.md)|
-||2025.4.25|////||相机位姿估计|[link](15.md)|
+||2025.4.28|SSD-Poser: Avatar Pose Estimation with State Space Duality from Sparse Observations|| |[link](11.md)|
+||2025.4.28|////|| |[link](12.md)|
+||2025.4.28|////|| |[link](13.md)|
+||2025.4.28|////|| |[link](14.md)|
+||2025.4.28|////|| |[link](15.md)|
