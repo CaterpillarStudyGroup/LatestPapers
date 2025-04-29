@@ -3,9 +3,9 @@
 # Abstract
 
 - [3DV-TON](7.md)
-- [3DV-TON](15.md)
-- [3DV-TON](14.md)
-- [3DV-TON](13.md)
+- [ActionArt: Advancing Multimodal Large Models for Fine-Grained Human-Centric Video Understanding](15.md)
+- [SmallGS: Gaussian Splatting-based Camera Pose Estimation for Small-Baseline Videos](14.md)
+- [STP4D: Spatio-Temporal-Prompt Consistent Modeling for Text-to-4D Gaussian Splatting](13.md)
 - [Unify3D: An Augmented Holistic End-to-end Monocular 3D Human Reconstruction via Anatomy Shaping and Twins Negotiating](12.md)
 - [SSD-Poser: Avatar Pose Estimation with State Space Duality from Sparse Observations](11.md)
 - [PIN-WM: Learning Physics-INformed World Models for Non-Prehensile Manipulation](10.md)

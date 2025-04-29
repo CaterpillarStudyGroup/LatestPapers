@@ -27,6 +27,6 @@
 |---|---|---|---|---|---|
 ||2025.4.28|SSD-Poser: Avatar Pose Estimation with State Space Duality from Sparse Observations|| |[link](11.md)|
 ||2025.4.28|Unify3D: An Augmented Holistic End-to-end Monocular 3D Human Reconstruction via Anatomy Shaping and Twins Negotiating|| |[link](12.md)|
-||2025.4.28|////|| |[link](13.md)|
-||2025.4.28|////|| |[link](14.md)|
-||2025.4.28|////|| |[link](15.md)|
+||2025.4.28|STP4D: Spatio-Temporal-Prompt Consistent Modeling for Text-to-4D Gaussian Splatting|| |[link](13.md)|
+||2025.4.28|SmallGS: Gaussian Splatting-based Camera Pose Estimation for Small-Baseline Videos|| |[link](14.md)|
+||2025.4.28|ActionArt: Advancing Multimodal Large Models for Fine-Grained Human-Centric Video Understanding|| |[link](15.md)|
