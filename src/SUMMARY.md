@@ -11,7 +11,7 @@
 - [3DV-TON](10.md)
 - [3DV-TON](9.md)
 - [3DV-TON](8.md)
-- [Dynamic Camera Poses and Where to Find Them](7.md)
+- [Physically Consistent Humanoid Loco-Manipulation using Latent Diffusion Models](7.md)
 - [PMG: Progressive Motion Generation via Sparse Anchor Postures Curriculum Learning](6.md)
 - [Unveiling Hidden Vulnerabilities in Digital Human Generation via Adversarial Attacks](5.md)
 - [PICO: Reconstructing 3D People In Contact with Objects](4.md)
