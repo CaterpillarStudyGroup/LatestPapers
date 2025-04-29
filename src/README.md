@@ -26,7 +26,7 @@
 |ID|Year|Name|Note|Tags|Link|
 |---|---|---|---|---|---|
 ||2025.4.28|SSD-Poser: Avatar Pose Estimation with State Space Duality from Sparse Observations|| |[link](11.md)|
-||2025.4.28|////|| |[link](12.md)|
+||2025.4.28|Unify3D: An Augmented Holistic End-to-end Monocular 3D Human Reconstruction via Anatomy Shaping and Twins Negotiating|| |[link](12.md)|
 ||2025.4.28|////|| |[link](13.md)|
 ||2025.4.28|////|| |[link](14.md)|
 ||2025.4.28|////|| |[link](15.md)|

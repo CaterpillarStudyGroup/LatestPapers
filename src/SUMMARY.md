@@ -6,7 +6,7 @@
 - [3DV-TON](15.md)
 - [3DV-TON](14.md)
 - [3DV-TON](13.md)
-- [3DV-TON](12.md)
+- [Unify3D: An Augmented Holistic End-to-end Monocular 3D Human Reconstruction via Anatomy Shaping and Twins Negotiating](12.md)
 - [SSD-Poser: Avatar Pose Estimation with State Space Duality from Sparse Observations](11.md)
 - [PIN-WM: Learning Physics-INformed World Models for Non-Prehensile Manipulation](10.md)
 - [Gaussian Splatting is an Effective Data Generator for 3D Object Detection](9.md)
