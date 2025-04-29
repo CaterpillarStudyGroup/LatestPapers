@@ -10,7 +10,7 @@
 - [3DV-TON](11.md)
 - [3DV-TON](10.md)
 - [3DV-TON](9.md)
-- [3DV-TON](8.md)
+- [HUG: Hierarchical Urban Gaussian Splatting with Block-Based Reconstruction](8.md)
 - [Physically Consistent Humanoid Loco-Manipulation using Latent Diffusion Models](7.md)
 - [PMG: Progressive Motion Generation via Sparse Anchor Postures Curriculum Learning](6.md)
 - [Unveiling Hidden Vulnerabilities in Digital Human Generation via Adversarial Attacks](5.md)
