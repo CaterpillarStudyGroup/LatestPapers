@@ -5,7 +5,7 @@
 - [  ](*.md)
 - [  ](25.md)
 - [  ](24.md)
-- [  ](23.md)
+- [SoccerDiffusion: Toward Learning End-to-End Humanoid Robot Soccer from Gameplay Recordings](23.md)
 - [TesserAct: Learning 4D Embodied World Models](22.md)
 - [EfficientHuman: Efficient Training and Reconstruction of Moving Human using Articulated 2D Gaussian](21.md)
 - [Joint Optimization of Neural Radiance Fields and Continuous Camera Motion from a Monocular Video](20.md)
