@@ -4,7 +4,7 @@
 
 - [  ](*.md)
 - [  ](25.md)
-- [  ](24.md)
+- [Creating Your Editable 3D Photorealistic Avatar with Tetrahedron-constrained Gaussian Splatting](24.md)
 - [SoccerDiffusion: Toward Learning End-to-End Humanoid Robot Soccer from Gameplay Recordings](23.md)
 - [TesserAct: Learning 4D Embodied World Models](22.md)
 - [EfficientHuman: Efficient Training and Reconstruction of Moving Human using Articulated 2D Gaussian](21.md)

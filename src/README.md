@@ -1,7 +1,7 @@
 |ID|Year|Name|Note|Tags|Link|
 |---|---|---|---|---|---|
 ||2025.4.29|J|| |[link](25.md)|
-||2025.4.29|J|| |[link](24.md)|
+||2025.4.29|Creating Your Editable 3D Photorealistic Avatar with Tetrahedron-constrained Gaussian Splatting || |[link](24.md)|
 ||2025.4.29|SoccerDiffusion: Toward Learning End-to-End Humanoid Robot Soccer from Gameplay Recordings|| |[link](23.md)|
 ||2025.4.29|TesserAct: Learning 4D Embodied World Models|| |[link](22.md)|
 ||2025.4.29|EfficientHuman: Efficient Training and Reconstruction of Moving Human using Articulated 2D Gaussian|| |[link](21.md)|
