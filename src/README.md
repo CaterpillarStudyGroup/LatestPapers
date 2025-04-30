@@ -3,7 +3,7 @@
 ||2025.4.29|J|| |[link](25.md)|
 ||2025.4.29|J|| |[link](24.md)|
 ||2025.4.29|J|| |[link](23.md)|
-||2025.4.29|J|| |[link](22.md)|
+||2025.4.29|TesserAct: Learning 4D Embodied World Models|| |[link](22.md)|
 ||2025.4.29|EfficientHuman: Efficient Training and Reconstruction of Moving Human using Articulated 2D Gaussian|| |[link](21.md)|
 ||2025.4.28|Joint Optimization of Neural Radiance Fields and Continuous Camera Motion from a Monocular Video|| |[link](20.md)|
 ||2025.4.28|AnimateAnywhere: Rouse the Background in Human Image Animation|| |[link](17.md)|
