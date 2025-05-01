@@ -1,6 +1,5 @@
 |ID|Year|Name|Note|Tags|Link|
 |---|---|---|---|---|---|
-||2025.4.29|ELatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision|| **音频驱动视频**|[link](26.md)|
 ||2025.4.29|Efficient Listener: Dyadic Facial Motion Synthesis via Action Diffusion|| Human Head Generation|[link](25.md)|
 ||2025.4.29|Creating Your Editable 3D Photorealistic Avatar with Tetrahedron-constrained Gaussian Splatting ||生成可编辑3D数字人|[link](24.md)|
 ||2025.4.29|SoccerDiffusion: Toward Learning End-to-End Humanoid Robot Soccer from Gameplay Recordings||踢足球仿真|[link](23.md)|
@@ -16,7 +15,7 @@
 ||2025.4.24|PICO: Reconstructing 3D People In Contact with Objects||人物交互3D重建|[link](4.md)|
 ||2025.4.23|PMG: Progressive Motion Generation via Sparse Anchor Postures Curriculum Learning||**更高控制精度和更精细的运动生成** |[link](6.md)|
 ||2025.4.23|PIN-WM: Learning Physics-INformed World Models for Non-Prehensile Manipulation|| 从视频数据中提取物理信息|[link](10.md)|
-
+||2025.3.13|LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision|| **音频驱动视频**|[link](26.md)|
 
 # Low
 
