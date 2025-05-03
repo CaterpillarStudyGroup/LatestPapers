@@ -15,6 +15,12 @@
 ||2025.4.24|PICO: Reconstructing 3D People In Contact with Objects||人物交互3D重建|[link](4.md)|
 ||2025.4.23|PMG: Progressive Motion Generation via Sparse Anchor Postures Curriculum Learning||**更高控制精度和更精细的运动生成** |[link](6.md)|
 ||2025.4.23|PIN-WM: Learning Physics-INformed World Models for Non-Prehensile Manipulation|| 从视频数据中提取物理信息|[link](10.md)|
+
+
+# 删除
+
+|ID|Year|Name|Note|Tags|Link|
+|---|---|---|---|---|---|
 ||2025.3.13|LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision|| **音频驱动视频**|[link](26.md)|
 
 # Low
