@@ -3,6 +3,12 @@
 # Abstract
 
 - [  ](*.md)
+- [  ](32.md)
+- [  ](31.md)
+- [  ](30.md)
+- [  ](29.md)
+- [  ](28.md)
+- [  ](27.md)
 - [LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision](26.md)
 - [Efficient Listener: Dyadic Facial Motion Synthesis via Action Diffusion](25.md)
 - [Creating Your Editable 3D Photorealistic Avatar with Tetrahedron-constrained Gaussian Splatting](24.md)
