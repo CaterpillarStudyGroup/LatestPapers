@@ -7,7 +7,7 @@
 - [  ](31.md)
 - [  ](30.md)
 - [  ](29.md)
-- [  ](28.md)
+- [MagicPortrait: Temporally Consistent Face Reenactment with 3D Geometric Guidance](28.md)
 - [ReVision: High-Quality, Low-Cost Video Generation with Explicit 3D Physics Modeling for Complex Motion and Interaction](27.md)
 - [LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision](26.md)
 - [Efficient Listener: Dyadic Facial Motion Synthesis via Action Diffusion](25.md)
