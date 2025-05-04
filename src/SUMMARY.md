@@ -4,9 +4,9 @@
 
 - [  ](*.md)
 - [  ](32.md)
-- [  ](31.md)
-- [  ](30.md)
-- [  ](29.md)
+- [CoCoDiff: Diversifying Skeleton Action Features via Coarse-Fine Text-Co-Guided Latent Diffusion](31.md)
+- [Common3D: Self-Supervised Learning of 3D Morphable Models for Common Objects in Neural Feature Space](30.md)
+- [HoloTime: Taming Video Diffusion Models for Panoramic 4D Scene Generation](29.md)
 - [MagicPortrait: Temporally Consistent Face Reenactment with 3D Geometric Guidance](28.md)
 - [ReVision: High-Quality, Low-Cost Video Generation with Explicit 3D Physics Modeling for Complex Motion and Interaction](27.md)
 - [LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision](26.md)
