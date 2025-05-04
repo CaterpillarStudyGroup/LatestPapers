@@ -8,7 +8,7 @@
 - [  ](30.md)
 - [  ](29.md)
 - [  ](28.md)
-- [  ](27.md)
+- [ReVision: High-Quality, Low-Cost Video Generation with Explicit 3D Physics Modeling for Complex Motion and Interaction](27.md)
 - [LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision](26.md)
 - [Efficient Listener: Dyadic Facial Motion Synthesis via Action Diffusion](25.md)
 - [Creating Your Editable 3D Photorealistic Avatar with Tetrahedron-constrained Gaussian Splatting](24.md)
