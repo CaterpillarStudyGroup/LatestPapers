@@ -5,7 +5,7 @@
 - [  ](*.md)
 - [  ](41.md)
 - [  ](40.md)
-- [  ](39.md)
+- [Deterministic-to-Stochastic Diverse Latent Feature Mapping for Human Motion Synthesis](39.md)
 - [TSTMotion: Training-free Scene-awarenText-to-motion Generation](38.md)
 - [GENMO: A GENeralist Model for Human MOtion](37.md)
 - [JointDiT: Enhancing RGB-Depth Joint Modeling with Diffusion Transformers](36.md)
