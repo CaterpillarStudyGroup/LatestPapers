@@ -1,5 +1,16 @@
 |ID|Year|Name|Note|Tags|Link|
 |---|---|---|---|---|---|
+||2025.4.30|**||  |[link](28.md)|
+||2025.5.1|JointDiT: Enhancing RGB-Depth Joint Modeling with Diffusion Transformers||  |[link](36.md)|
+||2025.5.1|T2VPhysBench: A First-Principles Benchmark for Physical Consistency in Text-to-Video Generation||  |[link](34.md)|
+||2025.5.1|Direct Motion Models for Assessing Generated Videos||  |[link](33.md)|
+||2025.5.1|Real-Time Animatable 2DGS-Avatars with Detail Enhancement from Monocular Videos||  |[link](32.md)|
+||2025.4.30|Eye2Eye: A Simple Approach for Monocular-to-Stereo Video Synthesis||  |[link](35.md)|
+||2025.4.30|CoCoDiff: Diversifying Skeleton Action Features via Coarse-Fine Text-Co-Guided Latent Diffusion||  |[link](31.md)|
+||2025.4.30|Common3D: Self-Supervised Learning of 3D Morphable Models for Common Objects in Neural Feature Space||  |[link](30.md)|
+||2025.4.30|HoloTime: Taming Video Diffusion Models for Panoramic 4D Scene Generation||  |[link](29.md)|
+||2025.4.30|MagicPortrait: Temporally Consistent Face Reenactment with 3D Geometric Guidance||  |[link](28.md)|
+||2025.4.30|ReVision: High-Quality, Low-Cost Video Generation with Explicit 3D Physics Modeling for Complex Motion and Interaction||  |[link](27.md)|
 ||2025.4.29|Efficient Listener: Dyadic Facial Motion Synthesis via Action Diffusion|| Human Head Generation|[link](25.md)|
 ||2025.4.29|Creating Your Editable 3D Photorealistic Avatar with Tetrahedron-constrained Gaussian Splatting ||生成可编辑3D数字人|[link](24.md)|
 ||2025.4.29|SoccerDiffusion: Toward Learning End-to-End Humanoid Robot Soccer from Gameplay Recordings||踢足球仿真|[link](23.md)|
@@ -16,12 +27,6 @@
 ||2025.4.23|PMG: Progressive Motion Generation via Sparse Anchor Postures Curriculum Learning||**更高控制精度和更精细的运动生成** |[link](6.md)|
 ||2025.4.23|PIN-WM: Learning Physics-INformed World Models for Non-Prehensile Manipulation|| 从视频数据中提取物理信息|[link](10.md)|
 
-
-# 删除
-
-|ID|Year|Name|Note|Tags|Link|
-|---|---|---|---|---|---|
-||2025.3.13|LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision|| **音频驱动视频**|[link](26.md)|
 
 # Low
 

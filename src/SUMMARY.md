@@ -13,7 +13,6 @@
 - [HoloTime: Taming Video Diffusion Models for Panoramic 4D Scene Generation](29.md)
 - [MagicPortrait: Temporally Consistent Face Reenactment with 3D Geometric Guidance](28.md)
 - [ReVision: High-Quality, Low-Cost Video Generation with Explicit 3D Physics Modeling for Complex Motion and Interaction](27.md)
-- [LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision](26.md)
 - [Efficient Listener: Dyadic Facial Motion Synthesis via Action Diffusion](25.md)
 - [Creating Your Editable 3D Photorealistic Avatar with Tetrahedron-constrained Gaussian Splatting](24.md)
 - [SoccerDiffusion: Toward Learning End-to-End Humanoid Robot Soccer from Gameplay Recordings](23.md)
