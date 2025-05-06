@@ -1,25 +1,22 @@
 |ID|Year|Name|Note|Tags|Link|
 |---|---|---|---|---|---|
-||2025.5.4|DualReal: Adaptive Joint Training for Lossless Identity-Motion Fusion in Video Customization||  |[link](46.md)|
-||2025.5.4|SignSplat: Rendering Sign Language via Gaussian Splatting||  |[link](45.md)|
-||2025.5.3|MVHumanNet++: A Large-scale Dataset of Multi-view Daily Dressing Human Captures with Richer Annotations for 3D Human Digitization ||  |[link](44.md)|
-||2025.5.3|Co$^{3}$Gesture: Towards Coherent Concurrent Co-speech 3D Gesture Generation with Interactive Diffusion||  |[link](43.md)|
-||2025.5.3|Efficient 3D Full-Body Motion Generation from Sparse Tracking Inputs with Temporal Windows||  |[link](42.md)|
-||2025.5.2|Model See Model Do: Speech-Driven Facial Animation with Style Control||  |[link](41.md)|
-||2025.5.2|3D Human Pose Estimation via Spatial Graph Order Attention and Temporal Body Aware Transformer||  |[link](40.md)|
-||2025.5.2|Deterministic-to-Stochastic Diverse Latent Feature Mapping for Human Motion Synthesis||  |[link](39.md)|
-||2025.5.2|TSTMotion: Training-free Scene-awarenText-to-motion Generation||  |[link](38.md)|
-||2025.5.2|GENMO: A GENeralist Model for Human MOtion||  |[link](37.md)|
-||2025.5.1|JointDiT: Enhancing RGB-Depth Joint Modeling with Diffusion Transformers||  |[link](36.md)|
-||2025.5.1|T2VPhysBench: A First-Principles Benchmark for Physical Consistency in Text-to-Video Generation||  |[link](34.md)|
-||2025.5.1|Direct Motion Models for Assessing Generated Videos||  |[link](33.md)|
-||2025.5.1|Real-Time Animatable 2DGS-Avatars with Detail Enhancement from Monocular Videos||  |[link](32.md)|
-||2025.4.30|Eye2Eye: A Simple Approach for Monocular-to-Stereo Video Synthesis||  |[link](35.md)|
-||2025.4.30|CoCoDiff: Diversifying Skeleton Action Features via Coarse-Fine Text-Co-Guided Latent Diffusion||  |[link](31.md)|
-||2025.4.30|Common3D: Self-Supervised Learning of 3D Morphable Models for Common Objects in Neural Feature Space||  |[link](30.md)|
-||2025.4.30|HoloTime: Taming Video Diffusion Models for Panoramic 4D Scene Generation||  |[link](29.md)|
-||2025.4.30|MagicPortrait: Temporally Consistent Face Reenactment with 3D Geometric Guidance||  |[link](28.md)|
-||2025.4.30|ReVision: High-Quality, Low-Cost Video Generation with Explicit 3D Physics Modeling for Complex Motion and Interaction||  |[link](27.md)|
+||2025.5.4|DualReal: Adaptive Joint Training for Lossless Identity-Motion Fusion in Video Customization|| 文生视频 |[link](46.md)|
+||2025.5.4|SignSplat: Rendering Sign Language via Gaussian Splatting|| 3DGS，细微动作重建 |[link](45.md)|
+||2025.5.3|MVHumanNet++: A Large-scale Dataset of Multi-view Daily Dressing Human Captures with Richer Annotations for 3D Human Digitization || 数据集，多视角人体动作序列 |[link](44.md)|
+||2025.5.2|**Model See Model Do: Speech-Driven Facial Animation with Style Control**|| 语音驱动，唇形同步，风格 |[link](41.md)|
+||2025.5.2|3D Human Pose Estimation via Spatial Graph Order Attention and Temporal Body Aware Transformer|| 动捕 |[link](40.md)|
+||2025.5.2|**Deterministic-to-Stochastic Diverse Latent Feature Mapping for Human Motion Synthesis**|| 人体动作生成 |[link](39.md)|
+||2025.5.2|**TSTMotion: Training-free Scene-awarenText-to-motion Generation**|| 场景感知，文生动作 |[link](38.md)|
+||2025.5.2|**GENMO: A GENeralist Model for Human MOtion**||  人体运动通用模型，动作估计，动作生成|[link](37.md)|
+||2025.5.1|T2VPhysBench: A First-Principles Benchmark for Physical Consistency in Text-to-Video Generation|| 文生视频，物理，评估 |[link](34.md)|
+||2025.5.1|Direct Motion Models for Assessing Generated Videos|| 视频生成评价指标，物体交互，运动质量 |[link](33.md)|
+||2025.5.1|**Real-Time Animatable 2DGS-Avatars with Detail Enhancement from Monocular Videos**|| 2DGS,SMPL,人体重建 |[link](32.md)|
+||2025.4.30|**Eye2Eye: A Simple Approach for Monocular-to-Stereo Video Synthesis**|| 文生3D视频 |[link](35.md)|
+||2025.4.30|CoCoDiff: Diversifying Skeleton Action Features via Coarse-Fine Text-Co-Guided Latent Diffusion|| 3D动作的特征多样性 |[link](31.md)|
+||2025.4.30|Common3D: Self-Supervised Learning of 3D Morphable Models for Common Objects in Neural Feature Space|| 3DMM泛化到常见物体 |[link](30.md)|
+||2025.4.30|HoloTime: Taming Video Diffusion Models for Panoramic 4D Scene Generation|| 4D场景生成 |[link](29.md)|
+||2025.4.30|MagicPortrait: Temporally Consistent Face Reenactment with 3D Geometric Guidance|| 视频人脸驱动，FLAME |[link](28.md)|
+||2025.4.30|**ReVision: High-Quality, Low-Cost Video Generation with Explicit 3D Physics Modeling for Complex Motion and Interaction**||视频生成，物理  |[link](27.md)|
 ||2025.4.29|Efficient Listener: Dyadic Facial Motion Synthesis via Action Diffusion|| Human Head Generation|[link](25.md)|
 ||2025.4.29|Creating Your Editable 3D Photorealistic Avatar with Tetrahedron-constrained Gaussian Splatting ||生成可编辑3D数字人|[link](24.md)|
 ||2025.4.29|SoccerDiffusion: Toward Learning End-to-End Humanoid Robot Soccer from Gameplay Recordings||踢足球仿真|[link](23.md)|
@@ -41,6 +38,9 @@
 
 |ID|Year|Name|Note|Tags|Link|
 |---|---|---|---|---|---|
+||2025.5.3|Co$^{3}$Gesture: Towards Coherent Concurrent Co-speech 3D Gesture Generation with Interactive Diffusion|| 语音生成手势、双人交互、数据集 |[link](43.md)|
+||2025.5.3|Efficient 3D Full-Body Motion Generation from Sparse Tracking Inputs with Temporal Windows|| 稀疏输入，动作生成 |[link](42.md)|
+||2025.5.1|JointDiT: Enhancing RGB-Depth Joint Modeling with Diffusion Transformers|| RGB图像与深度图进行联合生成 |[link](36.md)|
 ||2025.4.29|TesserAct: Learning 4D Embodied World Models||4D场景重建 |[link](22.md)|
 ||2025.4.28|AnimateAnywhere: Rouse the Background in Human Image Animation|| 基于人体视频生成运行背景|[link](17.md)|
 ||2025.4.25|Unify3D: An Augmented Holistic End-to-end Monocular 3D Human Reconstruction via Anatomy Shaping and Twins Negotiating|| 单目三维穿衣人体重建|[link](12.md)|
