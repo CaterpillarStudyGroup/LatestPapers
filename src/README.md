@@ -2,7 +2,7 @@
 |---|---|---|---|---|---|
 ||2025.5.2|**||  |[link](**.md)|
 ||2025.5.2|**||  |[link](**.md)|
-||2025.5.2|**||  |[link](**.md)|
+||2025.5.2|3D Human Pose Estimation via Spatial Graph Order Attention and Temporal Body Aware Transformer||  |[link](40.md)|
 ||2025.5.2|Deterministic-to-Stochastic Diverse Latent Feature Mapping for Human Motion Synthesis||  |[link](39.md)|
 ||2025.5.2|TSTMotion: Training-free Scene-awarenText-to-motion Generation||  |[link](38.md)|
 ||2025.5.2|GENMO: A GENeralist Model for Human MOtion||  |[link](37.md)|

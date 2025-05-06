@@ -4,7 +4,7 @@
 
 - [  ](*.md)
 - [  ](41.md)
-- [  ](40.md)
+- [3D Human Pose Estimation via Spatial Graph Order Attention and Temporal Body Aware Transformer](40.md)
 - [Deterministic-to-Stochastic Diverse Latent Feature Mapping for Human Motion Synthesis](39.md)
 - [TSTMotion: Training-free Scene-awarenText-to-motion Generation](38.md)
 - [GENMO: A GENeralist Model for Human MOtion](37.md)
