@@ -1,6 +1,10 @@
 |ID|Year|Name|Note|Tags|Link|
 |---|---|---|---|---|---|
-||2025.5.2|**||  |[link](**.md)|
+||2025.5.4|DualReal: Adaptive Joint Training for Lossless Identity-Motion Fusion in Video Customization||  |[link](46.md)|
+||2025.5.4|SignSplat: Rendering Sign Language via Gaussian Splatting||  |[link](45.md)|
+||2025.5.3|MVHumanNet++: A Large-scale Dataset of Multi-view Daily Dressing Human Captures with Richer Annotations for 3D Human Digitization ||  |[link](44.md)|
+||2025.5.3|Co$^{3}$Gesture: Towards Coherent Concurrent Co-speech 3D Gesture Generation with Interactive Diffusion||  |[link](43.md)|
+||2025.5.3|Efficient 3D Full-Body Motion Generation from Sparse Tracking Inputs with Temporal Windows||  |[link](42.md)|
 ||2025.5.2|Model See Model Do: Speech-Driven Facial Animation with Style Control||  |[link](41.md)|
 ||2025.5.2|3D Human Pose Estimation via Spatial Graph Order Attention and Temporal Body Aware Transformer||  |[link](40.md)|
 ||2025.5.2|Deterministic-to-Stochastic Diverse Latent Feature Mapping for Human Motion Synthesis||  |[link](39.md)|

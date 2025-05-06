@@ -3,11 +3,11 @@
 # Abstract
 
 - [  ](*.md)
-- [  ](46.md)
-- [  ](45.md)
-- [  ](44.md)
-- [  ](43.md)
-- [  ](42.md)
+- [DualReal: Adaptive Joint Training for Lossless Identity-Motion Fusion in Video Customization](46.md)
+- [SignSplat: Rendering Sign Language via Gaussian Splatting](45.md)
+- [MVHumanNet++: A Large-scale Dataset of Multi-view Daily Dressing Human Captures with Richer Annotations for 3D Human Digitization ](44.md)
+- [Co$^{3}$Gesture: Towards Coherent Concurrent Co-speech 3D Gesture Generation with Interactive Diffusion](43.md)
+- [Efficient 3D Full-Body Motion Generation from Sparse Tracking Inputs with Temporal Windows](42.md)
 - [Model See Model Do: Speech-Driven Facial Animation with Style Control](41.md)
 - [3D Human Pose Estimation via Spatial Graph Order Attention and Temporal Body Aware Transformer](40.md)
 - [Deterministic-to-Stochastic Diverse Latent Feature Mapping for Human Motion Synthesis](39.md)
