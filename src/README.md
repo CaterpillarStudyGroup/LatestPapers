@@ -1,6 +1,11 @@
 |ID|Year|Name|Note|Tags|Link|
 |---|---|---|---|---|---|
-||2025.4.30|**||  |[link](28.md)|
+||2025.5.2|**||  |[link](**.md)|
+||2025.5.2|**||  |[link](**.md)|
+||2025.5.2|**||  |[link](**.md)|
+||2025.5.2|**||  |[link](**.md)|
+||2025.5.2|TSTMotion: Training-free Scene-awarenText-to-motion Generation||  |[link](38.md)|
+||2025.5.2|GENMO: A GENeralist Model for Human MOtion||  |[link](37.md)|
 ||2025.5.1|JointDiT: Enhancing RGB-Depth Joint Modeling with Diffusion Transformers||  |[link](36.md)|
 ||2025.5.1|T2VPhysBench: A First-Principles Benchmark for Physical Consistency in Text-to-Video Generation||  |[link](34.md)|
 ||2025.5.1|Direct Motion Models for Assessing Generated Videos||  |[link](33.md)|
