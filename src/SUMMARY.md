@@ -3,6 +3,11 @@
 # Abstract
 
 - [  ](*.md)
+- [FlexiAct: Towards Flexible Action Control in Heterogeneous Scenarios](51.md)
+- [Real-Time Person Image Synthesis Using a Flow Matching Model](50.md)
+- [Polar Coordinate-Based 2D Pose Prior with Neural Distance Field](49.md)
+- [PAHA: Parts-Aware Audio-Driven Human Animation with Diffusion Model](48.md)
+- [GUAVA: Generalizable Upper Body 3D Gaussian Avatar](47.md)
 - [DualReal: Adaptive Joint Training for Lossless Identity-Motion Fusion in Video Customization](46.md)
 - [SignSplat: Rendering Sign Language via Gaussian Splatting](45.md)
 - [MVHumanNet++: A Large-scale Dataset of Multi-view Daily Dressing Human Captures with Richer Annotations for 3D Human Digitization ](44.md)
