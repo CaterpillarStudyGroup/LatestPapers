@@ -10,7 +10,6 @@
 ||2025.5.3|MVHumanNet++: A Large-scale Dataset of Multi-view Daily Dressing Human Captures with Richer Annotations for 3D Human Digitization || 数据集，多视角人体动作序列 |[link](44.md)|
 ||2025.5.2|**Model See Model Do: Speech-Driven Facial Animation with Style Control**|| 语音驱动，唇形同步，风格 |[link](41.md)|
 ||2025.5.2|3D Human Pose Estimation via Spatial Graph Order Attention and Temporal Body Aware Transformer|| 动捕 |[link](40.md)|
-||2025.5.2|**Deterministic-to-Stochastic Diverse Latent Feature Mapping for Human Motion Synthesis**|| 人体动作生成 |[link](39.md)|
 ||2025.5.2|**TSTMotion: Training-free Scene-awarenText-to-motion Generation**|| 场景感知，文生动作 |[link](38.md)|
 ||2025.5.2|**GENMO: A GENeralist Model for Human MOtion**||  人体运动通用模型，动作估计，动作生成|[link](37.md)|
 ||2025.5.1|T2VPhysBench: A First-Principles Benchmark for Physical Consistency in Text-to-Video Generation|| 文生视频，物理，评估 |[link](34.md)|
@@ -38,6 +37,11 @@
 ||2025.4.23|PMG: Progressive Motion Generation via Sparse Anchor Postures Curriculum Learning||**更高控制精度和更精细的运动生成** |[link](6.md)|
 ||2025.4.23|PIN-WM: Learning Physics-INformed World Models for Non-Prehensile Manipulation|| 从视频数据中提取物理信息|[link](10.md)|
 
+# 删除
+
+|ID|Year|Name|Note|Tags|Link|
+|---|---|---|---|---|---|
+||2025.5.2|**Deterministic-to-Stochastic Diverse Latent Feature Mapping for Human Motion Synthesis**|| 人体动作生成 |[link](39.md)|
 
 # Low
 
