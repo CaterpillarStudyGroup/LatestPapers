@@ -21,7 +21,6 @@
 - [Efficient 3D Full-Body Motion Generation from Sparse Tracking Inputs with Temporal Windows](42.md)
 - [Model See Model Do: Speech-Driven Facial Animation with Style Control](41.md)
 - [3D Human Pose Estimation via Spatial Graph Order Attention and Temporal Body Aware Transformer](40.md)
-- [Deterministic-to-Stochastic Diverse Latent Feature Mapping for Human Motion Synthesis](39.md)
 - [TSTMotion: Training-free Scene-awarenText-to-motion Generation](38.md)
 - [GENMO: A GENeralist Model for Human MOtion](37.md)
 - [JointDiT: Enhancing RGB-Depth Joint Modeling with Diffusion Transformers](36.md)

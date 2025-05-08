@@ -43,11 +43,7 @@
 ||2025.4.23|PMG: Progressive Motion Generation via Sparse Anchor Postures Curriculum Learning||**更高控制精度和更精细的运动生成** |[link](6.md)|
 ||2025.4.23|PIN-WM: Learning Physics-INformed World Models for Non-Prehensile Manipulation|| 从视频数据中提取物理信息|[link](10.md)|
 
-# 删除
 
-|ID|Year|Name|Note|Tags|Link|
-|---|---|---|---|---|---|
-||2025.5.2|**Deterministic-to-Stochastic Diverse Latent Feature Mapping for Human Motion Synthesis**|| 人体动作生成 |[link](39.md)|
 
 # Low
 
