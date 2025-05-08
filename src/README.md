@@ -1,6 +1,5 @@
 |ID|Year|Name|Note|Tags|Link|
 |---|---|---|---|---|---|
-||2025.5.7|TokenHSI: Unified Synthesis of Physical Human-Scene Interactions through Task Tokenization||   |[link](57.md)|
 ||2025.5.7|ELGAR: Expressive Cello Performance Motion Generation for Audio Rendition||   |[link](56.md)|
 ||2025.5.7|PARC: Physics-based Augmentation with Reinforcement Learning for Character Controllers||   |[link](55.md)|
 ||2025.5.7|Person-In-Situ: Scene-Consistent Human Image Insertion with Occlusion-Aware Pose Control||   |[link](54.md)|
@@ -13,6 +12,7 @@
 ||2025.5.6|GUAVA: Generalizable Upper Body 3D Gaussian Avatar||人体模型、上半身高斯重建   |[link](47.md)|
 ||2025.5.4|DualReal: Adaptive Joint Training for Lossless Identity-Motion Fusion in Video Customization|| 文生视频 |[link](46.md)|
 ||2025.5.4|SignSplat: Rendering Sign Language via Gaussian Splatting|| 3DGS，细微动作重建 |[link](45.md)|
+||2025.5.3|TokenHSI: Unified Synthesis of Physical Human-Scene Interactions through Task Tokenization||   |[link](57.md)|
 ||2025.5.3|MVHumanNet++: A Large-scale Dataset of Multi-view Daily Dressing Human Captures with Richer Annotations for 3D Human Digitization || 数据集，多视角人体动作序列 |[link](44.md)|
 ||2025.5.2|**Model See Model Do: Speech-Driven Facial Animation with Style Control**|| 语音驱动，唇形同步，风格 |[link](41.md)|
 ||2025.5.2|3D Human Pose Estimation via Spatial Graph Order Attention and Temporal Body Aware Transformer|| 动捕 |[link](40.md)|
