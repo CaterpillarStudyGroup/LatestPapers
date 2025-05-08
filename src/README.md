@@ -1,10 +1,10 @@
 |ID|Year|Name|Note|Tags|Link|
 |---|---|---|---|---|---|
-||2025.5.6|FlexiAct: Towards Flexible Action Control in Heterogeneous Scenarios||   |[link](51.md)|
-||2025.5.6|Real-Time Person Image Synthesis Using a Flow Matching Model||   |[link](50.md)|
-||2025.5.6|Polar Coordinate-Based 2D Pose Prior with Neural Distance Field||   |[link](49.md)|
-||2025.5.6|PAHA: Parts-Aware Audio-Driven Human Animation with Diffusion Model||   |[link](48.md)|
-||2025.5.6|GUAVA: Generalizable Upper Body 3D Gaussian Avatar||   |[link](47.md)|
+||2025.5.6|**FlexiAct: Towards Flexible Action Control in Heterogeneous Scenarios**||  姿势引导视频合成 |[link](51.md)|
+||2025.5.6|Real-Time Person Image Synthesis Using a Flow Matching Model|| 姿势引导人物图像合成， flow matching  |[link](50.md)|
+||2025.5.6|Polar Coordinate-Based 2D Pose Prior with Neural Distance Field|| 动捕  |[link](49.md)|
+||2025.5.6|PAHA: Parts-Aware Audio-Driven Human Animation with Diffusion Model|| 音频驱动上半身人体动画  |[link](48.md)|
+||2025.5.6|GUAVA: Generalizable Upper Body 3D Gaussian Avatar||人体模型、上半身高斯重建   |[link](47.md)|
 ||2025.5.4|DualReal: Adaptive Joint Training for Lossless Identity-Motion Fusion in Video Customization|| 文生视频 |[link](46.md)|
 ||2025.5.4|SignSplat: Rendering Sign Language via Gaussian Splatting|| 3DGS，细微动作重建 |[link](45.md)|
 ||2025.5.3|MVHumanNet++: A Large-scale Dataset of Multi-view Daily Dressing Human Captures with Richer Annotations for 3D Human Digitization || 数据集，多视角人体动作序列 |[link](44.md)|
