@@ -3,6 +3,7 @@
 # Abstract
 
 - [  ](*.md)
+- [TokenHSI: Unified Synthesis of Physical Human-Scene Interactions through Task Tokenization](57.md)
 - [ELGAR: Expressive Cello Performance Motion Generation for Audio Rendition](56.md)
 - [PARC: Physics-based Augmentation with Reinforcement Learning for Character Controllers](55.md)
 - [Person-In-Situ: Scene-Consistent Human Image Insertion with Occlusion-Aware Pose Control](54.md)

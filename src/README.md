@@ -1,5 +1,11 @@
 |ID|Year|Name|Note|Tags|Link|
 |---|---|---|---|---|---|
+||2025.5.7|TokenHSI: Unified Synthesis of Physical Human-Scene Interactions through Task Tokenization||   |[link](57.md)|
+||2025.5.7|ELGAR: Expressive Cello Performance Motion Generation for Audio Rendition||   |[link](56.md)|
+||2025.5.7|PARC: Physics-based Augmentation with Reinforcement Learning for Character Controllers||   |[link](55.md)|
+||2025.5.7|Person-In-Situ: Scene-Consistent Human Image Insertion with Occlusion-Aware Pose Control||   |[link](54.md)|
+||2025.5.7|PrimitiveAnything: Human-Crafted 3D Primitive Assembly Generation with Auto-Regressive Transformer||   |[link](53.md)|
+||2025.5.7|Bridging Geometry-Coherent Text-to-3D Generation with Multi-View Diffusion Priors and Gaussian Splatting||   |[link](52.md)|
 ||2025.5.6|**FlexiAct: Towards Flexible Action Control in Heterogeneous Scenarios**||  姿势引导视频合成 |[link](51.md)|
 ||2025.5.6|Real-Time Person Image Synthesis Using a Flow Matching Model|| 姿势引导人物图像合成， flow matching  |[link](50.md)|
 ||2025.5.6|Polar Coordinate-Based 2D Pose Prior with Neural Distance Field|| 动捕  |[link](49.md)|
