@@ -3,11 +3,11 @@
 # Abstract
 
 - [  ](*.md)
-- [  ](56.md)
-- [  ](55.md)
-- [  ](54.md)
-- [  ](53.md)
-- [  ](52.md)
+- [ELGAR: Expressive Cello Performance Motion Generation for Audio Rendition](56.md)
+- [PARC: Physics-based Augmentation with Reinforcement Learning for Character Controllers](55.md)
+- [Person-In-Situ: Scene-Consistent Human Image Insertion with Occlusion-Aware Pose Control](54.md)
+- [PrimitiveAnything: Human-Crafted 3D Primitive Assembly Generation with Auto-Regressive Transformer](53.md)
+- [Bridging Geometry-Coherent Text-to-3D Generation with Multi-View Diffusion Priors and Gaussian Splatting](52.md)
 - [FlexiAct: Towards Flexible Action Control in Heterogeneous Scenarios](51.md)
 - [Real-Time Person Image Synthesis Using a Flow Matching Model](50.md)
 - [Polar Coordinate-Based 2D Pose Prior with Neural Distance Field](49.md)
