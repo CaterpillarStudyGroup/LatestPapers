@@ -3,11 +3,11 @@
 # Abstract
 
 - [  ](*.md)
-- [  ](62.md)
-- [  ](61.md)
-- [  ](60.md)
-- [  ](59.md)
-- [  ](58.md)
+- [3D Scene Generation: A Survey](62.md)
+- [SVAD: From Single Image to 3D Avatar via Synthetic Data Generation with Video Diffusion and Data Augmentation](61.md)
+- [SOAP: Style-Omniscient Animatable Portraits](60.md)
+- [ReAlign: Bilingual Text-to-Motion Generation via Step-Aware Reward-Guided Alignment](59.md)
+- [MeshGen: Generating PBR Textured Mesh with Render-Enhanced Auto-Encoder and Generative Data Augmentation](58.md)
 - [TokenHSI: Unified Synthesis of Physical Human-Scene Interactions through Task Tokenization](57.md)
 - [ELGAR: Expressive Cello Performance Motion Generation for Audio Rendition](56.md)
 - [PARC: Physics-based Augmentation with Reinforcement Learning for Character Controllers](55.md)
