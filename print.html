@@ -1,0 +1,390 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Latest Paper</title>
+        <meta name="robots" content="noindex" />
+        <!-- Custom HTML head -->
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="The note of Latest Articles">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        <link rel="icon" href="favicon.svg">
+        <link rel="shortcut icon" href="favicon.png">
+        <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+        <link rel="stylesheet" href="css/print.css" media="print">
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="fonts/fonts.css">
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+        <link rel="stylesheet" href="theme/pagetoc.css">
+        <!-- MathJax -->
+        <script async type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded affix "><a href="index.html">Introduction</a></li><li class="chapter-item expanded affix "><li class="part-title">Abstract</li><li class="chapter-item expanded "><a href="*.html"><strong aria-hidden="true">1.</strong> </a></li><li class="chapter-item expanded "><a href="62.html"><strong aria-hidden="true">2.</strong> 3D Scene Generation: A Survey</a></li><li class="chapter-item expanded "><a href="61.html"><strong aria-hidden="true">3.</strong> SVAD: From Single Image to 3D Avatar via Synthetic Data Generation with Video Diffusion and Data Augmentation</a></li><li class="chapter-item expanded "><a href="60.html"><strong aria-hidden="true">4.</strong> SOAP: Style-Omniscient Animatable Portraits</a></li><li class="chapter-item expanded "><a href="59.html"><strong aria-hidden="true">5.</strong> ReAlign: Bilingual Text-to-Motion Generation via Step-Aware Reward-Guided Alignment</a></li><li class="chapter-item expanded "><a href="58.html"><strong aria-hidden="true">6.</strong> MeshGen: Generating PBR Textured Mesh with Render-Enhanced Auto-Encoder and Generative Data Augmentation</a></li><li class="chapter-item expanded "><a href="57.html"><strong aria-hidden="true">7.</strong> TokenHSI: Unified Synthesis of Physical Human-Scene Interactions through Task Tokenization</a></li><li class="chapter-item expanded "><a href="56.html"><strong aria-hidden="true">8.</strong> ELGAR: Expressive Cello Performance Motion Generation for Audio Rendition</a></li><li class="chapter-item expanded "><a href="55.html"><strong aria-hidden="true">9.</strong> PARC: Physics-based Augmentation with Reinforcement Learning for Character Controllers</a></li><li class="chapter-item expanded "><a href="54.html"><strong aria-hidden="true">10.</strong> Person-In-Situ: Scene-Consistent Human Image Insertion with Occlusion-Aware Pose Control</a></li><li class="chapter-item expanded "><a href="53.html"><strong aria-hidden="true">11.</strong> PrimitiveAnything: Human-Crafted 3D Primitive Assembly Generation with Auto-Regressive Transformer</a></li><li class="chapter-item expanded "><a href="52.html"><strong aria-hidden="true">12.</strong> Bridging Geometry-Coherent Text-to-3D Generation with Multi-View Diffusion Priors and Gaussian Splatting</a></li><li class="chapter-item expanded "><a href="51.html"><strong aria-hidden="true">13.</strong> FlexiAct: Towards Flexible Action Control in Heterogeneous Scenarios</a></li><li class="chapter-item expanded "><a href="50.html"><strong aria-hidden="true">14.</strong> Real-Time Person Image Synthesis Using a Flow Matching Model</a></li><li class="chapter-item expanded "><a href="49.html"><strong aria-hidden="true">15.</strong> Polar Coordinate-Based 2D Pose Prior with Neural Distance Field</a></li><li class="chapter-item expanded "><a href="48.html"><strong aria-hidden="true">16.</strong> PAHA: Parts-Aware Audio-Driven Human Animation with Diffusion Model</a></li><li class="chapter-item expanded "><a href="47.html"><strong aria-hidden="true">17.</strong> GUAVA: Generalizable Upper Body 3D Gaussian Avatar</a></li><li class="chapter-item expanded "><a href="46.html"><strong aria-hidden="true">18.</strong> DualReal: Adaptive Joint Training for Lossless Identity-Motion Fusion in Video Customization</a></li><li class="chapter-item expanded "><a href="45.html"><strong aria-hidden="true">19.</strong> SignSplat: Rendering Sign Language via Gaussian Splatting</a></li><li class="chapter-item expanded "><a href="44.html"><strong aria-hidden="true">20.</strong> MVHumanNet++: A Large-scale Dataset of Multi-view Daily Dressing Human Captures with Richer Annotations for 3D Human Digitization </a></li><li class="chapter-item expanded "><a href="43.html"><strong aria-hidden="true">21.</strong> Co$^{3}$Gesture: Towards Coherent Concurrent Co-speech 3D Gesture Generation with Interactive Diffusion</a></li><li class="chapter-item expanded "><a href="42.html"><strong aria-hidden="true">22.</strong> Efficient 3D Full-Body Motion Generation from Sparse Tracking Inputs with Temporal Windows</a></li><li class="chapter-item expanded "><a href="41.html"><strong aria-hidden="true">23.</strong> Model See Model Do: Speech-Driven Facial Animation with Style Control</a></li><li class="chapter-item expanded "><a href="40.html"><strong aria-hidden="true">24.</strong> 3D Human Pose Estimation via Spatial Graph Order Attention and Temporal Body Aware Transformer</a></li><li class="chapter-item expanded "><a href="38.html"><strong aria-hidden="true">25.</strong> TSTMotion: Training-free Scene-awarenText-to-motion Generation</a></li><li class="chapter-item expanded "><a href="37.html"><strong aria-hidden="true">26.</strong> GENMO: A GENeralist Model for Human MOtion</a></li><li class="chapter-item expanded "><a href="36.html"><strong aria-hidden="true">27.</strong> JointDiT: Enhancing RGB-Depth Joint Modeling with Diffusion Transformers</a></li><li class="chapter-item expanded "><a href="35.html"><strong aria-hidden="true">28.</strong> Eye2Eye: A Simple Approach for Monocular-to-Stereo Video Synthesis</a></li><li class="chapter-item expanded "><a href="34.html"><strong aria-hidden="true">29.</strong> T2VPhysBench: A First-Principles Benchmark for Physical Consistency in Text-to-Video Generation</a></li><li class="chapter-item expanded "><a href="33.html"><strong aria-hidden="true">30.</strong> Direct Motion Models for Assessing Generated Videos</a></li><li class="chapter-item expanded "><a href="32.html"><strong aria-hidden="true">31.</strong> Real-Time Animatable 2DGS-Avatars with Detail Enhancement from Monocular Videos</a></li><li class="chapter-item expanded "><a href="31.html"><strong aria-hidden="true">32.</strong> CoCoDiff: Diversifying Skeleton Action Features via Coarse-Fine Text-Co-Guided Latent Diffusion</a></li><li class="chapter-item expanded "><a href="30.html"><strong aria-hidden="true">33.</strong> Common3D: Self-Supervised Learning of 3D Morphable Models for Common Objects in Neural Feature Space</a></li><li class="chapter-item expanded "><a href="29.html"><strong aria-hidden="true">34.</strong> HoloTime: Taming Video Diffusion Models for Panoramic 4D Scene Generation</a></li><li class="chapter-item expanded "><a href="28.html"><strong aria-hidden="true">35.</strong> MagicPortrait: Temporally Consistent Face Reenactment with 3D Geometric Guidance</a></li><li class="chapter-item expanded "><a href="27.html"><strong aria-hidden="true">36.</strong> ReVision: High-Quality, Low-Cost Video Generation with Explicit 3D Physics Modeling for Complex Motion and Interaction</a></li><li class="chapter-item expanded "><a href="25.html"><strong aria-hidden="true">37.</strong> Efficient Listener: Dyadic Facial Motion Synthesis via Action Diffusion</a></li><li class="chapter-item expanded "><a href="24.html"><strong aria-hidden="true">38.</strong> Creating Your Editable 3D Photorealistic Avatar with Tetrahedron-constrained Gaussian Splatting</a></li><li class="chapter-item expanded "><a href="23.html"><strong aria-hidden="true">39.</strong> SoccerDiffusion: Toward Learning End-to-End Humanoid Robot Soccer from Gameplay Recordings</a></li><li class="chapter-item expanded "><a href="22.html"><strong aria-hidden="true">40.</strong> TesserAct: Learning 4D Embodied World Models</a></li><li class="chapter-item expanded "><a href="21.html"><strong aria-hidden="true">41.</strong> EfficientHuman: Efficient Training and Reconstruction of Moving Human using Articulated 2D Gaussian</a></li><li class="chapter-item expanded "><a href="20.html"><strong aria-hidden="true">42.</strong> Joint Optimization of Neural Radiance Fields and Continuous Camera Motion from a Monocular Video</a></li><li class="chapter-item expanded "><a href="19.html"><strong aria-hidden="true">43.</strong> Sketch2Anim: Towards Transferring Sketch Storyboards into 3D Animation</a></li><li class="chapter-item expanded "><a href="18.html"><strong aria-hidden="true">44.</strong> HumMorph: Generalized Dynamic Human Neural Fields from Few Views</a></li><li class="chapter-item expanded "><a href="17.html"><strong aria-hidden="true">45.</strong> AnimateAnywhere: Rouse the Background in Human Image Animation</a></li><li class="chapter-item expanded "><a href="16.html"><strong aria-hidden="true">46.</strong> Generative AI for Character Animation: A Comprehensive Survey of Techniques, Applications, and Future Directions</a></li><li class="chapter-item expanded "><a href="15.html"><strong aria-hidden="true">47.</strong> ActionArt: Advancing Multimodal Large Models for Fine-Grained Human-Centric Video Understanding</a></li><li class="chapter-item expanded "><a href="14.html"><strong aria-hidden="true">48.</strong> SmallGS: Gaussian Splatting-based Camera Pose Estimation for Small-Baseline Videos</a></li><li class="chapter-item expanded "><a href="13.html"><strong aria-hidden="true">49.</strong> STP4D: Spatio-Temporal-Prompt Consistent Modeling for Text-to-4D Gaussian Splatting</a></li><li class="chapter-item expanded "><a href="12.html"><strong aria-hidden="true">50.</strong> Unify3D: An Augmented Holistic End-to-end Monocular 3D Human Reconstruction via Anatomy Shaping and Twins Negotiating</a></li><li class="chapter-item expanded "><a href="11.html"><strong aria-hidden="true">51.</strong> SSD-Poser: Avatar Pose Estimation with State Space Duality from Sparse Observations</a></li><li class="chapter-item expanded "><a href="10.html"><strong aria-hidden="true">52.</strong> PIN-WM: Learning Physics-INformed World Models for Non-Prehensile Manipulation</a></li><li class="chapter-item expanded "><a href="9.html"><strong aria-hidden="true">53.</strong> Gaussian Splatting is an Effective Data Generator for 3D Object Detection</a></li><li class="chapter-item expanded "><a href="8.html"><strong aria-hidden="true">54.</strong> HUG: Hierarchical Urban Gaussian Splatting with Block-Based Reconstruction</a></li><li class="chapter-item expanded "><a href="7.html"><strong aria-hidden="true">55.</strong> Physically Consistent Humanoid Loco-Manipulation using Latent Diffusion Models</a></li><li class="chapter-item expanded "><a href="6.html"><strong aria-hidden="true">56.</strong> PMG: Progressive Motion Generation via Sparse Anchor Postures Curriculum Learning</a></li><li class="chapter-item expanded "><a href="5.html"><strong aria-hidden="true">57.</strong> Unveiling Hidden Vulnerabilities in Digital Human Generation via Adversarial Attacks</a></li><li class="chapter-item expanded "><a href="4.html"><strong aria-hidden="true">58.</strong> PICO: Reconstructing 3D People In Contact with Objects</a></li><li class="chapter-item expanded "><a href="3.html"><strong aria-hidden="true">59.</strong> Bolt: Clothing Virtual Characters at Scale</a></li><li class="chapter-item expanded "><a href="2.html"><strong aria-hidden="true">60.</strong> Dynamic Camera Poses and Where to Find Them</a></li><li class="chapter-item expanded "><a href="1.html"><strong aria-hidden="true">61.</strong> 3DV-TON: Textured 3D-Guided Consistent Video Try-on via Diffusion Models</a></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">Latest Paper</h1>
+
+                    <div class="right-buttons">
+                        <a href="print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                        <a href="https://github.com/CaterpillarStudyGroup/LatestPapers" title="Git repository" aria-label="Git repository">
+                            <i id="git-repository-button" class="fa fa-github"></i>
+                        </a>
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main><div class="sidetoc"><nav class="pagetoc"></nav></div>
+                        <table><thead><tr><th>ID</th><th>Year</th><th>Name</th><th>Note</th><th>Tags</th><th>Link</th></tr></thead><tbody>
+<tr><td></td><td>2025.5.8</td><td>3D Scene Generation: A Survey</td><td></td><td></td><td><a href="62.html">link</a></td></tr>
+<tr><td></td><td>2025.5.8</td><td>SVAD: From Single Image to 3D Avatar via Synthetic Data Generation with Video Diffusion and Data Augmentation</td><td></td><td></td><td><a href="61.html">link</a></td></tr>
+<tr><td></td><td>2025.5.8</td><td>SOAP: Style-Omniscient Animatable Portraits</td><td></td><td></td><td><a href="60.html">link</a></td></tr>
+<tr><td></td><td>2025.5.8</td><td>ReAlign: Bilingual Text-to-Motion Generation via Step-Aware Reward-Guided Alignment</td><td></td><td></td><td><a href="59.html">link</a></td></tr>
+<tr><td></td><td>2025.5.7</td><td>MeshGen: Generating PBR Textured Mesh with Render-Enhanced Auto-Encoder and Generative Data Augmentation</td><td></td><td></td><td><a href="58.html">link</a></td></tr>
+</tbody></table>
+<p>||2025.5.7|ELGAR: Expressive Cello Performance Motion Generation for Audio Rendition||   |<a href="56.html">link</a>|
+||2025.5.7|PARC: Physics-based Augmentation with Reinforcement Learning for Character Controllers|| 基于物理模拟增强与强化学习的角色控制框架，过机器学习与物理仿真技术迭代增强运动数据集，持续拓展地形穿越控制器的能力。  |<a href="55.html">link</a>|
+||2025.5.7|PrimitiveAnything: Human-Crafted 3D Primitive Assembly Generation with Auto-Regressive Transformer||  形状基元抽象重新定义为基元装配生成任务 |<a href="53.html">link</a>|
+||2025.5.7|Bridging Geometry-Coherent Text-to-3D Generation with Multi-View Diffusion Priors and Gaussian Splatting|| SDS + 多视频耦合 -&gt; CDS  |<a href="52.html">link</a>|
+||2025.5.6|<strong>FlexiAct: Towards Flexible Action Control in Heterogeneous Scenarios</strong>||  姿势引导视频合成 |<a href="51.html">link</a>|
+||2025.5.6|Real-Time Person Image Synthesis Using a Flow Matching Model|| 姿势引导人物图像合成， flow matching  |<a href="50.html">link</a>|
+||2025.5.6|Polar Coordinate-Based 2D Pose Prior with Neural Distance Field|| 动捕  |<a href="49.html">link</a>|
+||2025.5.6|PAHA: Parts-Aware Audio-Driven Human Animation with Diffusion Model|| 音频驱动上半身人体动画  |<a href="48.html">link</a>|
+||2025.5.6|GUAVA: Generalizable Upper Body 3D Gaussian Avatar||人体模型、上半身高斯重建   |<a href="47.html">link</a>|
+||2025.5.4|DualReal: Adaptive Joint Training for Lossless Identity-Motion Fusion in Video Customization|| 文生视频 |<a href="46.html">link</a>|
+||2025.5.4|SignSplat: Rendering Sign Language via Gaussian Splatting|| 3DGS，细微动作重建 |<a href="45.html">link</a>|
+||2025.5.3|MVHumanNet++: A Large-scale Dataset of Multi-view Daily Dressing Human Captures with Richer Annotations for 3D Human Digitization || 数据集，多视角人体动作序列 |<a href="44.html">link</a>|
+||2025.5.2|<strong>Model See Model Do: Speech-Driven Facial Animation with Style Control</strong>|| 语音驱动，唇形同步，风格 |<a href="41.html">link</a>|
+||2025.5.2|3D Human Pose Estimation via Spatial Graph Order Attention and Temporal Body Aware Transformer|| 动捕 |<a href="40.html">link</a>|
+||2025.5.2|<strong>TSTMotion: Training-free Scene-awarenText-to-motion Generation</strong>|| 场景感知，文生动作 |<a href="38.html">link</a>|
+||2025.5.2|<strong>GENMO: A GENeralist Model for Human MOtion</strong>||  人体运动通用模型，动作估计，动作生成|<a href="37.html">link</a>|
+||2025.5.1|T2VPhysBench: A First-Principles Benchmark for Physical Consistency in Text-to-Video Generation|| 文生视频，物理，评估 |<a href="34.html">link</a>|
+||2025.5.1|Direct Motion Models for Assessing Generated Videos|| 视频生成评价指标，物体交互，运动质量 |<a href="33.html">link</a>|
+||2025.5.1|<strong>Real-Time Animatable 2DGS-Avatars with Detail Enhancement from Monocular Videos</strong>|| 2DGS,SMPL,人体重建 |<a href="32.html">link</a>|
+||2025.4.30|<strong>Eye2Eye: A Simple Approach for Monocular-to-Stereo Video Synthesis</strong>|| 文生3D视频 |<a href="35.html">link</a>|
+||2025.4.30|CoCoDiff: Diversifying Skeleton Action Features via Coarse-Fine Text-Co-Guided Latent Diffusion|| 3D动作的特征多样性 |<a href="31.html">link</a>|
+||2025.4.30|Common3D: Self-Supervised Learning of 3D Morphable Models for Common Objects in Neural Feature Space|| 3DMM泛化到常见物体 |<a href="30.html">link</a>|
+||2025.4.30|HoloTime: Taming Video Diffusion Models for Panoramic 4D Scene Generation|| 4D场景生成 |<a href="29.html">link</a>|
+||2025.4.30|MagicPortrait: Temporally Consistent Face Reenactment with 3D Geometric Guidance|| 视频人脸驱动，FLAME |<a href="28.html">link</a>|
+||2025.4.30|<strong>ReVision: High-Quality, Low-Cost Video Generation with Explicit 3D Physics Modeling for Complex Motion and Interaction</strong>||视频生成，物理  |<a href="27.html">link</a>|
+||2025.4.29|Efficient Listener: Dyadic Facial Motion Synthesis via Action Diffusion|| Human Head Generation|<a href="25.html">link</a>|
+||2025.4.29|Creating Your Editable 3D Photorealistic Avatar with Tetrahedron-constrained Gaussian Splatting ||生成可编辑3D数字人|<a href="24.html">link</a>|
+||2025.4.29|SoccerDiffusion: Toward Learning End-to-End Humanoid Robot Soccer from Gameplay Recordings||踢足球仿真|<a href="23.html">link</a>|
+||2025.4.29|EfficientHuman: Efficient Training and Reconstruction of Moving Human using Articulated 2D Gaussian|| 2DGS重建运动人体|<a href="21.html">link</a>|
+||2025.4.28|Joint Optimization of Neural Radiance Fields and Continuous Camera Motion from a Monocular Video||重建与相机运行联合优化 |<a href="20.html">link</a>|
+||2025.4.28|HumMorph: Generalized Dynamic Human Neural Fields from Few Views|| 动态人体自由视角渲染|<a href="18.html">link</a>|
+||2025.4.27|Sketch2Anim: Towards Transferring Sketch Storyboards into 3D Animation|| 二维故事板草图转化为三维动画|<a href="19.html">link</a>|
+||2025.4.27|Generative AI for Character Animation: A Comprehensive Survey of Techniques, Applications, and Future Directions|| <strong>角色动画综述</strong>|<a href="16.html">link</a>|
+||2025.4.25|SSD-Poser: Avatar Pose Estimation with State Space Duality from Sparse Observations|| 疏观测实现稳健的全身运动估计|<a href="11.html">link</a>|
+||2025.4.25|STP4D: Spatio-Temporal-Prompt Consistent Modeling for Text-to-4D Gaussian Splatting|| <strong>文本到4D生成</strong>|<a href="13.html">link</a>|
+||2025.4.25|ActionArt: Advancing Multimodal Large Models for Fine-Grained Human-Centric Video Understanding|| 以人为中心的视频数据集|<a href="15.html">link</a>|
+||2025.4.24|3DV-TON: Textured 3D-Guided Consistent Video Try-on via Diffusion Models||虚拟试衣|<a href="1.html">link</a>|
+||2025.4.24|PICO: Reconstructing 3D People In Contact with Objects||人物交互3D重建|<a href="4.html">link</a>|
+||2025.4.23|PMG: Progressive Motion Generation via Sparse Anchor Postures Curriculum Learning||<strong>更高控制精度和更精细的运动生成</strong> |<a href="6.html">link</a>|
+||2025.4.23|PIN-WM: Learning Physics-INformed World Models for Non-Prehensile Manipulation|| 从视频数据中提取物理信息|<a href="10.html">link</a>|
+||2025.4.3|TokenHSI: Unified Synthesis of Physical Human-Scene Interactions through Task Tokenization||   |<a href="57.html">link</a>|</p>
+<h1 id="low"><a class="header" href="#low">Low</a></h1>
+<table><thead><tr><th>ID</th><th>Year</th><th>Name</th><th>Note</th><th>Tags</th><th>Link</th></tr></thead><tbody>
+<tr><td></td><td>2025.5.7</td><td>Person-In-Situ: Scene-Consistent Human Image Insertion with Occlusion-Aware Pose Control</td><td></td><td>将人体图像合成到场景图像中</td><td><a href="54.html">link</a></td></tr>
+<tr><td></td><td>2025.5.3</td><td>Co$^{3}$Gesture: Towards Coherent Concurrent Co-speech 3D Gesture Generation with Interactive Diffusion</td><td></td><td>语音生成手势、双人交互、数据集</td><td><a href="43.html">link</a></td></tr>
+<tr><td></td><td>2025.5.3</td><td>Efficient 3D Full-Body Motion Generation from Sparse Tracking Inputs with Temporal Windows</td><td></td><td>稀疏输入，动作生成</td><td><a href="42.html">link</a></td></tr>
+<tr><td></td><td>2025.5.1</td><td>JointDiT: Enhancing RGB-Depth Joint Modeling with Diffusion Transformers</td><td></td><td>RGB图像与深度图进行联合生成</td><td><a href="36.html">link</a></td></tr>
+<tr><td></td><td>2025.4.29</td><td>TesserAct: Learning 4D Embodied World Models</td><td></td><td>4D场景重建</td><td><a href="22.html">link</a></td></tr>
+<tr><td></td><td>2025.4.28</td><td>AnimateAnywhere: Rouse the Background in Human Image Animation</td><td></td><td>基于人体视频生成运行背景</td><td><a href="17.html">link</a></td></tr>
+<tr><td></td><td>2025.4.25</td><td>Unify3D: An Augmented Holistic End-to-end Monocular 3D Human Reconstruction via Anatomy Shaping and Twins Negotiating</td><td></td><td>单目三维穿衣人体重建</td><td><a href="12.html">link</a></td></tr>
+<tr><td></td><td>2025.4.24</td><td>Dynamic Camera Poses and Where to Find Them</td><td></td><td>相机位姿估计</td><td><a href="2.html">link</a></td></tr>
+<tr><td></td><td>2025.4.24</td><td>Bolt: Clothing Virtual Characters at Scale</td><td></td><td>3D服装迁移适配</td><td><a href="3.html">link</a></td></tr>
+<tr><td></td><td>2025.4.24</td><td>Unveiling Hidden Vulnerabilities in Digital Human Generation via Adversarial Attacks</td><td></td><td>HPS攻击对抗</td><td><a href="5.html">link</a></td></tr>
+<tr><td></td><td>2025.4.23</td><td>HUG: Hierarchical Urban Gaussian Splatting with Block-Based Reconstruction</td><td></td><td>3D场景重建</td><td><a href="8.html">link</a></td></tr>
+<tr><td></td><td>2025.4.23</td><td>Gaussian Splatting is an Effective Data Generator for 3D Object Detection</td><td></td><td>3D物体放入2D场景</td><td><a href="9.html">link</a></td></tr>
+<tr><td></td><td>2025.4.23</td><td>Physically Consistent Humanoid Loco-Manipulation using Latent Diffusion Models</td><td></td><td>生成逼真的RGB人-物交互场景，以指导人形机器人的移动操作规划</td><td><a href="7.html">link</a></td></tr>
+<tr><td></td><td>2025.4.22</td><td>SmallGS: Gaussian Splatting-based Camera Pose Estimation for Small-Baseline Videos</td><td></td><td>小基线视频的相机姿态估计</td><td><a href="14.html">link</a></td></tr>
+</tbody></table>
+<div style="break-before: page; page-break-before: always;"></div><h1 id=""><a class="header" href="#"></a></h1>
+<div style="break-before: page; page-break-before: always;"></div><p>3D Scene Generation: A Survey</p>
+<p>三维场景生成旨在合成具有空间结构、语义信息丰富且逼真的虚拟环境，其应用涵盖沉浸式媒体、机器人、自动驾驶和具身智能等领域。早期基于程序化规则的方法虽具备可扩展性，但生成多样性受限。随着深度生成模型(如生成对抗网络、扩散模型)和三维表征技术(如神经辐射场、三维高斯分布)的突破性进展，研究者得以学习真实场景分布规律，显著提升了生成结果的真实感、多样性和视角一致性。以扩散模型为代表的创新方法通过将三维场景生成重构为图像或视频合成问题，有效弥合了场景合成与真实感渲染之间的鸿沟。本文系统梳理了该领域前沿进展，将现有方法归纳为四大范式：程序化生成、基于神经三维的生成、基于图像的生成和基于视频的生成，深入剖析了各范式的技术原理、优劣权衡及代表性成果。同时，本文详细评述了常用数据集、评估体系及下游应用，并针对生成能力、三维表征、数据标注和评估方法等核心挑战展开讨论，提出未来发展方向包括：提升生成质量、开发物理感知与交互式生成技术、构建感知-生成一体化模型等。本综述系统整合了三维场景生成领域的最新突破，并展望了生成式人工智能、三维视觉与具身智能交叉融合的创新方向。为追踪动态发展，我们维护了最新项目页面：<a href="https://github.com/hzxie/Awesome-3D-Scene-Generation">https://github.com/hzxie/Awesome-3D-Scene-Generation</a>。</p>
+<div style="break-before: page; page-break-before: always;"></div><p>SVAD: From Single Image to 3D Avatar via Synthetic Data Generation with Video Diffusion and Data Augmentation</p>
+<p>从单张图像创建高质量可驱动的3D人体化身仍然是计算机视觉领域的重要挑战，这源于从单一视角重建完整3D信息的内在困难。现有方法面临明显局限：3D高斯泼溅(3DGS)方法虽能生成高质量结果，但需要多视角或视频序列输入；而视频扩散模型虽然能从单张图像生成动画，但在保持一致性和身份特征方面存在不足。我们提出SVAD方法，通过整合现有技术的互补优势突破这些限制。该方法通过视频扩散生成合成训练数据，采用身份特征保留和图像修复模块进行增强，并利用优化后的数据训练3DGS化身。综合评估表明，SVAD在保持身份一致性和跨新姿态/视角的细节呈现方面优于当前最先进的单图方法，同时具备实时渲染能力。通过构建数据增强流程，我们克服了传统3DGS方法对密集单目或多视图训练数据的依赖。大量定量与定性对比实验显示，本方法在多项指标上均超越基线模型。通过有效结合扩散模型的生成能力与3DGS的高质量输出及渲染效率，我们的工作为单图输入的高保真化身生成建立了新范式。</p>
+<div style="break-before: page; page-break-before: always;"></div><p>SOAP: Style-Omniscient Animatable Portraits</p>
+<p>从单张图像生成可动画化的3D虚拟形象仍面临诸多挑战，主要体现在风格限制(写实、卡通、动漫)和难以处理配饰或复杂发型等方面。尽管3D扩散模型在单视角通用物体重建方面取得进展，但其输出结果往往因领域差异而缺乏动画控制或存在伪影问题。为此，我们提出了SOAP——一个风格全知的框架，能够从任意人像生成具备绑定骨骼且保持拓扑结构一致的虚拟形象。该方法创新性地结合了基于24K个3D头部模型(涵盖多种风格)训练的多视角扩散模型，以及通过可微分渲染实现FLAME网格形变的自适应优化流程，在保持拓扑结构与骨骼绑定的同时完成建模。最终生成的带贴图虚拟形象支持基于FACS的动画控制，集成眼球与牙齿模型，并能保留辫发、配饰等细节特征。大量实验证明，该方法在单视角头部建模和基于扩散模型的图像到3D生成方面均优于现有先进技术。研究代码与数据已在<a href="https://github.com/TingtingLiao/soap%E5%BC%80%E6%BA%90">https://github.com/TingtingLiao/soap开源</a>。</p>
+<div style="break-before: page; page-break-before: always;"></div><p>ReAlign: Bilingual Text-to-Motion Generation via Step-Aware Reward-Guided Alignment</p>
+<p>双语文本到运动生成通过双语文本输入合成3D人体运动，在游戏、影视和机器人等跨语言应用领域具有巨大潜力。然而，该任务面临两大关键挑战：缺乏双语运动-语言数据集，以及扩散模型中文本与运动分布的不对齐问题，导致生成运动存在语义不一致或质量低下的情况。为应对这些挑战，我们提出了BiHumanML3D双语人体运动数据集，为双语文本到运动生成模型建立了重要基准。此外，我们开发了双语运动扩散模型(BiMD)，通过跨语言对齐表征捕捉语义信息，实现统一的双语建模。在此基础上，我们提出了奖励引导的采样对齐方法(ReAlign)，包含用于评估采样过程中对齐质量的步态感知奖励模型，以及引导扩散过程向最优对齐分布演进的奖励引导策略。该奖励模型融合步态感知标记，结合保证语义一致性的文本对齐模块和提升真实性的运动对齐模块，通过在每一步优化噪声运动，平衡概率密度与对齐效果。实验表明，相较于现有最优方法，我们的方法在文本-运动对齐质量和运动生成质量上均有显著提升。项目主页：<a href="https://wengwanjiang.github.io/ReAlign-page/">https://wengwanjiang.github.io/ReAlign-page/</a>。</p>
+<div style="break-before: page; page-break-before: always;"></div><p>MeshGen: Generating PBR Textured Mesh with Render-Enhanced Auto-Encoder and Generative Data Augmentation</p>
+<p>在本论文中，我们提出了MeshGen这一先进的图像到三维生成流程，能够生成具有精细几何结构和基于物理渲染(PBR)纹理的高质量三维网格。针对现有三维原生扩散模型面临的挑战——包括自编码器性能欠佳、可控性有限、泛化能力弱以及基于图像的PBR纹理不一致等问题，MeshGen通过多项关键创新突破这些限制。我们首创了渲染增强的点到形状自动编码器，通过设计基于光线正则化的感知优化方法，将网格压缩至紧凑的潜在空间，确保三维形状的精准表征与重建，有效保留潜在空间内的几何细节。</p>
+<p>为解决数据稀缺和图像-形状错位问题，我们进一步提出几何增强和生成式渲染增强技术，显著提升了模型的可控性和泛化能力，使其在有限公共数据集条件下仍能保持优异表现。在纹理生成方面，MeshGen采用基于参考注意力的多视角ControlNet实现一致性外观合成，并辅以多视角PBR分解器估算PBR分量，以及UV修复器填充不可见区域，确保三维网格实现无缝衔接的连贯纹理。</p>
+<p>大量实验表明，MeshGen在形状和纹理生成方面均显著超越现有方法，为基于PBR纹理的三维网格生成质量树立了新标杆。代码详见<a href="https://github.com/heheyas/MeshGen">https://github.com/heheyas/MeshGen</a>，项目页面请访问<a href="https://heheyas.github.io/MeshGen">https://heheyas.github.io/MeshGen</a>。</p>
+<div style="break-before: page; page-break-before: always;"></div><p>TokenHSI: Unified Synthesis of Physical Human-Scene Interactions through Task Tokenization</p>
+<p>合成多样化且物理合理的人-场景交互(HSI)对计算机动画和具身人工智能都至关重要。尽管已有可喜进展，但现有方法主要集中于开发独立控制器，每个控制器仅专精于特定交互任务。这严重限制了应对需要多技能整合的复杂HSI任务的能力，例如在携带物体时完成坐下动作。针对这一问题，我们提出了TokenHSI——一个基于Transformer的统一策略框架，能够实现多技能统一与灵活适应。其核心洞见在于：将人体本体感知建模为独立共享令牌，并通过掩码机制与不同任务令牌相结合。这种统一策略实现了跨技能的有效知识共享，从而促进多任务训练。此外，我们的策略架构支持可变长度输入，使习得技能能灵活适应新场景。通过训练额外任务令牌生成器，我们不仅能修改交互目标的几何形态，还能协调多项技能以应对复杂任务。实验表明，该方法能显著提升各类HSI任务中的多功能性、适应性和可扩展性。项目网站：<a href="https://liangpan99.github.io/TokenHSI/">https://liangpan99.github.io/TokenHSI/</a></p>
+<div style="break-before: page; page-break-before: always;"></div><p>ELGAR: Expressive Cello Performance Motion Generation for Audio Rendition</p>
+<p>乐器演奏艺术是人类创造力与情感的生动体现。然而，生成乐器演奏动作是一项极具挑战性的任务，因其不仅需要捕捉复杂肢体运动，还需重构演奏者与乐器之间相互作用的动态关系。现有研究主要集中于局部肢体运动的建模，为此我们提出ELGAR(基于音频的富有表现力大提琴演奏动作生成系统)，这是一种基于扩散模型的先进框架，能够仅凭音频信号即可生成全身细粒度的乐器演奏动作。为强调乐器演奏的交互本质，我们创新性地引入手部交互接触损失(HICL)和琴弓交互接触损失(BICL)，有效保证了交互过程的真实性。此外，为更好评估生成动作与音乐音频语义的契合度，我们专门针对弦乐器演奏动作生成设计了新型评价指标，包括指板接触距离、弓弦距离及运弓评分。通过大量评估与消融实验验证了所提方法的有效性。同时，我们构建了动作生成数据集SPD-GEN，该数据集整理并规范化自动作捕捉数据集SPD。实验表明，ELGAR在生成具有复杂快速交互特征的乐器演奏动作方面展现出巨大潜力，将有力推动动画制作、音乐教育、交互艺术创作等领域的进一步发展。</p>
+<div style="break-before: page; page-break-before: always;"></div><p>PARC: Physics-based Augmentation with Reinforcement Learning for Character Controllers</p>
+<p>人类在利用敏捷运动技能驾驭多样化复杂环境方面表现出色，跑酷运动员便是典型例证——他们能够完成攀越墙体、跨越沟壑等高动态动作。然而在虚拟角色中复现这类敏捷动作仍面临挑战，部分原因在于敏捷地形穿越行为的运动捕捉数据稀缺且获取成本高昂。本研究提出PARC(基于物理模拟增强与强化学习的角色控制框架)，该框架通过机器学习与物理仿真技术迭代增强运动数据集，持续拓展地形穿越控制器的能力。</p>
+<p>PARC的实施流程分为三个阶段：首先基于核心地形穿越技能的小型数据集训练运动生成器；随后利用该生成器为新地形场景生成合成运动数据。然而这些生成动作常存在接触点错误或动作不连贯等异常现象。为修正这些问题，我们训练基于物理原理的追踪控制器以在仿真中模仿生成动作。校正后的动作将被纳入数据集，用于下一轮迭代中运动生成器的持续训练。通过这种迭代机制，PARC实现了运动生成器与追踪控制器的协同进化，最终构建出能够与复杂环境进行敏捷交互的通用模型。该框架有效弥合了运动数据稀缺与通用角色控制器需求之间的鸿沟，为开发敏捷地形穿越控制器提供了创新解决方案。</p>
+<div style="break-before: page; page-break-before: always;"></div><p>Person-In-Situ: Scene-Consistent Human Image Insertion with Occlusion-Aware Pose Control</p>
+<p>将人体图像合成到场景图像中在娱乐和广告等领域具有广泛的应用前景。然而，现有方法通常无法处理前景物体对插入人物的遮挡问题，且往往将人物简单地放置在最前景层。此外，这些方法对人物姿态的控制能力也较为有限。为解决这些挑战，我们提出了两种创新方法。这两种方法均通过3D人体模型实现显式的姿态控制，并利用潜在扩散模型将人物合成到上下文语境中恰当的深度位置，无需依赖遮挡蒙版即可自然地处理遮挡关系。</p>
+<p>第一种是两阶段方法：模型首先通过监督学习生成包含人物的场景深度图，然后基于该深度图合成人物图像。第二种方法则通过隐式学习遮挡关系，无需显式的深度监督即可直接从输入数据中生成人物图像。定量和定性评估表明，两种方法在准确反映遮挡关系和用户指定姿态的同时，能够更好地保持场景一致性，其综合性能优于现有方法。</p>
+<div style="break-before: page; page-break-before: always;"></div><p>PrimitiveAnything: Human-Crafted 3D Primitive Assembly Generation with Auto-Regressive Transformer</p>
+<p>形状基元抽象通过将复杂三维形状分解为简单几何元素，在人类视觉认知中起着关键作用，并在计算机视觉和图形学领域具有广泛应用。尽管三维内容生成技术近年来取得了显著进展，但现有的基元抽象方法要么依赖有限语义理解的几何优化，要么通过小规模、特定类别的数据集进行学习，难以泛化到多样化的形状类别。我们提出了PrimitiveAnything框架，将形状基元抽象重新定义为基元装配生成任务。该框架包含一个基于形状条件约束的基元Transformer模块用于自回归生成，以及一个无歧义参数化方案来统一表示多种类型的几何基元。通过从大规模人工标注的抽象基元中直接学习装配过程，该框架能够准确捕捉人类分解复杂形状的认知模式。大量实验表明，PrimitiveAnyting生成的基元装配在保持跨类别几何保真度的同时，能够更好地与人类感知对齐。该方法可赋能多种三维应用，并展现出在游戏领域支持基于基元的用户生成内容（UGC）的潜力。项目主页：<a href="https://primitiveanything.github.io">https://primitiveanything.github.io</a></p>
+<div style="break-before: page; page-break-before: always;"></div><p>Bridging Geometry-Coherent Text-to-3D Generation with Multi-View Diffusion Priors and Gaussian Splatting</p>
+<p>分数蒸馏采样(Score Distillation Sampling, SDS)通过利用预训练的二维扩散模型推动了文本到三维生成技术的发展，但其忽视了多视角关联性，导致生成的三维内容容易出现几何不一致性和多面伪影问题。本研究提出耦合分数蒸馏(Coupled Score Distillation, CSD)框架，通过耦合多视角联合分布先验，在确保三维生成几何一致性的同时，实现对三维高斯溅射(3D Gaussian Splatting)的稳定直接优化。具体而言，通过将优化问题重构为多视角联合优化任务，我们推导出有效的优化规则，该规则通过耦合多视角先验有效指导不同视角间的协同优化，同时保持生成三维资产的多样性。此外，我们提出了直接优化随机初始化的三维高斯溅射(3D-GS)来生成几何一致三维内容的框架，并采用从3D-GS初始化、通过CSD细化的可变形四面体网格，最终产出高质量精修网格。定量与定性实验结果表明，本方法在生成效率与质量方面均展现出竞争优势。</p>
+<div style="break-before: page; page-break-before: always;"></div><p>FlexiAct: Towards Flexible Action Control in Heterogeneous Scenarios</p>
+<p>动作定制旨在根据输入的控制信号生成目标主体执行相应动作的视频。当前方法主要采用姿态引导或全局运动定制技术，但由于对空间结构(如布局、骨架和视角一致性)的严格限制，其适应不同主体和场景的能力有所下降。为了突破这些限制，我们提出了FlexiAct框架，能够将参考视频中的动作迁移至任意目标图像。与现有方法不同，FlexiAct允许参考视频主体与目标图像在布局、视角和骨骼结构上存在差异，同时保持身份一致性。</p>
+<p>实现这一目标需要解决三个关键挑战：精确的动作控制、空间结构适配和一致性保持。为此，我们设计了RefAdapter——一种轻量级的图像条件适配器。该模块在空间适配和一致性保持方面表现优异，在平衡外观一致性与结构灵活性方面超越了现有方法。此外，我们通过观察发现，在去噪过程中，不同时间步对运动(低频)和外观细节(高频)的关注程度不同。基于此洞见，我们提出了频率感知动作提取(FAE)模块。与依赖独立时空架构的传统方法不同，FAE直接在去噪过程中实现动作提取。</p>
+<p>实验表明，我们的方法能有效实现跨布局、跨骨架、跨视角的动作迁移。为促进相关研究，我们已在https://shiyi-zh0408.github.io/projectpages/FlexiAct/公开代码和模型权重。</p>
+<div style="break-before: page; page-break-before: always;"></div><p>Real-Time Person Image Synthesis Using a Flow Matching Model</p>
+<p>姿势引导人物图像合成(Pose-Guided Person Image Synthesis，PGPIS)是指根据目标姿势和源图像生成逼真人物图像的技术。该任务在手语视频生成、AR/VR、游戏和直播等实际应用中发挥着关键作用。在这些场景中，实时PGPIS技术对于提供即时视觉反馈和维持用户沉浸感至关重要。然而，由于从多样化和动态的人体姿势合成高保真图像的复杂性，实现实时性能仍然是一个重大挑战。近年来基于扩散模型的方法在PGPIS中展现出令人印象深刻的图像质量，但其缓慢的采样速度阻碍了在时间敏感场景中的部署。这种延迟在需要快速图像更新的任务(如直播中生成手语视频)中尤为明显。因此，开发快速可靠的PGPIS模型是实现实时交互系统的关键步骤。</p>
+<p>为应对这一挑战，我们提出了一种基于流匹配(Flow Matching，FM)的生成模型。该方法能够实现更快、更稳定、更高效的训练和采样过程。此外，所提出的模型支持条件生成并可在潜在空间运行，使其特别适用于对速度和质量都有严格要求的实时PGPIS应用。我们在广泛使用的DeepFashion数据集上对提出的流匹配实时人物图像合成模型(Real-Time Person Image Synthesis Using a Flow Matching Model，RPFM)进行了评估。实验结果表明，RPFM在保持与最先进模型相当性能的同时，实现了接近实时的采样速度。该方法通过略微但可接受的生成图像准确性降低，换取了生成速度两倍以上的提升，从而确保了实时性能。</p>
+<div style="break-before: page; page-break-before: always;"></div><p>Polar Coordinate-Based 2D Pose Prior with Neural Distance Field</p>
+<p>人体姿态捕捉技术对于运动分析至关重要，能够实现对运动员动作的精准评估。尽管基于深度学习的人体姿态估计(HPE)模型在RGB视频公开数据集上取得了令人瞩目的性能，但在实际体育场景中，其有效性常受限于运动模糊、遮挡以及不同姿态表征方式之间的领域偏移问题。通过模型微调可部分缓解这些挑战，但通常需要大规模标注数据，且仍难以适应多样化运动环境的泛化需求。</p>
+<p>为解决上述限制，我们提出了一种基于神经距离场(NDF)的二维姿态先验引导优化方法。与现有仅依赖人体姿态角度表征的方法不同，我们创新性地引入基于极坐标的表征方式，显式融合关节连接长度信息，从而实现对错误姿态估计的更精准校正。此外，我们定义了一种新型非测地线距离度量方法，通过分离角度差异与径向差异，验证了该度量相较于传统测地线距离更适用于极坐标表征。为缓解数据稀缺问题，我们开发了基于梯度的批量投影增强策略，通过迭代优化合成具有真实性的姿态样本。</p>
+<p>本研究在跳远数据集上进行了验证，结果表明该方法能够提升跨多种姿态表征方式的二维姿态估计性能，展现出良好的跨领域鲁棒性。实验数据显示，我们的方法在仅需少量训练数据的情况下即可显著提升姿态合理性。项目代码已开源：<a href="https://github.com/QGAN2019/polar-NDF">https://github.com/QGAN2019/polar-NDF</a>。</p>
+<div style="break-before: page; page-break-before: always;"></div><p>PAHA: Parts-Aware Audio-Driven Human Animation with Diffusion Model</p>
+<p>音频驱动的人体动画技术在人机交互领域得到广泛应用，而扩散模型的出现进一步推动了该技术的发展。当前大多数方法依赖多阶段生成和中间表示，导致推理时间较长，并在特定前景区域和音频-动作一致性方面存在生成质量问题。这些缺陷主要源于缺乏局部细粒度监督指导。为解决上述挑战，我们提出了PAHA——首个端到端的扩散模型驱动的音频驱动上半身人体动画框架。我们引入两个核心方法：部件感知重加权(PAR)和部件一致性增强(PCE)。PAR基于姿态置信度分数动态调整区域训练损失权重，有效提升视觉质量；PCE通过构建并训练基于扩散模型的区域视听分类器，改善动作与伴随语音的一致性。我们进一步为前述分类器设计了两种创新推理指导方法——序列指导(SG)和差分指导(DG)，分别实现效率与质量的平衡。此外，我们构建了首个公开的中文新闻主播语音数据集CNAS，以推动该领域的研究与验证。大量实验结果和用户研究表明，PAHA在音频-动作对齐和视频相关评估指标上显著优于现有方法。代码和CNAS数据集将在论文录用后开源。   </p>
+<div style="break-before: page; page-break-before: always;"></div><p>GUAVA: Generalizable Upper Body 3D Gaussian Avatar</p>
+<p>从单张图像重建具有丰富面部和手部动作的高质量可动画三维人体化身技术，因其广泛的应用潜力而备受关注。传统三维人体化身重建通常需要多视角视频或单目视频，并要求针对每个个体进行独立训练，这一过程既复杂又耗时。此外，受限于SMPLX模型的表达能力，现有方法往往侧重于身体动作而难以捕捉细腻的面部表情。针对这些挑战，我们首先提出了富有表现力的人体模型(EHM)来增强面部表情建模能力，并开发了精确的追踪方法。基于该模板模型，我们推出了GUAVA框架——首个支持快速构建可动画上半身三维高斯化身的解决方案。通过逆纹理映射和投影采样技术，我们实现了从单张图像推断上半身(Ubody)高斯特征。渲染图像经过神经优化器进行精细化处理。实验结果表明，GUAVA在渲染质量上显著超越现有方法，同时实现了突破性的速度优化：重建过程仅需亚秒级时间(0.1秒)，并支持实时动画与渲染。</p>
+<div style="break-before: page; page-break-before: always;"></div><p>DualReal: Adaptive Joint Training for Lossless Identity-Motion Fusion in Video Customization</p>
+<p>基于预训练大规模模型的定制化文生视频技术近年来通过聚焦身份与运动一致性获得了广泛关注。现有方法通常采用孤立的定制范式，即单独定制主体身份或运动动态。然而，这种范式完全忽视了身份与运动之间固有的相互约束和协同依存关系，导致生成过程中身份与运动冲突不断积累并系统性劣化。为此，我们提出了DualReal创新框架，通过自适应联合训练在双维度间协作构建相互依赖关系。具体而言，DualReal包含两个核心单元：(1)双重感知适配单元通过动态选择训练阶段(身份或运动)，在冻结维度的先验指导下学习当前信息，并采用正则化策略避免知识泄露；(2)阶段混合控制器利用去噪阶段和扩散Transformer深度的对应关系，以自适应粒度指导不同维度，在多个阶段规避冲突，最终实现身份与运动模式的无损融合。我们构建了比现有方法更全面的评测基准，实验结果表明DualReal在CLIP-I和DINO-I指标上平均提升21.7%和31.8%，在几乎所有运动质量指标上均达到最优性能。</p>
+<div style="break-before: page; page-break-before: always;"></div><p>SignSplat: Rendering Sign Language via Gaussian Splatting</p>
+<p>通过高斯泼溅实现条件性人体渲染的现有最先进方法通常侧重于从多视角捕捉简单身体动作(如舞蹈或行走)。然而对于更复杂的用例(如手语)，我们更关注手部和面部细微且复杂的运动，而非大幅度的身体动作。由于捕捉手语多视角数据的复杂性，构建高保真模型的问题进一步加剧。解决方案在于更好地利用序列数据，通过挖掘时间变化性来克服有限视角信息带来的挑战。但基于序列数据的学习需要极其精确且一致的模型拟合，以确保复杂运动中外观的一致性。我们重点研究如何通过约束网格参数，构建能够从少量视角建模人体细微运动的高斯泼溅框架。我们对高斯参数施加正则化技术以缓解过拟合和渲染伪影问题。此外，提出了一种新的自适应控制方法来致密化高斯分布并修剪网格表面上的泼溅点。为验证方法的准确性，我们基于神经机器翻译方法构建手语拼接技术，渲染出新颖的手语视频序列。在基准数据集上，我们的方法达到业界领先水平；对于高度关节化和复杂的手语动作，其表现显著优于现有方法。</p>
+<div style="break-before: page; page-break-before: always;"></div><p>MVHumanNet++: A Large-scale Dataset of Multi-view Daily Dressing Human Captures with Richer Annotations for 3D Human Digitization </p>
+<p>在这个时代，大语言模型和文生图模型的成功得益于大规模数据集的驱动。然而在3D视觉领域，虽然通过Objaverse和MVImgNet等大规模数据集在以物体为中心的任务上取得了显著进展，但以人为中心的任务发展却相对受限，这主要源于缺乏可比拟的大规模人体数据集。为了填补这一空白，我们推出了MVHumanNet++数据集 —— 该数据集包含4500位人物身份的多视角人体动作序列。本项工作的核心在于通过多视角人体捕捉系统，采集具有大规模身份多样性和日常服饰特征的人类数据，这种采集方式具备高度的可扩展性。我们的数据集涵盖9000套日常服装、6万组动作序列和6.45亿帧画面，并提供丰富的标注信息，包括人体遮罩、相机参数、2D/3D关键点、SMPL/SMPLX参数及对应文本描述。此外，我们对MVHumanNet++数据集进行了增强处理，新增法线贴图和深度图标注，显著提升了其在先进人体中心研究中的适用性与实用价值。为了探索该数据集在2D/3D视觉任务中的潜力，我们开展了多项先导研究，充分展现了MVHumanNet++的规模优势所带来的性能提升与创新应用。作为当前最大规模的3D人体数据集，我们希望通过开放MVHumanNet++及其标注信息，推动大规模3D人体中心任务领域的创新发展。该数据集已通过<a href="https://kevinlee09.github.io/research/MVHumanNet++/">https://kevinlee09.github.io/research/MVHumanNet++/</a> 公开发布。</p>
+<div style="break-before: page; page-break-before: always;"></div><p>Co$^{3}$Gesture: Towards Coherent Concurrent Co-speech 3D Gesture Generation with Interactive Diffusion</p>
+<p>从人类语音生成手势在虚拟化身动画领域取得了巨大进展。现有方法虽然能够合成单人独白场景下的协同手势，却忽视了双人交互对话场景下同步手势建模的实用性。此外，缺乏高质量的同步伴随语音手势数据集也限制了这一问题的解决。为实现这一目标，我们首先构建了大规模同步伴随语音手势数据集GES-Inter，包含超过700万帧多样化的双人交互姿势序列。在此基础上，我们提出新型框架Co³Gesture，能够生成包含双人交互动作的连贯同步伴随语音手势。考虑到对话双方身体动态的非对称性，我们的框架基于两个以分离说话者音频为条件的协作生成分支构建。具体而言，为增强对话过程中人体姿势与对应说话者语音的协调性，我们设计了时序交互模块（TIM）。该模块能够有效建模双说话者手势序列间的时序关联表征作为交互指导，并将其融入同步手势生成。此外，我们开发了互注意力机制，从整体上增强交互同步动作的依赖关系学习，从而实现生动连贯的手势生成。大量实验表明，我们的方法在新构建的GES-Inter数据集上优于当前最先进模型。数据集与源代码已发布于&lt;\href{https://mattie-e.github.io/Co3/}{\textit{https://mattie-e.github.io/Co3/}}。&gt;</p>
+<div style="break-before: page; page-break-before: always;"></div><p>Efficient 3D Full-Body Motion Generation from Sparse Tracking Inputs with Temporal Windows</p>
+<p>要在沉浸式增强现实/虚拟现实(AR/VR)应用中实现无缝用户体验，高效神经网络(NN)模型的重要性不言而喻。这是因为，在虚拟环境中进行完整的3D全身重建时，需要通过这些模型生成因传感器数量有限而无法捕捉的身体缺失部位。然而，当前最先进的神经网络模型通常计算成本高昂，且依赖更长的稀疏跟踪输入序列来捕获时间上下文以生成全身动作。这种对长序列的依赖不可避免地增加了计算开销，并在长期时间依赖关系中引入噪声，从而对生成性能产生负面影响。</p>
+<p>本文提出了一种基于多层感知机(MLP)的创新方法，在平衡计算成本与内存开销的同时，显著提升了3D全身动作生成的综合性能。具体而言，我们设计了一种神经网络机制——将长输入序列分割为更小的时间窗口，随后通过潜在表示将当前动作与这些时间窗口的信息融合，从而利用历史上下文进行生成。实验表明，相较于现有最优方法，该机制使生成准确率得到显著提升，同时大幅降低计算成本和内存开销，使本方法适用于资源受限的设备。</p>
+<div style="break-before: page; page-break-before: always;"></div><p>Model See Model Do: Speech-Driven Facial Animation with Style Control</p>
+<p>语音驱动的三维面部动画在虚拟化身、游戏和数字内容创作等应用中发挥着关键作用。尽管现有方法在实现精确唇形同步和生成基础情感表情方面取得了显著进展，但它们往往难以捕捉并有效传递细腻的表演风格。我们提出了一种新颖的基于示例的生成框架，通过将隐扩散模型与参考风格片段进行条件约束，可生成高表现力且时序连贯的面部动画。为解决精确遵循风格参考的挑战，我们引入了一种称为&quot;风格基底&quot;的创新条件调节机制：该机制从参考片段中提取关键姿势，以叠加方式引导扩散生成过程适配目标风格，同时保持唇形同步质量。这种方法使模型能够捕捉细微的风格线索，同时确保生成动画与输入语音高度契合。通过定性、定量和感知评估的全面验证，我们的方法在忠实复现目标风格的同时，实现了跨多种语音场景的卓越唇形同步效果。</p>
+<div style="break-before: page; page-break-before: always;"></div><p>3D Human Pose Estimation via Spatial Graph Order Attention and Temporal Body Aware Transformer</p>
+<p>当前，Transformer和图卷积网络(GCN)是三维人体姿态估计的主流技术。然而，基于Transformer的方法在使用骨架表征时要么忽略了关节之间的空间邻域关系，要么在骨架序列建模中忽视了局部关节运动的时序模式；而基于GCN的方法则常常未能构建姿态特异性表征。为解决这些问题，我们提出一种新方法：利用GCN的图建模能力，通过不同阶数的多图结构表征每个骨架，并引入新型图阶注意力模块动态强化各关节最具代表性的阶数特征。通过提出的时序身体感知Transformer对序列空间特征进行进一步处理，该模块在建模序列全局身体特征依赖关系时，能够感知关节间跨骨架的局部特征关联。鉴于我们的三维姿态输出与序列中心二维姿态对齐，我们改进了自注意力机制使其聚焦中心姿态特征，并沿序列首尾方向逐步弱化关注强度。在Human3.6m、MPI-INF-3DHP和HumanEva-I数据集上的大量实验验证了方法的有效性。代码和模型已在Github开源。</p>
+<div style="break-before: page; page-break-before: always;"></div><p>TSTMotion: Training-free Scene-awarenText-to-motion Generation</p>
+<p>文本驱动动作生成技术近期引发了广泛的研究关注，其核心目标是在空白背景下生成人体运动序列。然而，真实场景中的人类动作往往发生在多样化的三维环境中，这推动了面向场景感知的文本驱动动作生成方法的探索。但现有场景感知方法通常依赖大规模三维场景中的真实动作序列，由于数据采集成本高昂，这一需求面临实际挑战。为应对这一难题，我们首次提出了一种<strong>免训练的</strong>场景感知文本驱动动作生成框架<strong>TSTMotion</strong>，该框架通过高效赋能预训练的空白背景动作生成模型，赋予其场景感知能力。具体而言，基于给定的三维场景和文本描述，我们协同运用基础模型进行场景感知动作引导信号的推理、预测和验证。随后，通过对空白背景动作生成器进行两处针对性改进，将动作引导信号融入生成流程，最终输出符合场景语义的文本驱动动作序列。大量实验验证了所提框架的有效性和泛化能力。代码已在\href{https://tstmotion.github.io/}{项目主页}开源。</p>
+<div style="break-before: page; page-break-before: always;"></div><p>GENMO: A GENeralist Model for Human MOtion</p>
+<p>传统的人体运动建模方法通常将动作生成与动作估计划分为两个独立任务，并采用专门的模型进行处理。动作生成模型专注于从文本、音频或关键帧等输入中创造多样且逼真的动作，而动作估计模型则致力于从视频等观察数据中重建精确的运动轨迹。尽管两者共享时间动态学和运动学的底层表征，这种分离式方法限制了任务间的知识迁移，且需维护多个独立模型。</p>
+<p>我们提出了GENMO —— 一个统一的人体运动通用模型，通过单一框架实现动作估计与生成的协同。其核心创新在于将动作估计重新定义为受约束的动作生成过程，要求输出动作必须严格符合观测信号。通过巧妙结合回归方法与扩散模型，GENMO既实现了精确的全局运动估计，又保留了动作生成的多样性优势。我们进一步引入了基于估计的引导训练目标，利用带有二维标注和文本描述的真实场景视频来增强生成多样性。</p>
+<p>该模型的创新架构支持可变时长运动处理，并能融合文本、音频、视频等多模态条件输入，提供灵活的控制方式。这种统一建模产生了显著的协同效应：生成先验可提升遮挡等挑战场景下的估计精度，而丰富的视频数据则增强了生成能力。大量实验证明，GENMO作为通用框架能有效整合多种人体运动任务于单一模型，展现出卓越的性能表现。</p>
+<div style="break-before: page; page-break-before: always;"></div><p>JointDiT: Enhancing RGB-Depth Joint Modeling with Diffusion Transformers</p>
+<p>我们提出了JointDiT —— 一种对RGB图像与深度图进行联合分布建模的扩散变换器。通过利用最先进的扩散变换器架构优势及其卓越的图像先验知识，JointDiT不仅能生成高保真度的图像，还能生成几何合理且精确的深度图。这种稳健的联合分布建模是通过我们提出的两项简单而有效的技术实现的：根据各模态噪声水平动态调整的自适应调度权重，以及非平衡时间步采样策略。借助这些技术，我们实现了模型在所有噪声水平下的全模态训练，使JointDiT仅通过控制各分支的时间步，即可自然处理多种组合生成任务，包括联合生成、深度估计和深度条件图像生成。JointDiT展现出卓越的联合生成性能。此外，在深度估计和深度条件图像生成方面也取得了可比肩的结果，表明联合分布建模可以作为条件生成的有效替代方案。项目页面详见https://byungki-k.github.io/JointDiT/。</p>
+<div style="break-before: page; page-break-before: always;"></div><p>Eye2Eye: A Simple Approach for Monocular-to-Stereo Video Synthesis</p>
+<p>沉浸式视觉体验的日益普及，推动了对立体3D视频生成技术的关注。尽管视频合成领域已取得重大进展，但由于3D视频数据的相对稀缺，创建3D视频仍面临挑战。我们提出了一种将文本到视频生成器转化为视频到立体生成器的简单方法。给定输入视频，我们的框架能自动生成视点偏移后的视频帧，从而实现引人入胜的3D效果。现有及同期方法通常采用多阶段处理流程：首先估计视频视差或深度，随后对视频进行形变处理以生成第二视角，最后对暴露区域进行修复。当场景涉及镜面反射表面或透明物体时，这种方法的固有缺陷就会显现。在此类情况下，单层视差估计无法满足需求，导致形变过程中出现伪影和像素位移错误。我们的研究通过直接合成新视点突破了这些限制，完全规避了中间处理步骤。这一突破的实现得益于对预训练视频模型在几何结构、物体材质、光学特性和语义理解等方面先验知识的有效利用，而无需依赖外部几何模型或人为解耦合成过程中的几何要素。我们在包含多种物体材质与复杂组合的真实场景中验证了该方法的优势。视频演示请访问：https://video-eye2eye.github.io</p>
+<div style="break-before: page; page-break-before: always;"></div><p>T2VPhysBench: A First-Principles Benchmark for Physical Consistency in Text-to-Video Generation</p>
+<p>文生视频生成模型近年来取得了显著进展，能够生成高质量视频，在视觉美感和指令遵循准确性方面表现优异，已成为数字艺术创作和在线用户互动的核心工具。然而，尽管技术进步明显，这些模型对基本物理定律的遵循能力仍未得到充分验证：大量生成结果仍存在违反刚体碰撞、能量守恒和引力动力学等基本物理约束的现象，导致内容缺乏真实感甚至产生误导。现有物理评估基准通常依赖基于简单生活场景提示的自动像素级指标，因而忽视了人类判断和第一性原理物理规律。为填补这一空白，我们提出\textbf{T2VPhysBench} —— 首个基于第一性原理的评估基准，系统检验开源与商业领域最先进的文生视频系统是否遵循十二项核心物理定律，涵盖牛顿力学、守恒定律和现象学效应等维度。本基准采用严谨的人类评估协议，包含三项针对性研究：(1) 整体合规性评估显示，所有模型在每类物理定律上的平均得分均低于0.60；(2) 提示词消融实验表明，即使添加详尽的定律特化提示仍无法修正物理违规；(3) 反事实稳健性测试揭示，当明确要求时，模型常生成明显违反物理规则的视频。研究结果揭示了当前架构的持续缺陷，并为引导未来研究走向真正具备物理感知能力的视频生成提供了具体洞见。</p>
+<div style="break-before: page; page-break-before: always;"></div><p>Direct Motion Models for Assessing Generated Videos</p>
+<p>当前视频生成模型的一个主要局限在于，它们虽然能生成看似逼真的帧画面，但运动效果却十分拙劣——这一问题无法被FVD等主流生成视频评估方法有效捕捉。本研究通过开发一种能更好衡量合理物体交互与运动质量的指标，实现了对FVD的突破性改进。我们的创新方法基于点轨迹自动编码技术，提取的运动特征不仅可用于视频分布的对比(少至单个生成视频与真实视频，多至两个数据集)，还能评估单个视频的运动质量。实验证明，相较于像素重建或动作识别特征，采用点轨迹特征构建的指标对合成数据中的时序失真表现出显著更高的敏感性，且在预测开源模型生成视频的时间连贯性与真实感方面，其人类评估结果优于多种替代方法。此外，点轨迹表征技术使我们能在时空维度精准定位生成视频中的不一致性，相比先前研究，为生成视频错误提供了更强的可解释性。完整结果概览及代码链接请访问项目页面：http://trajan-paper.github.io。</p>
+<div style="break-before: page; page-break-before: always;"></div><p>Real-Time Animatable 2DGS-Avatars with Detail Enhancement from Monocular Videos</p>
+<p>从单目视频中重建高质量、可动画化的三维人体化身，在降低对复杂硬件依赖方面展现出巨大潜力，这使其在游戏开发、增强现实和社交媒体应用中极具实用价值。然而，现有方法在捕捉精细几何细节和保持动画稳定性方面仍面临重大挑战，特别是在动态或复杂姿态下表现尤为明显。为解决这些问题，我们提出了一种基于二维高斯泼溅(2DGS)的新型实时可动画人体化身重建框架。通过结合2DGS与全局SMPL姿态参数，我们的框架不仅能够校正位置和旋转偏差，还能实现重建化身的鲁棒且自然的姿态驱动动画。此外，我们创新性地引入了旋转补偿网络(RCN)，该网络通过融合局部几何特征与全局姿态参数来学习旋转残差。该网络显著改善了非刚性形变的处理能力，并确保动画过程中姿态转换的平滑性和无伪影特性。实验结果表明，我们的方法成功实现了从单目视频重建逼真且高度可动画的人体化身，在保持精细细节的同时确保姿态变化的稳定性和自然性。在公共基准测试中，本方法在重建质量和动画鲁棒性方面均超越了当前最先进的方法。</p>
+<div style="break-before: page; page-break-before: always;"></div><p>CoCoDiff: Diversifying Skeleton Action Features via Coarse-Fine Text-Co-Guided Latent Diffusion</p>
+<p>在动作识别任务中，特征多样性对提升模型泛化能力和性能至关重要。现有方法通常通过在样本空间中扩充训练数据来增强特征多样性，但这种方式往往效率低下且存在语义不一致问题。为克服这些局限，我们提出了一种新颖的粗细粒度文本协同引导扩散模型(CoCoDiff)。该模型通过扩散过程和多粒度文本引导，在潜在空间中生成多样化且语义一致的特征表示。具体而言，我们的方法将骨骼序列提取的时空特征输入潜在扩散模型，生成多样化的动作表征。同时，我们创新性地引入粗细粒度文本协同引导策略，利用大语言模型(LLMs)提供的文本信息，确保生成特征与原始输入的语义一致性。值得注意的是，CoCoDiff在训练过程中作为即插即用辅助模块运行，无需增加推理阶段的计算开销。大量实验表明，CoCoDiff在基于骨骼数据的动作识别基准测试(包括NTU RGB+D、NTU RGB+D 120和Kinetics-Skeleton)中取得了最先进的性能表现。</p>
+<div style="break-before: page; page-break-before: always;"></div><p>Common3D: Self-Supervised Learning of 3D Morphable Models for Common Objects in Neural Feature Space</p>
+<p>三维可变形模型(3DMMs)是一种强大的工具，能够表示物体类别的潜在形状与外观。给定单张测试图像时，3DMMs可用于解决多种任务，例如预测物体的三维形状、姿态、语义对应关系及实例分割。然而，目前3DMMs仅适用于极少数特定关注的对象类别(如人脸或人体)，因为它们需要复杂的3D数据采集和针对特定类别的训练流程。相比之下，我们提出了一种新方法Common3D——通过从以物体为中心的视频集合中完全自监督的方式学习常见物体的3D可变形模型。</p>
+<p>为实现这一目标，我们的模型将物体表征为一个学习得到的3D模板网格和一个以图像为条件的神经网络参数化的变形场。与先前工作不同，Common3D使用神经特征而非RGB颜色描述物体外观，这种对像素强度的抽象使学习到的表征具有更强的泛化性。值得注意的是，我们通过利用可变形模板网格定义的对应关系，采用对比目标训练外观特征。相较于相关研究，该方法产生了更高质量的对应特征，并显著提升了模型在估计三维物体姿态和语义对应任务中的性能。Common3D是首个完全自监督且能以零样本方式解决多种视觉任务的方法。</p>
+<div style="break-before: page; page-break-before: always;"></div><p>HoloTime: Taming Video Diffusion Models for Panoramic 4D Scene Generation</p>
+<p>扩散模型的快速发展为VR和AR技术的应用革新带来曙光，这类技术通常需要场景级4D资产来支撑用户体验。然而，现有扩散模型主要聚焦于静态3D场景或物体级动态建模，限制了其提供真正沉浸式体验的能力。为解决这一问题，我们提出HoloTime框架：通过整合视频扩散模型实现单提示词或参考图像生成全景视频，并开发360度4D场景重建方法，将生成的全景视频无缝转化为4D资产，为用户创造完全沉浸的4D体验。具体而言，为驯化视频扩散模型生成高保真全景视频，我们构建了首个适用于下游4D场景重建任务的全景视频数据集360World。基于此数据集，我们提出全景动画生成器 —— 一种两阶段图像到视频扩散模型，可将全景图像转化为高质量全景视频。随后开发的全景时空重建技术，通过时空深度估计方法将生成视频转化为4D点云，进而优化整体4D高斯溅射表征，重建时空一致的4D场景。通过与现有方法的对比实验验证，本方法在全景视频生成与4D场景重建方面均展现显著优势，证明其能创建更具吸引力和真实感的沉浸式环境，从而提升VR/AR应用中的用户体验。</p>
+<div style="break-before: page; page-break-before: always;"></div><p>MagicPortrait: Temporally Consistent Face Reenactment with 3D Geometric Guidance</p>
+<p>在本文中，我们提出了一种将三维人脸参数化模型融入隐式扩散框架的视频人脸驱动方法，旨在提升现有视频人脸生成方法中的形状一致性和运动控制能力。该方法采用FLAME（基于关节模型与表情学习的人脸模型）作为三维人脸参数化表征，为面部表情与头部姿态建模提供了统一框架，能够从驱动视频中精确提取细粒度的人脸几何与运动特征。具体而言，我们通过融合FLAME序列生成的深度图、法线贴图和渲染图，将丰富的三维表情与姿态细节信息注入隐式扩散模型。采用集成自注意力机制的多层面部运动融合模块，在空间域内结合身份特征与运动潜特征。借助三维人脸参数化模型的运动指导，我们的方法实现了参考图像与驱动视频捕获动作之间人脸身份的参数量化对齐。在基准数据集上的实验结果表明，该方法在高质量人脸动画生成方面具有显著优势，能够精准建模表情变化与头部姿态调整。此外，该方法在域外图像上展现出优秀的泛化性能。项目代码已开源：https://github.com/weimengting/MagicPortrait。</p>
+<div style="break-before: page; page-break-before: always;"></div><p>ReVision: High-Quality, Low-Cost Video Generation with Explicit 3D Physics Modeling for Complex Motion and Interaction</p>
+<p>近年来，视频生成技术取得了显著进展，但在生成复杂运动和交互方面仍存在挑战。为此，我们提出了ReVision框架——一种即插即用的解决方案，通过将参数化的3D物理知识显式整合到预训练条件视频生成模型中，显著提升了生成具有复杂运动与交互的高质量视频的能力。具体而言，ReVision包含三个阶段：首先使用视频扩散模型生成粗粒度视频；接着从粗粒度视频中提取2D和3D特征集构建以物体为中心的3D表征，并通过我们提出的参数化物理先验模型进行优化，生成精确的3D运动序列；最后将优化后的运动序列作为附加条件反馈至原视频扩散模型，使其即使在涉及复杂动作与交互的场景下，也能生成运动一致的视频。我们在Stable Video Diffusion平台上验证了该方法的有效性，ReVision显著提升了运动保真度与连贯性。值得注意的是，该框架仅需15亿参数，在复杂视频生成任务上的表现即大幅超越拥有130亿参数的业界领先视频生成模型。实验结果表明，通过融入3D物理知识，即使相对较小的视频扩散模型也能以更高的真实性与可控性生成复杂运动和交互，为物理合理的视频生成提供了创新解决方案。</p>
+<div style="break-before: page; page-break-before: always;"></div><p>Efficient Listener: Dyadic Facial Motion Synthesis via Action Diffusion</p>
+<p>在双向对话中生成逼真的听者面部动作仍然具有挑战性，这主要源于高维动作空间和时序依赖性的要求。现有方法通常考虑提取3D可变形模型(3DMM)系数并在3DMM空间进行建模。然而，这种做法使得3DMM的计算速度成为性能瓶颈，难以实现实时交互响应。为解决这一问题，我们提出了面部动作扩散方法(Facial Action Diffusion, FAD)，该方法将图像生成领域的扩散方法引入到面部动作生成中，以实现高效的面部动作生成。我们进一步构建了专为接收说话者视觉和听觉信息的双模态输入而设计的高效听者网络(Efficient Listener Network, ELNet)。结合FAD和ELNet，所提出的方法能有效学习听者面部运动表征，在性能上超越了现有最优方法的同时，将计算时间减少了99%。</p>
+<div style="break-before: page; page-break-before: always;"></div><p>Creating Your Editable 3D Photorealistic Avatar with Tetrahedron-constrained Gaussian Splatting </p>
+<p>个性化3D数字人编辑技术因其用户友好性以及在AR/VR和虚拟试穿等领域的应用潜力而备受关注。现有研究虽然探索了3D编辑的可行性，但受限于复杂重建场景中几何与纹理混合优化的不稳定性表征学习，往往难以生成理想的视觉效果。本文致力于为普通用户提供便捷的解决方案，使其能够创建具备精准区域定位、几何自适应性及高保真渲染效果的可编辑3D数字人。为此，我们提出了一种创新框架，通过混合式四面体约束高斯溅射(TetGS)作为底层表征，将编辑过程解耦为局部空间适配与真实感外观学习两个维度。该TetGS技术融合了四面体网格的可控显式结构与3D高斯溅射的高精度渲染优势，并采用分阶段优化策略：首先基于单目视频实现3D数字人实例化以获取TetGS初始化先验；其次通过显式划分的四面体引导高斯核重分布的局部空间适配；最终采用由粗到细的激活策略实现基于几何的外观生成。定性与定量实验结果表明，我们的方法在生成可编辑高真实感3D数字人方面具有显著优势。</p>
+<div style="break-before: page; page-break-before: always;"></div><p>SoccerDiffusion: Toward Learning End-to-End Humanoid Robot Soccer from Gameplay Recordings</p>
+<p>本论文介绍了SoccerDiffusion —— 一种基于Transformer架构的扩散模型，旨在直接从真实足球比赛录像中学习人形机器人足球的端到端控制策略。利用从RoboCup比赛收集的数据，该模型能够根据多模态传感器输入(包括视觉、本体感觉和比赛状态)预测关节控制轨迹。我们采用蒸馏技术将多步扩散过程简化为单步推理，从而实现在嵌入式平台上的实时运算。实验结果表明，该模型在仿真环境和实体机器人上均能复现行走、踢球、跌倒恢复等复杂运动行为。尽管在高层战术行为层面仍存在局限，但本研究为后续强化学习或偏好优化方法奠定了坚实基础。相关数据集、预训练模型及代码已发布于：<a href="https://bit-bots.github.io/SoccerDiffusion">https://bit-bots.github.io/SoccerDiffusion</a></p>
+<div style="break-before: page; page-break-before: always;"></div><p>TesserAct: Learning 4D Embodied World Models</p>
+<p>本文提出了一种有效的学习新型4D具身世界模型的方法。该模型能够预测3D场景随具身智能体动作产生的动态演变，同时保持时空一致性。我们提出通过RGB-DN(RGB、深度与法线)视频训练来学习4D世界模型，这种方法不仅通过将形状细节、配置状态和时间变化纳入预测而超越了传统2D模型，还能有效学习具身智能体的精确逆动态模型。具体而言，我们首先利用现成模型扩展现有机器人操作视频数据集，补充深度和法线信息；然后在此标注数据集上对视频生成模型进行微调，使其能够联合预测每帧的RGB-DN信息；最后提出一种算法，直接将生成的RGB、深度和法线视频转换为高质量的4D世界场景。该方法在具身场景的4D场景预测中确保了时间与空间一致性，实现了具身环境的新视角合成，并支持策略学习——实验表明由此获得的策略性能显著优于基于传统视频世界模型的方案。</p>
+<div style="break-before: page; page-break-before: always;"></div><p>EfficientHuman: Efficient Training and Reconstruction of Moving Human using Articulated 2D Gaussian</p>
+<p>三维高斯溅射(3D Gaussian Splatting, 3DGS)作为场景重建与新视角合成的开创性技术，近期在人体三维重建领域的应用尝试通过引入人体姿态先验信息来提升渲染质量与训练速度。然而，由于多视角不一致性和高斯冗余问题，现有方法在动态表面拟合方面仍面临挑战。这种不一致性源于高斯椭球体难以精确表征动态物体表面，从而阻碍了动态人体的快速重建。与此同时，高斯冗余的普遍存在意味着这些方法的训练耗时仍无法满足动态人体的快速拟合需求。针对上述问题，我们提出EfficientHuman模型——通过引入铰接式2D高斯面元(Articulated 2D Gaussian surfels)，在保证高质量渲染的同时快速实现动态人体重建。该模型的核心创新在于将高斯溅射体编码为规范空间下的铰接式2D高斯面元，并通过线性混合蒙皮(LBS)变换至姿态空间以实现高效姿态迁移。相较于传统3D高斯表征，铰接式2D高斯面元能够在保证视角一致几何表征的同时快速适配动态人体。此外，我们引入姿态校准模块和LBS优化模块以实现动态人体姿态的精准拟合，进一步提升模型性能。在ZJU-MoCap数据集上的大量实验表明，EfficientHuman平均仅需不到1分钟即可完成三维动态人体重建，较现有最优方法提速20秒，同时有效降低了高斯冗余数量。</p>
+<div style="break-before: page; page-break-before: always;"></div><p>Joint Optimization of Neural Radiance Fields and Continuous Camera Motion from a Monocular Video</p>
+<p>神经辐射场(Neural Radiance Fields, NeRF)已展现出其在三维几何表征方面的卓越能力，但其训练过程依赖于预先精确计算的相机位姿。为了降低这一限制，现有方法通常通过联合优化相机位姿与NeRF来实现，但往往需要良好的位姿初始化或深度先验。然而，由于这些方法将每个相机映射至统一的世界坐标系，在面对大幅旋转等挑战性场景时表现受限。本文提出了一种创新方法，通过将连续相机运动建模为时间依赖的角速度与线速度，从而消除对先验条件的依赖。我们首先通过学习相机间的相对运动(通过速度积分实现)，随后通过聚合这些相对运动至视频某一时间步定义的世界坐标系中，最终获得相机位姿。具体而言，我们通过时间依赖的NeRF模型学习精确的连续相机运动——该模型通过在每个时间步利用相邻帧进行训练，以捕捉局部场景几何与运动特征。学习到的运动信息进一步用于微调NeRF，使其能够表征完整场景几何结构。在Co3D和Scannet数据集上的实验表明，相较于现有最优方法，我们的方法在相机位姿估计、深度估计精度方面表现更优，同时在新视角合成任务中达到可比性能。代码已开源：<a href="https://github.com/HoangChuongNguyen/cope-nerf">https://github.com/HoangChuongNguyen/cope-nerf</a>   </p>
+<div style="break-before: page; page-break-before: always;"></div><p>Sketch2Anim: Towards Transferring Sketch Storyboards into 3D Animation</p>
+<p>分镜脚本（故事板）被广泛应用于三维动画创作。动画师通常以分镜中的二维草图为参考，通过反复试错来制作理想的三维动画。传统方法需要极高的专业素养，且费时费力。因此，业界迫切需要能够直接将二维故事板草图转化为三维动画的自动化方法。该任务目前尚未得到充分探索，受运动扩散模型重大进展的启发，我们尝试从条件运动合成的角度切入这一领域。为此，我们提出了Sketch2Anim系统，其核心由草图约束理解与运动生成两大模块构成。具体而言，鉴于二维草图与三维运动之间存在显著的领域差异，我们并未直接以二维输入为条件，而是设计了一个三维条件运动生成器，通过同时利用三维关键姿势、关节轨迹和动作描述词，实现精准细粒度的运动控制。此外，我们创新性地开发了神经映射器，专门用于将用户提供的二维草图与其对应的三维关键姿势及轨迹在共享嵌入空间中对齐，从而首次实现了对运动生成的直接二维控制。得益于多条件运动生成器的灵活性，我们的方法不仅能将分镜脚本成功转化为高质量三维运动，还天然支持直接的三维动画编辑。通过全面的实验评估以及用户感知研究，我们验证了该方法的有效性。</p>
+<div style="break-before: page; page-break-before: always;"></div><p>HumMorph: Generalized Dynamic Human Neural Fields from Few Views</p>
+<p>我们推出了HumMorph——一种具有显式姿态控制能力的动态人体自由视角渲染新型通用方法。该方法能够在给定任意姿态下少量观测视角（最低仅需一个）的条件下，渲染出目标人物处于任意指定姿态的图像。通过完全依赖模型的前馈推理过程，我们的方法实现了快速生成。首先，我们在标准T姿态下构建人物的粗略表征，该表征通过融合来自不同局部观测视角的视觉特征，并利用学习获得的先验知识填补缺失信息。为了增强细节表现，我们进一步从原始观测视图中直接提取细粒度的像素对齐特征，以提供高分辨率的外观信息。实验表明，当仅使用单视角输入时，HumMorph已具备与现有最佳方法竞争的实力；而在仅需两个单目观测的条件下，我们的方法能实现视觉效果显著提升的渲染效果。值得注意的是，此前通用方法通常依赖于通过多相机同步系统获取精确的人体形态与姿态参数。相较之下，我们着眼于更实际的应用场景——直接从观测视图中进行存在噪声的体态参数估计。实验结果表明，我们的架构对参数噪声具有更强的鲁棒性，在该设定下明显超越了现有技术标杆。</p>
+<div style="break-before: page; page-break-before: always;"></div><p>AnimateAnywhere: Rouse the Background in Human Image Animation</p>
+<p>人体图像动画生成旨在根据给定的人物角色和背景生成符合指定姿态序列的人类视频。然而，现有方法更多关注人物动作而忽视了背景的动态生成，这通常会导致静态结果或背景运动不协调的问题。学界虽已探索过相机位姿引导的动画生成任务，但为大多数娱乐应用和普通用户准备相机运动轨迹并不现实。为此，我们提出了AnimateAnywhere框架，无需依赖相机轨迹即可在人体动画中激发背景动态。基于&quot;人体运动往往反映背景动态&quot;这一关键发现，我们设计了背景运动学习器（BML），从人体姿态序列中学习背景运动规律。为了增强模型对跨帧对应关系的精确学习，我们进一步在三维注意力图上施加极线约束：通过将极线掩膜与当前三维注意力图相结合，精心构建出抑制几何不合理注意力的掩膜系统。大量实验证明，我们的AnimateAnywhere能有效从人体姿态序列中学习背景运动规律，在生成具有生动逼真背景的人类动画效果方面达到业界领先水平。源代码和模型将在<a href="https://github.com/liuxiaoyu1104/AnimateAnywhere">https://github.com/liuxiaoyu1104/AnimateAnywhere</a> 发布。</p>
+<div style="break-before: page; page-break-before: always;"></div><p>Generative AI for Character Animation: A Comprehensive Survey of Techniques, Applications, and Future Directions</p>
+<p>生成式人工智能正在重塑艺术、游戏以及最引人注目的动画领域。基础模型和扩散模型的最新突破，显著降低了动画内容的制作时间和成本。作为动画的核心要素，角色涉及动作、情绪、手势和面部表情等多个维度。近月来该领域技术发展的速度与广度令人应接不暇，亟需一份整合性综述来梳理脉络。不同于早期仅孤立探讨虚拟化身、手势或面部动画的综述，本次调研首次以统一视角全面解析角色动画中所有主要生成式AI应用。</p>
+<p>我们首先系统考察了以下方向的最新技术进展：面部动画、表情渲染、图像合成、虚拟化身创建、手势建模、动作合成、物体生成以及纹理合成。针对每个领域，我们重点梳理了前沿研究、实际应用、常用数据集及新兴趋势。为帮助新入行者，我们还设置了完整的背景知识章节，深入解读基础模型和评估指标，为读者奠定领域知识基础。通过剖析开放挑战并规划未来研究方向，我们绘制了推进AI驱动角色动画技术的发展蓝图。</p>
+<p>本调研旨在为进入生成式AI动画及其相关领域的研究者与开发者提供知识图谱。相关资源已整合于：<a href="https://github.com/llm-lab-org/Generative-AI-for-Character-Animation-Survey">https://github.com/llm-lab-org/Generative-AI-for-Character-Animation-Survey</a></p>
+<div style="break-before: page; page-break-before: always;"></div><p>ActionArt: Advancing Multimodal Large Models for Fine-Grained Human-Centric Video Understanding</p>
+<p>对视频中人类动作和姿态的细粒度理解对于以人为中心的人工智能应用至关重要。本研究提出ActionArt数据集——一个旨在推动以人为中心的多模态理解研究的细粒度视频描述数据集。我们的数据集包含数千个涵盖广泛人类动作、人-物交互和多样化场景的视频片段，每个视频均配有详细标注，精确记录了每个肢体动作的细微变化。我们设计了八项子任务来评估现有大型多模态模型在不同维度的细粒度理解能力。实验结果表明，虽然当前主流大型多模态模型在多项任务上表现优异，但在细粒度理解层面仍存在明显不足。我们分析这种局限主要源于高质量标注数据的稀缺性，这类数据的标注既成本高昂又难以进行规模化人工标注。鉴于人工标注的高成本和规模化难题，我们提出通过代理任务来增强模型在时空维度上的感知能力。这些代理任务经过精心设计，可以通过现有MLLMs自动生成的数据进行驱动，从而降低对昂贵人工标注的依赖。实验结果显示，所提出的代理任务显著缩小了与人工标注细粒度数据训练的性能差距。</p>
+<div style="break-before: page; page-break-before: always;"></div><p>SmallGS: Gaussian Splatting-based Camera Pose Estimation for Small-Baseline Videos</p>
+<p>小基线运动的动态视频在日常生活中无处不在，尤其是在社交媒体上。然而，由于特征模糊、漂移累积以及三角测量约束不足，这些视频对现有的姿态估计框架提出了挑战。高斯泼溅(Gaussian splatting)通过对场景保持显式表示，在视角变化较小时能够提供可靠的新视图栅格化。受此启发，我们提出了SmallGS，这是一个专为小基线视频设计的相机姿态估计框架。该方法利用高斯泼溅优化序列相机位姿：首先在每个视频片段的首帧重建场景，为后续帧提供稳定参考。高斯泼溅在有限视角差异下的时间一致性特性，降低了传统相机姿态估计对深度剧烈变化的依赖。我们进一步将预训练的鲁棒视觉特征(如DINOv2)融入高斯泼溅，通过高维特征图渲染增强相机姿态估计的鲁棒性。通过冻结高斯泼溅模型并基于栅格化特征优化相机视角，SmallGS无需显式特征对应或强视差运动即可有效学习相机位姿。我们在TUM-Dynamics序列的小基线视频中验证了该方法的有效性：相较于MonST3R和DORID-SLAM，SmallGS在动态场景的小基线视频中实现了更精确的相机姿态估计。项目主页详见：<a href="https://yuxinyao620.github.io/SmallGS">https://yuxinyao620.github.io/SmallGS</a></p>
+<div style="break-before: page; page-break-before: always;"></div><p>STP4D: Spatio-Temporal-Prompt Consistent Modeling for Text-to-4D Gaussian Splatting</p>
+<p>文本到4D生成技术正在快速发展并广泛应用于多种场景。然而，现有方法往往难以在统一框架内实现充分的时空建模与提示对齐，导致生成内容存在时序不一致、几何畸变或质量低下等问题，且结果常偏离输入文本描述。为此，我们提出创新性方法STP4D，通过整合全面的时空-提示一致性建模，致力于实现高质量的文本到4D生成。</p>
+<p>该方法特别设计了三个协同工作的核心模块：时变提示嵌入模块通过动态调整文本语义表达增强时序一致性，几何信息增强模块利用多尺度特征保持几何结构完整性，时序扩展形变模块则通过物理模拟优化动态形变过程。此外，STP4D率先将扩散模型与4D高斯表征（4DGS）相结合，既保留了4DGS的细粒度建模能力和实时渲染优势，又继承了扩散模型的快速推理特性（单个资产生成仅需约4.6秒）。</p>
+<p>实验验证表明，STP4D生成的4D内容在保真度方面显著优于现有方法，同时保持着极高的生成效率，在质量和速度两个维度均实现突破。这项技术为影视特效、虚拟现实等领域的动态三维内容创作提供了新的解决方案。</p>
+<div style="break-before: page; page-break-before: always;"></div><p>Unify3D: An Augmented Holistic End-to-end Monocular 3D Human Reconstruction via Anatomy Shaping and Twins Negotiating</p>
+<p>单目三维穿衣人体重建旨在从单张图像中生成完整的三维数字人。为解决单张 RGB 图像中人体几何信息缺失的问题，现有方法通常依赖前置模型来获取显式的几何表征。在重建过程中，研究重点往往同时放在模型本身和输入图像上。这种范式受限于前置模型，且忽视了重建任务的内在完整性。针对这一局限，本文提出了一种创新范式，将人体重建视为整体过程，采用端到端网络直接从二维图像预测三维数字人，摒弃任何显式的中间几何表征。基于此，我们进一步提出了一个包含两大核心模块的新型重建框架：解剖形态提取模块（ASE），其能捕捉考虑人体解剖学特性的隐式形态特征；双胞胎协商重建 U-Net（TNRU），通过跨模态双U-Net的特征交互提升重建效果。此外，我们提出了卡通数据增强策略并构建了包含15,000 + 三维人体扫描的数据集，以增强模型在复杂案例输入下的性能。通过在两个测试集及大量真实场景案例上的广泛实验，验证了本方法相较于最先进技术（SOTA）的优越性。项目演示详见：<a href="https://e2e3dgsrecon.github.io/e2e3dgsrecon/%E3%80%82">https://e2e3dgsrecon.github.io/e2e3dgsrecon/。</a></p>
+<div style="break-before: page; page-break-before: always;"></div><p>SSD-Poser: Avatar Pose Estimation with State Space Duality from Sparse Observations</p>
+<p>随着AR/VR应用场景的不断拓展，头戴式显示器（HMD）对实时全身姿态估计的需求日益增长。尽管HMD能够提供头部和手部的关节信号，但由于下半身自由度较高，全身姿态重建仍面临挑战。近年来，学界常采用传统神经网络与生成式模型（如Transformer和扩散模型）来提升该任务的性能表现。然而，这些方法在实现精确姿态重建与保持快速推理速度之间难以达到平衡。为此，我们设计了轻量高效的SSD-Poser模型，旨在通过稀疏观测实现稳健的全身运动估计。该模型通过精心设计的混合编码器——状态空间注意力编码器，将状态空间对偶性适配复杂运动姿态，从而实现实时逼真的姿态重建。此外，模型引入频率感知解码器以缓解变频运动信号引起的抖动现象，显著提升了运动流畅度。在AMASS数据集上的综合实验表明，SSD-Poser在计算效率与精度方面均达到优异水平，相比现有最优方法展现出突出的推理效能。</p>
+<div style="break-before: page; page-break-before: always;"></div><p>PIN-WM: Learning Physics-INformed World Models for Non-Prehensile Manipulation</p>
+<p>尽管非抓取式操作（如受控推挤/戳动）是机器人的基础技能，但由于其对涉及摩擦与恢复力的复杂物理交互具有高度敏感性，其学习过程仍面临挑战。为实现稳健的策略学习与泛化能力，我们选择学习非抓取操作中三维刚体动力学的世界模型，并采用基于模型的强化学习方法。本文提出物理信息世界模型 PIN-WM，该模型能够从视觉观测数据中实现三维刚体动力系统的端到端高效辨识。通过采用可微分物理仿真技术，PIN-WM 仅需少量与任务无关的物理交互轨迹即可完成学习。此外，该模型通过高斯溅射法产生的观测损失进行训练，无需依赖状态估计。为弥合仿真与现实差距，我们通过物理感知随机化技术将学习到的 PIN-WM 转化为一组数字表亲——通过扰动物理参数与渲染参数，生成 PIN-WM 的多样化有意义变体。大量仿真与真实世界测试表明，经物理感知数字表亲增强的PIN-WM能够促进具有仿真-现实迁移能力的稳健非抓取操作技能学习，其性能超越当前最先进的 Real2Sim2Real 方法。</p>
+<div style="break-before: page; page-break-before: always;"></div><p>Gaussian Splatting is an Effective Data Generator for 3D Object Detection</p>
+<p>我们研究了自动驾驶中 3D 物体检测的数据增强方法。利用基于高斯溅射的 3D 重建技术最新进展，我们在驾驶场景中实现了 3D 物体的精准放置。与现有基于扩散的方法（通过鸟瞰图布局条件生成图像）不同，我们的方法直接将 3D 物体置入重建的三维空间，并显式施加几何变换。这既保证了物体放置的物理合理性，又提供了高精度的 3D 姿态与位置标注。实验表明，即使仅在真实场景中集成有限数量的外部 3D 物体，增强后的数据也能显著提升3D检测性能，并优于现有基于扩散的 3D 数据增强方法。在 nuScenes 数据集上的大量测试表明，相较于物体外观多样性，施加高几何多样性的物体布局对性能提升更为关键。此外，我们发现通过最大化检测损失或施加高视觉遮挡生成的困难样本，并不能有效提升基于摄像头的自动驾驶 3D 物体检测性能。  </p>
+<div style="break-before: page; page-break-before: always;"></div><p>HUG: Hierarchical Urban Gaussian Splatting with Block-Based Reconstruction</p>
+<p>随着城市三维场景日益复杂化及高质量渲染需求的提升，高效的场景重建与渲染技术变得至关重要。本文提出 HUG 方法 —— 一种基于 3D 高斯溅射的新型解决方案，旨在解决大规模城市场景处理和复杂细节渲染中的效率瓶颈。该方法通过引入分层神经高斯表示，对数据分区和重建流程进行系统性优化。我们采用改进的基于分块的重建流程，重点提升单个分块内的重建质量，同时减少对分块边界冗余训练区域的依赖。通过将神经高斯表示与分层架构相结合，本方法以较低计算成本实现了高质量场景渲染。我们在公开基准测试中取得了最先进的结果，充分证明该方法在大规模城市场景表征方面的有效性和优势。</p>
+<div style="break-before: page; page-break-before: always;"></div><p>Physically Consistent Humanoid Loco-Manipulation using Latent Diffusion Models</p>
+<p>本文利用潜在扩散模型（Latent Diffusion Models, LDMs）的能力生成逼真的RGB人-物交互场景，以指导人形机器人的移动操作规划。具体而言，我们从生成图像中提取接触位置和机器人配置信息，并将其应用于全身轨迹优化（Whole-Body Trajectory Optimization, TO）框架，从而为人形机器人生成符合物理规律的运动轨迹。我们通过仿真在多种长周期移动操作场景下验证了完整流程，并对提出的接触点与机器人配置提取方法进行了深入分析。实验结果表明，利用从LDMs提取的信息，我们能够生成需要长期推理且符合物理约束的运动轨迹。</p>
+<div style="break-before: page; page-break-before: always;"></div><p>PMG: Progressive Motion Generation via Sparse Anchor Postures Curriculum Learning</p>
+<p>在计算机动画、游戏设计以及人机交互领域，如何生成符合用户意图的人体运动始终是一项重大挑战。现有方法存在显著局限性：基于文本描述的方法能够提供高层语义指导，但难以准确描述复杂动作；基于轨迹的技术虽然能直观控制全局运动方向，却常无法生成精确或定制化的角色动作；而锚点姿态引导的方法通常仅限于生成简单运动模式。</p>
+<p>为实现更高控制精度和更精细的运动生成，我们提出<strong>ProMoGen（渐进式运动生成框架）</strong> —— 一种将轨迹引导与稀疏锚点动作控制相结合的全新框架。全局轨迹保证了空间方向与位移的连贯性，而稀疏锚点动作仅传递精确的动作指导（不含位移信息）。这种解耦设计使得两者能够独立优化，从而实现更高可控性、高保真度与复杂运动合成。ProMoGen在统一训练流程中支持双控制范式（轨迹+锚点）与单控制范式（仅轨迹或仅锚点）的灵活切换。</p>
+<p>此外，针对稀疏动作直接学习存在固有不稳定性的问题，我们提出<strong>SAP-CL（稀疏锚姿态课程学习策略）</strong>。该课程学习方法通过渐进式调整引导锚点数量，实现了更精准稳定的收敛效果。大量实验表明，ProMoGen在预定义轨迹与任意锚点帧的引导下，能够生成生动多样的运动。我们的方法将个性化动作与结构化引导无缝融合，在多种控制场景下显著优于当前最先进的方法。</p>
+<div style="break-before: page; page-break-before: always;"></div><p>Unveiling Hidden Vulnerabilities in Digital Human Generation via Adversarial Attacks</p>
+<p>富有表现力的人体姿态与形状估计（EHPS）对于数字人生成至关重要，尤其在直播等实时应用中。尽管现有研究主要集中于降低估计误差，但大多忽视了鲁棒性与安全性问题，导致这些系统容易受到对抗攻击。为应对这一重大挑战，我们提出了<strong>实体化攻击 (TBA)</strong> ——一个创新框架，旨在生成能有效攻破任何数字人生成模型的对抗样本。该方法通过<strong>双重异构噪声生成器 (DHNG)</strong>，结合变分自编码器（VAE）与 ControlNet 技术，根据原始图像特征生成多样化、目标导向的噪声。此外，我们设计了定制的<strong>对抗性损失函数</strong>来优化噪声，确保其兼具高可控性与强破坏性。通过从噪声和最先进的EHPS模型中获取多梯度信号进行迭代优化，TBA显著提升了对抗样本的攻击效能。大量实验证明TBA的优越性：在估计误差方面实现了41.0% 的显著增长，平均提升约 17.0% 。这些发现揭示了当前 EHPS 模型存在的重大安全漏洞，并凸显了在数字人生成系统中加强防御的迫切需求。   </p>
+<div style="break-before: page; page-break-before: always;"></div><p>PICO: Reconstructing 3D People In Contact with Objects</p>
+<p>从单张彩色图像中恢复 3D 人物-物体交互 (HOI) 面临多重挑战，包括深度模糊性、遮挡问题，以及物体形状和外观的巨大多样性。因此，以往研究需要依赖已知物体形状和接触点等受控条件，且仅能处理有限类别的物体。为应对真实场景的需求，我们需要能泛化到自然图像和新型物体类别的方法。本研究通过两大创新实现突破：</p>
+<p>(1) 我们构建了 <strong>PICO-db</strong> 新型数据集，其独特之处在于将自然图像与人体和物体网格上的密集3D接触点进行配对。基于DAMON数据集(已包含标准3D人体接触标注)，我们通过以下方式实现双重接触标注：利用视觉基础模型从数据库检索适配的3D物体网格，并创新性地通过&quot;每接触区域仅需两次点击&quot;的投影方法，将 DAMON 的人体接触区域映射到物体表面。这种极简人工标注方式实现了人体与物体间丰富的接触对应关系。</p>
+<p>(2) 我们提出 <strong>PICO-fit</strong> 渲染比较拟合方法，利用新型接触对应数据集重建交互中的 3D 人体和物体网格。该方法的工作流程包括：推断 SMPL-X 人体的接触信息 → 从 PICO-db 检索匹配的物体网格及接触数据 → 通过优化迭代拟合三维模型使其符合图像证据。PICO-fit 的突破性在于能处理现有方法无法应对的多种物体类别，这对实现真实场景的大规模HOI理解至关重要。</p>
+<p>项目数据与代码已开源：<a href="https://pico.is.tue.mpg.de">https://pico.is.tue.mpg.de</a></p>
+<div style="break-before: page; page-break-before: always;"></div><p>Bolt: Clothing Virtual Characters at Scale</p>
+<p>为虚拟角色着装是一个耗时且通常需要手动操作的过程。一套服装可能由多件服饰组成，每件服饰都必须适配角色的独特体型。由于角色的体型差异可能非常显著，为众多角色适配服装会面临组合爆炸式增长的难题。我们推出了 Bolt 系统，该系统的设计目标是通过转移、悬垂和绑定三阶段流程，将原本在源身体模型上制作的服装适配到新体型上。首先，我们创新的服饰转移方法将每件服饰的三维网格位置转换到目标角色，同时优化服饰的二维缝纫图案，保留原始缝合线与边界的关键特征。其次，系统通过物理模拟逐步悬垂并解缠服装中的每件服饰。最后，所有服饰将被绑定到新角色骨骼上。整个流程完全自动化，无需人工干预即可实现大规模角色着装。完成着装的角色可立即应用于游戏、动画、数字人合成等多种场景。</p>
+<div style="break-before: page; page-break-before: always;"></div><p>Dynamic Camera Poses and Where to Find Them</p>
+<p>大规模标注动态互联网视频中的相机位姿对于推动逼真视频生成与仿真等领域的发展至关重要。然而，此类数据集的构建面临双重挑战：一方面，多数网络视频因拍摄条件限制并不适用于位姿估计；另一方面，即便采用最先进的算法，动态网络视频的位姿标注仍存在显著技术瓶颈。为此，本文提出 DynPose-100K —— 一个标注了精确相机位姿的大规模动态网络视频数据集。我们的数据采集框架通过精心整合任务专用模型与通用模型的级联筛选策略实现高效数据过滤。在位姿估计环节，我们创新性地融合了点追踪、动态遮罩和运动恢复结构 (SfM) 等前沿技术，显著提升了现有方法的精度。实验分析表明，DynPose-100K 不仅在规模上达到十万级别，更在关键属性维度展现出丰富的多样性，为各类下游应用的突破性进展提供了坚实基础。</p>
+<div style="break-before: page; page-break-before: always;"></div><p>3DV-TON: Textured 3D-Guided Consistent Video Try-on via Diffusion Models</p>
+<p>视频虚拟试穿技术旨在将视频中的服装替换为目标服饰。现有方法在处理复杂服装图案和多样化人体姿态时，往往难以生成高质量且时间一致的结果。我们提出 3DV-TON —— 一个基于扩散模型的新型框架，能够生成高保真且时序一致的视频试穿效果。该方法的创新之处在于采用可动画化的带纹理3D网格作为显式的帧级引导，通过直接参照视频序列中始终如一的服装纹理运动，有效解决了现有模型过度追求外观保真度而牺牲运动连贯性的问题。该框架包含自适应的动态 3D 引导生成流程：<br />
+(1) 选取关键帧进行初始2D图像试穿；<br />
+(2) 重建与原始视频姿态同步的带纹理3D网格并进行动画化处理。我们进一步提出鲁棒的矩形掩码策略，成功缓解了人体动态运动和服装位移过程中因服装信息泄露导致的伪影传播问题。为推动视频试穿领域研究，我们构建了 HR-VVT 高清基准数据集，包含 130 段涵盖多种服装类型和场景的视频。定量与定性实验均证明我们的方法显著优于现有技术。</p>
+<p>项目主页详见：<a href="https://2y7c3.github.io/3DV-TON/">https://2y7c3.github.io/3DV-TON/</a></p>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+            </nav>
+
+        </div>
+
+        <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+        <script src="elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="searcher.js" type="text/javascript" charset="utf-8"></script>
+        <script src="clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+        <script type="text/javascript" src="theme/pagetoc.js"></script>
+        <script type="text/javascript">
+        window.addEventListener('load', function() {
+            MathJax.Hub.Register.StartupHook('End', function() {
+                window.setTimeout(window.print, 100);
+            });
+        });
+        </script>
+    </body>
+</html>
