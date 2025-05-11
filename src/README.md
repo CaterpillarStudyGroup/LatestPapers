@@ -5,8 +5,7 @@
 ||2025.5.8|SOAP: Style-Omniscient Animatable Portraits||   |[link](60.md)|
 ||2025.5.8|ReAlign: Bilingual Text-to-Motion Generation via Step-Aware Reward-Guided Alignment||   |[link](59.md)|
 ||2025.5.7|MeshGen: Generating PBR Textured Mesh with Render-Enhanced Auto-Encoder and Generative Data Augmentation||  |[link](58.md)|
-
-||2025.5.7|ELGAR: Expressive Cello Performance Motion Generation for Audio Rendition||   |[link](56.md)|
+||2025.5.7|ELGAR: Expressive Cello Performance Motion Generation for Audio Rendition|| 生成乐器演奏动作  |[link](56.md)|
 ||2025.5.7|PARC: Physics-based Augmentation with Reinforcement Learning for Character Controllers|| 基于物理模拟增强与强化学习的角色控制框架，过机器学习与物理仿真技术迭代增强运动数据集，持续拓展地形穿越控制器的能力。  |[link](55.md)|
 ||2025.5.7|PrimitiveAnything: Human-Crafted 3D Primitive Assembly Generation with Auto-Regressive Transformer||  形状基元抽象重新定义为基元装配生成任务 |[link](53.md)|
 ||2025.5.7|Bridging Geometry-Coherent Text-to-3D Generation with Multi-View Diffusion Priors and Gaussian Splatting|| SDS + 多视频耦合 -> CDS  |[link](52.md)|
@@ -18,9 +17,8 @@
 ||2025.5.4|DualReal: Adaptive Joint Training for Lossless Identity-Motion Fusion in Video Customization|| 文生视频 |[link](46.md)|
 ||2025.5.4|SignSplat: Rendering Sign Language via Gaussian Splatting|| 3DGS，细微动作重建 |[link](45.md)|
 ||2025.5.3|MVHumanNet++: A Large-scale Dataset of Multi-view Daily Dressing Human Captures with Richer Annotations for 3D Human Digitization || 数据集，多视角人体动作序列 |[link](44.md)|
-||2025.5.2|**Model See Model Do: Speech-Driven Facial Animation with Style Control**|| 语音驱动，唇形同步，风格 |[link](41.md)|
+||2025.5.2|Model See Model Do: Speech-Driven Facial Animation with Style Control|| 语音驱动，唇形同步，风格 |[link](41.md)|
 ||2025.5.2|3D Human Pose Estimation via Spatial Graph Order Attention and Temporal Body Aware Transformer|| 动捕 |[link](40.md)|
-||2025.5.2|**TSTMotion: Training-free Scene-awarenText-to-motion Generation**|| 场景感知，文生动作 |[link](38.md)|
 ||2025.5.2|**GENMO: A GENeralist Model for Human MOtion**||  人体运动通用模型，动作估计，动作生成|[link](37.md)|
 ||2025.5.1|T2VPhysBench: A First-Principles Benchmark for Physical Consistency in Text-to-Video Generation|| 文生视频，物理，评估 |[link](34.md)|
 ||2025.5.1|Direct Motion Models for Assessing Generated Videos|| 视频生成评价指标，物体交互，运动质量 |[link](33.md)|
@@ -48,6 +46,19 @@
 ||2025.4.23|PIN-WM: Learning Physics-INformed World Models for Non-Prehensile Manipulation|| 从视频数据中提取物理信息|[link](10.md)|
 ||2025.4.3|TokenHSI: Unified Synthesis of Physical Human-Scene Interactions through Task Tokenization||   |[link](57.md)|
 
+
+# 增加
+|ID|Year|Name|Note|Tags|Link|
+|---|---|---|---|---|---|
+||2024|“Move as you say, interact as you can: Language-guided human motion generation with scene affordance|AffordMotion|
+||2023|Synthesizing diverse human motions in 3d indoor scenes|
+||2022|Humanise: Language-conditioned human motion generation in
+3d scenes|
+
+# 删除
+|ID|Year|Name|Note|Tags|Link|
+|---|---|---|---|---|---|
+||2025.5.2|**TSTMotion: Training-free Scene-awarenText-to-motion Generation**|| 场景感知，文生动作 |[link](38.md)|
 
 # Low
 
