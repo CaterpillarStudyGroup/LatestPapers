@@ -1,10 +1,8 @@
 |ID|Year|Name|Note|Tags|Link|
 |---|---|---|---|---|---|
-||2025.5.8|3D Scene Generation: A Survey||   |[link](62.md)|
-||2025.5.8|SVAD: From Single Image to 3D Avatar via Synthetic Data Generation with Video Diffusion and Data Augmentation||   |[link](61.md)|
-||2025.5.8|SOAP: Style-Omniscient Animatable Portraits||   |[link](60.md)|
-||2025.5.8|ReAlign: Bilingual Text-to-Motion Generation via Step-Aware Reward-Guided Alignment||   |[link](59.md)|
-||2025.5.7|MeshGen: Generating PBR Textured Mesh with Render-Enhanced Auto-Encoder and Generative Data Augmentation||  |[link](58.md)|
+||2025.5.8|SVAD: From Single Image to 3D Avatar via Synthetic Data Generation with Video Diffusion and Data Augmentation|| 从单张图像创建高质量可驱动的3D人体 |[link](61.md)|
+||2025.5.8|**SOAP: Style-Omniscient Animatable Portraits**|| 从单张图像生成可动画化的3D虚拟形象  |[link](60.md)|
+||2025.5.8|ReAlign: Bilingual Text-to-Motion Generation via Step-Aware Reward-Guided Alignment||  双语文本输入合成3D人体运动 |[link](59.md)|
 ||2025.5.7|ELGAR: Expressive Cello Performance Motion Generation for Audio Rendition|| 生成乐器演奏动作  |[link](56.md)|
 ||2025.5.7|PARC: Physics-based Augmentation with Reinforcement Learning for Character Controllers|| 基于物理模拟增强与强化学习的角色控制框架，过机器学习与物理仿真技术迭代增强运动数据集，持续拓展地形穿越控制器的能力。  |[link](55.md)|
 ||2025.5.7|PrimitiveAnything: Human-Crafted 3D Primitive Assembly Generation with Auto-Regressive Transformer||  形状基元抽象重新定义为基元装配生成任务 |[link](53.md)|
@@ -64,6 +62,8 @@
 
 |ID|Year|Name|Note|Tags|Link|
 |---|---|---|---|---|---|
+||2025.5.8|3D Scene Generation: A Survey||   |[link](62.md)|
+||2025.5.7|MeshGen: Generating PBR Textured Mesh with Render-Enhanced Auto-Encoder and Generative Data Augmentation|| 3D重建 |[link](58.md)|
 ||2025.5.7|Person-In-Situ: Scene-Consistent Human Image Insertion with Occlusion-Aware Pose Control||  将人体图像合成到场景图像中 |[link](54.md)|
 ||2025.5.3|Co$^{3}$Gesture: Towards Coherent Concurrent Co-speech 3D Gesture Generation with Interactive Diffusion|| 语音生成手势、双人交互、数据集 |[link](43.md)|
 ||2025.5.3|Efficient 3D Full-Body Motion Generation from Sparse Tracking Inputs with Temporal Windows|| 稀疏输入，动作生成 |[link](42.md)|
