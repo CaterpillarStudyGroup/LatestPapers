@@ -3,6 +3,9 @@
 # Abstract
 
 - [  ](*.md)
+- [Humanise: Language-conditioned human motion generation in 3d scenes](65.md)
+- [Synthesizing Diverse Human Motions in 3D Indoor Scenes](64.md)
+- [Move as You Say, Interact as You Can:Language-guided Human Motion Generation with Scene Affordance](63.md)
 - [3D Scene Generation: A Survey](62.md)
 - [SVAD: From Single Image to 3D Avatar via Synthetic Data Generation with Video Diffusion and Data Augmentation](61.md)
 - [SOAP: Style-Omniscient Animatable Portraits](60.md)
@@ -26,7 +29,6 @@
 - [Efficient 3D Full-Body Motion Generation from Sparse Tracking Inputs with Temporal Windows](42.md)
 - [Model See Model Do: Speech-Driven Facial Animation with Style Control](41.md)
 - [3D Human Pose Estimation via Spatial Graph Order Attention and Temporal Body Aware Transformer](40.md)
-- [TSTMotion: Training-free Scene-awarenText-to-motion Generation](38.md)
 - [GENMO: A GENeralist Model for Human MOtion](37.md)
 - [JointDiT: Enhancing RGB-Depth Joint Modeling with Diffusion Transformers](36.md)
 - [Eye2Eye: A Simple Approach for Monocular-to-Stereo Video Synthesis](35.md)

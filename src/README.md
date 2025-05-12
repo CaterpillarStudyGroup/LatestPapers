@@ -43,20 +43,12 @@
 ||2025.4.23|PMG: Progressive Motion Generation via Sparse Anchor Postures Curriculum Learning||**更高控制精度和更精细的运动生成** |[link](6.md)|
 ||2025.4.23|PIN-WM: Learning Physics-INformed World Models for Non-Prehensile Manipulation|| 从视频数据中提取物理信息|[link](10.md)|
 ||2025.4.3|TokenHSI: Unified Synthesis of Physical Human-Scene Interactions through Task Tokenization||   |[link](57.md)|
+||2024.3.26|Move as you say, interact as you can: Language-guided human motion generation with scene affordance||   |[link](63.md)|
+||2023|Synthesizing Diverse Human Motions in 3D Indoor Scenes||   |[link](64.md)|
+||2022|Humanise: Language-conditioned human motion generation in 3d scenes ||   |[link](65.md)|
 
 
-# 增加
-|ID|Year|Name|Note|Tags|Link|
-|---|---|---|---|---|---|
-||2024|“Move as you say, interact as you can: Language-guided human motion generation with scene affordance|AffordMotion|
-||2023|Synthesizing diverse human motions in 3d indoor scenes|
-||2022|Humanise: Language-conditioned human motion generation in
-3d scenes|
 
-# 删除
-|ID|Year|Name|Note|Tags|Link|
-|---|---|---|---|---|---|
-||2025.5.2|**TSTMotion: Training-free Scene-awarenText-to-motion Generation**|| 场景感知，文生动作 |[link](38.md)|
 
 # Low
 
