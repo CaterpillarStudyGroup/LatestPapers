@@ -1,9 +1,6 @@
 |ID|Year|Name|Note|Tags|Link|
 |---|---|---|---|---|---|
-||2025.5.12|**||  |[link](****.md)|
-||2025.3.26|PhysAnimator: Physics-Guided Generative Cartoon Animation||  |[link](77.md)|
-||2025.4.27|Sketch2Anim: Towards Transferring Sketch Storyboards into 3D Animation||  |[link](76.md)|
-
+||2025.|**||  |[link](****.md)|
 ||2025.5.12|Step1X-3D: Towards High-Fidelity and Controllable Generation of Textured 3D Assets||  |[link](75.md)|
 ||2025.5.12|Link to the Past: Temporal Propagation for Fast 3D Human Reconstruction from Monocular Video||  |[link](74.md)|
 ||2025.5.12|ShotAdapter: Text-to-Multi-Shot Video Generation with Diffusion Models||  |[link](73.md)|
@@ -47,6 +44,7 @@
 ||2025.4.29|EfficientHuman: Efficient Training and Reconstruction of Moving Human using Articulated 2D Gaussian|| 2DGS重建运动人体|[link](21.md)|
 ||2025.4.28|Joint Optimization of Neural Radiance Fields and Continuous Camera Motion from a Monocular Video||重建与相机运行联合优化 |[link](20.md)|
 ||2025.4.28|HumMorph: Generalized Dynamic Human Neural Fields from Few Views|| 动态人体自由视角渲染|[link](18.md)|
+||2025.4.27|Sketch2Anim: Towards Transferring Sketch Storyboards into 3D Animation||  |[link](76.md)|
 ||2025.4.27|Sketch2Anim: Towards Transferring Sketch Storyboards into 3D Animation|| 二维故事板草图转化为三维动画|[link](19.md)|
 ||2025.4.27|Generative AI for Character Animation: A Comprehensive Survey of Techniques, Applications, and Future Directions|| **角色动画综述**|[link](16.md)|
 ||2025.4.25|SSD-Poser: Avatar Pose Estimation with State Space Duality from Sparse Observations|| 疏观测实现稳健的全身运动估计|[link](11.md)|
@@ -57,6 +55,7 @@
 ||2025.4.23|PMG: Progressive Motion Generation via Sparse Anchor Postures Curriculum Learning||**更高控制精度和更精细的运动生成** |[link](6.md)|
 ||2025.4.23|PIN-WM: Learning Physics-INformed World Models for Non-Prehensile Manipulation|| 从视频数据中提取物理信息|[link](10.md)|
 ||2025.4.3|TokenHSI: Unified Synthesis of Physical Human-Scene Interactions through Task Tokenization||   |[link](57.md)|
+||2025.3.26|PhysAnimator: Physics-Guided Generative Cartoon Animation||  |[link](77.md)|
 ||2024.3.26|Move as you say, interact as you can: Language-guided human motion generation with scene affordance||   |[link](63.md)|
 ||2023|Synthesizing Diverse Human Motions in 3D Indoor Scenes||   |[link](64.md)|
 ||2022|Humanise: Language-conditioned human motion generation in 3d scenes ||   |[link](65.md)|
