@@ -3,11 +3,11 @@
 # Abstract
 
 - [  ](*.md)
-- [  ](75.md)
-- [  ](74.md)
-- [  ](73.md)
-- [  ](72.md)
-- [  ](71.md)
+- [Step1X-3D: Towards High-Fidelity and Controllable Generation of Textured 3D Assets](75.md)
+- [Link to the Past: Temporal Propagation for Fast 3D Human Reconstruction from Monocular Video](74.md)
+- [ShotAdapter: Text-to-Multi-Shot Video Generation with Diffusion Models](73.md)
+- [Human Motion Prediction via Test-domain-aware Adaptation with Easily-available Human Motions Estimated from Videos](72.md)
+- [MAGE:A Multi-stage Avatar Generator with Sparse Observations](71.md)
 - [DiffLocks: Generating 3D Hair from a Single Image using Diffusion Models](70.md)
 - [TeGA: Texture Space Gaussian Avatars for High-Resolution Dynamic Head Modeling](69.md)
 - [Anymate: A Dataset and Baselines for Learning 3D Object Rigging](68.md)
