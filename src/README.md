@@ -1,5 +1,11 @@
 |ID|Year|Name|Note|Tags|Link|
 |---|---|---|---|---|---|
+||2025.5.8|**||  |[link](**.md)|
+||2025.5.8|**||  |[link](**.md)|
+||2025.5.8|**||  |[link](**.md)|
+||2025.5.8|**||  |[link](**.md)|
+||2025.5.8|**||  |[link](**.md)|
+
 ||2025.5.8|SVAD: From Single Image to 3D Avatar via Synthetic Data Generation with Video Diffusion and Data Augmentation|| 从单张图像创建高质量可驱动的3D人体 |[link](61.md)|
 ||2025.5.8|**SOAP: Style-Omniscient Animatable Portraits**|| 从单张图像生成可动画化的3D虚拟头象  |[link](60.md)|
 ||2025.5.8|ReAlign: Bilingual Text-to-Motion Generation via Step-Aware Reward-Guided Alignment||  双语文本输入合成3D人体运动 |[link](59.md)|
