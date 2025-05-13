@@ -1,5 +1,9 @@
 |ID|Year|Name|Note|Tags|Link|
 |---|---|---|---|---|---|
+||2025.5.12|**||  |[link](****.md)|
+||2025.3.26|PhysAnimator: Physics-Guided Generative Cartoon Animation||  |[link](77.md)|
+||2025.4.27|Sketch2Anim: Towards Transferring Sketch Storyboards into 3D Animation||  |[link](76.md)|
+
 ||2025.5.12|Step1X-3D: Towards High-Fidelity and Controllable Generation of Textured 3D Assets||  |[link](75.md)|
 ||2025.5.12|Link to the Past: Temporal Propagation for Fast 3D Human Reconstruction from Monocular Video||  |[link](74.md)|
 ||2025.5.12|ShotAdapter: Text-to-Multi-Shot Video Generation with Diffusion Models||  |[link](73.md)|
