@@ -5,7 +5,6 @@
 ||2025.5.12|ShotAdapter: Text-to-Multi-Shot Video Generation with Diffusion Models||  |[link](73.md)|
 ||2025.5.12|Human Motion Prediction via Test-domain-aware Adaptation with Easily-available Human Motions Estimated from Videos||  |[link](72.md)|
 ||2025.5.9|MAGE:A Multi-stage Avatar Generator with Sparse Observations||  |[link](71.md)|
-
 ||2025.5.9|DiffLocks: Generating 3D Hair from a Single Image using Diffusion Models||  |[link](70.md)|
 ||2025.5.9|TeGA: Texture Space Gaussian Avatars for High-Resolution Dynamic Head Modeling||  |[link](69.md)|
 ||2025.5.9|Anymate: A Dataset and Baselines for Learning 3D Object Rigging||  |[link](68.md)|
