@@ -3,11 +3,11 @@
 # Abstract
 
 - [  ](*.md)
-- [  ](70.md)
-- [  ](69.md)
-- [  ](68.md)
-- [  ](67.md)
-- [  ](66.md)
+- [DiffLocks: Generating 3D Hair from a Single Image using Diffusion Models](70.md)
+- [TeGA: Texture Space Gaussian Avatars for High-Resolution Dynamic Head Modeling](69.md)
+- [Anymate: A Dataset and Baselines for Learning 3D Object Rigging](68.md)
+- [ReactDance: Progressive-Granular Representation for Long-Term Coherent Reactive Dance Generation](67.md)
+- [Apply Hierarchical-Chain-of-Generation to Complex Attributes Text-to-3D Generation](66.md)
 - [Humanise: Language-conditioned human motion generation in 3d scenes](65.md)
 - [Synthesizing Diverse Human Motions in 3D Indoor Scenes](64.md)
 - [Move as You Say, Interact as You Can:Language-guided Human Motion Generation with Scene Affordance](63.md)
