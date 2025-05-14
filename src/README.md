@@ -1,19 +1,15 @@
 |ID|Year|Name|Note|Tags|Link|
 |---|---|---|---|---|---|
 ||2025.|**||  |[link](****.md)|
-||2025.5.12|Step1X-3D: Towards High-Fidelity and Controllable Generation of Textured 3D Assets||  |[link](75.md)|
-||2025.5.12|Link to the Past: Temporal Propagation for Fast 3D Human Reconstruction from Monocular Video||  |[link](74.md)|
-||2025.5.12|ShotAdapter: Text-to-Multi-Shot Video Generation with Diffusion Models||  |[link](73.md)|
-||2025.5.12|Human Motion Prediction via Test-domain-aware Adaptation with Easily-available Human Motions Estimated from Videos||  |[link](72.md)|
-||2025.5.9|MAGE:A Multi-stage Avatar Generator with Sparse Observations||  |[link](71.md)|
-||2025.5.9|DiffLocks: Generating 3D Hair from a Single Image using Diffusion Models||  |[link](70.md)|
-||2025.5.9|TeGA: Texture Space Gaussian Avatars for High-Resolution Dynamic Head Modeling||  |[link](69.md)|
-||2025.5.9|Anymate: A Dataset and Baselines for Learning 3D Object Rigging||  |[link](68.md)|
-||2025.5.8|ReactDance: Progressive-Granular Representation for Long-Term Coherent Reactive Dance Generation||  |[link](67.md)|
+||2025.5.12|**ShotAdapter: Text-to-Multi-Shot Video Generation with Diffusion Models**|| 文本到多镜头视频生成 |[link](73.md)|
+||2025.5.12|**Human Motion Prediction via Test-domain-aware Adaptation with Easily-available Human Motions Estimated from Videos**||三维人体运动预测  |[link](72.md)|
+||2025.5.9|MAGE:A Multi-stage Avatar Generator with Sparse Observations|| 从头戴式设备推断全身姿态 |[link](71.md)|
+||2025.5.9|DiffLocks: Generating 3D Hair from a Single Image using Diffusion Models|| 单张图像重建3D头发 |[link](70.md)|
+||2025.5.9|TeGA: Texture Space Gaussian Avatars for High-Resolution Dynamic Head Modeling|| 基于3DGS和稀疏体积（3D头部）重建与渲染 |[link](69.md)|
+||2025.5.9|Anymate: A Dataset and Baselines for Learning 3D Object Rigging|| 蒙皮绑定数据集 |[link](68.md)|
 ||2025.5.8|SVAD: From Single Image to 3D Avatar via Synthetic Data Generation with Video Diffusion and Data Augmentation|| 从单张图像创建高质量可驱动的3D人体 |[link](61.md)|
 ||2025.5.8|**SOAP: Style-Omniscient Animatable Portraits**|| 从单张图像生成可动画化的3D虚拟头象  |[link](60.md)|
 ||2025.5.8|ReAlign: Bilingual Text-to-Motion Generation via Step-Aware Reward-Guided Alignment||  双语文本输入合成3D人体运动 |[link](59.md)|
-||2025.5.7|Apply Hierarchical-Chain-of-Generation to Complex Attributes Text-to-3D Generation||  |[link](66.md)|
 ||2025.5.7|ELGAR: Expressive Cello Performance Motion Generation for Audio Rendition|| 生成乐器演奏动作  |[link](56.md)|
 ||2025.5.7|PARC: Physics-based Augmentation with Reinforcement Learning for Character Controllers|| 基于物理模拟增强与强化学习的角色控制框架，过机器学习与物理仿真技术迭代增强运动数据集，持续拓展地形穿越控制器的能力。  |[link](55.md)|
 ||2025.5.7|PrimitiveAnything: Human-Crafted 3D Primitive Assembly Generation with Auto-Regressive Transformer||  形状基元抽象重新定义为基元装配生成任务 |[link](53.md)|
@@ -54,11 +50,11 @@
 ||2025.4.24|PICO: Reconstructing 3D People In Contact with Objects||人物交互3D重建|[link](4.md)|
 ||2025.4.23|PMG: Progressive Motion Generation via Sparse Anchor Postures Curriculum Learning||**更高控制精度和更精细的运动生成** |[link](6.md)|
 ||2025.4.23|PIN-WM: Learning Physics-INformed World Models for Non-Prehensile Manipulation|| 从视频数据中提取物理信息|[link](10.md)|
-||2025.4.3|TokenHSI: Unified Synthesis of Physical Human-Scene Interactions through Task Tokenization||   |[link](57.md)|
-||2025.3.26|PhysAnimator: Physics-Guided Generative Cartoon Animation||  |[link](77.md)|
-||2024.3.26|Move as you say, interact as you can: Language-guided human motion generation with scene affordance||   |[link](63.md)|
-||2023|Synthesizing Diverse Human Motions in 3D Indoor Scenes||   |[link](64.md)|
-||2022|Humanise: Language-conditioned human motion generation in 3d scenes ||   |[link](65.md)|
+||2025.4.3|TokenHSI: Unified Synthesis of Physical Human-Scene Interactions through Task Tokenization|| 人-场景交互(HSI)  |[link](57.md)|
+||2025.3.26|**PhysAnimator: Physics-Guided Generative Cartoon Animation**|| 静态动漫插图生成动画 |[link](77.md)|
+||2024.3.26|**Move as you say, interact as you can: Language-guided human motion generation with scene affordance**|| 3D环境中的文生3D动作  |[link](63.md)|
+||2023|Synthesizing Diverse Human Motions in 3D Indoor Scenes||  三维室内场景人物互动 |[link](64.md)|
+||2022|Humanise: Language-conditioned human motion generation in 3d scenes ||  人-场景交互（HSI）数据集 |[link](65.md)|
 
 
 
@@ -67,7 +63,11 @@
 
 |ID|Year|Name|Note|Tags|Link|
 |---|---|---|---|---|---|
+||2025.5.12|Step1X-3D: Towards High-Fidelity and Controllable Generation of Textured 3D Assets||3D生成框架  |[link](75.md)|
+||2025.5.12|Link to the Past: Temporal Propagation for Fast 3D Human Reconstruction from Monocular Video|| 单目视频实现快速3D穿衣人体重建 |[link](74.md)|
+||2025.5.8|ReactDance: Progressive-Granular Representation for Long-Term Coherent Reactive Dance Generation|| 反应式舞蹈生成(Reactive Dance Generation, RDG)通过结合引导舞者动作和音乐输入来生成跟随者动作 |[link](67.md)|
 ||2025.5.8|3D Scene Generation: A Survey||   |[link](62.md)|
+||2025.5.7|Apply Hierarchical-Chain-of-Generation to Complex Attributes Text-to-3D Generation|| 文生3D模型 |[link](66.md)|
 ||2025.5.7|MeshGen: Generating PBR Textured Mesh with Render-Enhanced Auto-Encoder and Generative Data Augmentation|| 3D重建 |[link](58.md)|
 ||2025.5.7|Person-In-Situ: Scene-Consistent Human Image Insertion with Occlusion-Aware Pose Control||  将人体图像合成到场景图像中 |[link](54.md)|
 ||2025.5.3|Co$^{3}$Gesture: Towards Coherent Concurrent Co-speech 3D Gesture Generation with Interactive Diffusion|| 语音生成手势、双人交互、数据集 |[link](43.md)|
