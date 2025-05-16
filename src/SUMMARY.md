@@ -10,7 +10,7 @@
 - [  ](83.md)
 - [  ](82.md)
 - [  ](81.md)
-- [  ](80.md)
+- [M3G: Multi-Granular Gesture Generator for Audio-Driven Full-Body Human Motion Synthesis](80.md)
 - [SplineGS: Learning Smooth Trajectories in Gaussian Splatting for Dynamic Scene Reconstruction](79.md)
 - [CyberHost: A One-stage Diffusion Framework for Audio-driven Talking Body Generation](78.md)
 - [PhysAnimator: Physics-Guided Generative Cartoon Animation](77.md)
