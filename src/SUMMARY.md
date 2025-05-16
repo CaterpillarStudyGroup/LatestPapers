@@ -5,7 +5,7 @@
 - [  ](*.md)
 - [  ](87.md)
 - [  ](86.md)
-- [  ](85.md)
+- [Generating time-consistent dynamics with discriminator-guided image diffusion models](85.md)
 - [InstantSplamp: Fast and Generalizable Stenography Framework for Generative Gaussian Splatting](84.md)
 - [Text-driven Motion Generation: Overview, Challenges and Directions](83.md)
 - [CameraCtrl: Enabling Camera Control for Video Diffusion Models](82.md)

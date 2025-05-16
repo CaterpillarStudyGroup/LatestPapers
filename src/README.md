@@ -2,7 +2,7 @@
 |---|---|---|---|---|---|
 ||2025.|**||  |[link](****.md)|
 ||2025.|**||  |[link](****.md)|
-||2025.|**||  |[link](****.md)|
+||2025.5.14|Generating time-consistent dynamics with discriminator-guided image diffusion models||  |[link](85.md)|
 ||2025.5.15|InstantSplamp: Fast and Generalizable Stenography Framework for Generative Gaussian Splatting||  |[link](84.md)|
 ||2025.5.14|Text-driven Motion Generation: Overview, Challenges and Directions||  |[link](83.md)|
 ||2025.5.14|CameraCtrl: Enabling Camera Control for Video Diffusion Models||  |[link](82.md)|
