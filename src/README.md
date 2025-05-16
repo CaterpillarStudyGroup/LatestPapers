@@ -6,7 +6,7 @@
 ||2025.|**||  |[link](****.md)|
 ||2025.|**||  |[link](****.md)|
 ||2025.|**||  |[link](****.md)|
-||2025.|**||  |[link](****.md)|
+||2025.5.13|ACT-R: Adaptive Camera Trajectories for 3D Reconstruction from Single Image||  |[link](81.md)|
 ||2025.5.13|M3G: Multi-Granular Gesture Generator for Audio-Driven Full-Body Human Motion Synthesis||  |[link](80.md)|
 ||2025.5.14|SplineGS: Learning Smooth Trajectories in Gaussian Splatting for Dynamic Scene Reconstruction||  |[link](79.md)|
 ||2025.5.14|CyberHost: A One-stage Diffusion Framework for Audio-driven Talking Body Generation||  |[link](78.md)|
