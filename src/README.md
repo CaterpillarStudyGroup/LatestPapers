@@ -4,7 +4,7 @@
 ||2025.|**||  |[link](****.md)|
 ||2025.|**||  |[link](****.md)|
 ||2025.|**||  |[link](****.md)|
-||2025.|**||  |[link](****.md)|
+||2025.5.14|Text-driven Motion Generation: Overview, Challenges and Directions||  |[link](83.md)|
 ||2025.5.14|CameraCtrl: Enabling Camera Control for Video Diffusion Models||  |[link](82.md)|
 ||2025.5.13|ACT-R: Adaptive Camera Trajectories for 3D Reconstruction from Single Image||  |[link](81.md)|
 ||2025.5.13|M3G: Multi-Granular Gesture Generator for Audio-Driven Full-Body Human Motion Synthesis||  |[link](80.md)|
