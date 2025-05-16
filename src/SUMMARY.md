@@ -8,7 +8,7 @@
 - [  ](85.md)
 - [  ](84.md)
 - [  ](83.md)
-- [  ](82.md)
+- [CameraCtrl: Enabling Camera Control for Video Diffusion Models](82.md)
 - [ACT-R: Adaptive Camera Trajectories for 3D Reconstruction from Single Image](81.md)
 - [M3G: Multi-Granular Gesture Generator for Audio-Driven Full-Body Human Motion Synthesis](80.md)
 - [SplineGS: Learning Smooth Trajectories in Gaussian Splatting for Dynamic Scene Reconstruction](79.md)
