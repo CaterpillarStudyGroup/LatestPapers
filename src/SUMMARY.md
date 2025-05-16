@@ -4,7 +4,7 @@
 
 - [  ](*.md)
 - [  ](87.md)
-- [  ](86.md)
+- [Real2Render2Real: Scaling Robot Data Without Dynamics Simulation or Robot Hardware](86.md)
 - [Generating time-consistent dynamics with discriminator-guided image diffusion models](85.md)
 - [InstantSplamp: Fast and Generalizable Stenography Framework for Generative Gaussian Splatting](84.md)
 - [Text-driven Motion Generation: Overview, Challenges and Directions](83.md)

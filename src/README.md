@@ -1,7 +1,7 @@
 |ID|Year|Name|Note|Tags|Link|
 |---|---|---|---|---|---|
 ||2025.|**||  |[link](****.md)|
-||2025.|**||  |[link](****.md)|
+||2025.5.14|Real2Render2Real: Scaling Robot Data Without Dynamics Simulation or Robot Hardware||  |[link](86.md)|
 ||2025.5.14|Generating time-consistent dynamics with discriminator-guided image diffusion models||  |[link](85.md)|
 ||2025.5.15|InstantSplamp: Fast and Generalizable Stenography Framework for Generative Gaussian Splatting||  |[link](84.md)|
 ||2025.5.14|Text-driven Motion Generation: Overview, Challenges and Directions||  |[link](83.md)|
