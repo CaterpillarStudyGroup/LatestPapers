@@ -6,7 +6,7 @@
 - [  ](87.md)
 - [  ](86.md)
 - [  ](85.md)
-- [  ](84.md)
+- [InstantSplamp: Fast and Generalizable Stenography Framework for Generative Gaussian Splatting](84.md)
 - [Text-driven Motion Generation: Overview, Challenges and Directions](83.md)
 - [CameraCtrl: Enabling Camera Control for Video Diffusion Models](82.md)
 - [ACT-R: Adaptive Camera Trajectories for 3D Reconstruction from Single Image](81.md)

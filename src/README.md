@@ -3,7 +3,7 @@
 ||2025.|**||  |[link](****.md)|
 ||2025.|**||  |[link](****.md)|
 ||2025.|**||  |[link](****.md)|
-||2025.|**||  |[link](****.md)|
+||2025.5.15|InstantSplamp: Fast and Generalizable Stenography Framework for Generative Gaussian Splatting||  |[link](84.md)|
 ||2025.5.14|Text-driven Motion Generation: Overview, Challenges and Directions||  |[link](83.md)|
 ||2025.5.14|CameraCtrl: Enabling Camera Control for Video Diffusion Models||  |[link](82.md)|
 ||2025.5.13|ACT-R: Adaptive Camera Trajectories for 3D Reconstruction from Single Image||  |[link](81.md)|
