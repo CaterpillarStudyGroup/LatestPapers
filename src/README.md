@@ -1,16 +1,15 @@
 |ID|Year|Name|Note|Tags|Link|
 |---|---|---|---|---|---|
-||2025.|**||  |[link](****.md)|
+||2025.5.15|TexTailor: Customized Text-aligned Texturing via Effective Resampling||  |[link](87.md)|
+||2025.5.15|InstantSplamp: Fast and Generalizable Stenography Framework for Generative Gaussian Splatting||  |[link](84.md)|
 ||2025.5.14|Real2Render2Real: Scaling Robot Data Without Dynamics Simulation or Robot Hardware||  |[link](86.md)|
 ||2025.5.14|Generating time-consistent dynamics with discriminator-guided image diffusion models||  |[link](85.md)|
-||2025.5.15|InstantSplamp: Fast and Generalizable Stenography Framework for Generative Gaussian Splatting||  |[link](84.md)|
 ||2025.5.14|Text-driven Motion Generation: Overview, Challenges and Directions||  |[link](83.md)|
 ||2025.5.14|CameraCtrl: Enabling Camera Control for Video Diffusion Models||  |[link](82.md)|
-||2025.5.13|ACT-R: Adaptive Camera Trajectories for 3D Reconstruction from Single Image||  |[link](81.md)|
-||2025.5.13|M3G: Multi-Granular Gesture Generator for Audio-Driven Full-Body Human Motion Synthesis||  |[link](80.md)|
 ||2025.5.14|SplineGS: Learning Smooth Trajectories in Gaussian Splatting for Dynamic Scene Reconstruction||  |[link](79.md)|
 ||2025.5.14|CyberHost: A One-stage Diffusion Framework for Audio-driven Talking Body Generation||  |[link](78.md)|
-
+||2025.5.13|ACT-R: Adaptive Camera Trajectories for 3D Reconstruction from Single Image||  |[link](81.md)|
+||2025.5.13|M3G: Multi-Granular Gesture Generator for Audio-Driven Full-Body Human Motion Synthesis||  |[link](80.md)|
 ||2025.5.12|**ShotAdapter: Text-to-Multi-Shot Video Generation with Diffusion Models**|| 文本到多镜头视频生成 |[link](73.md)|
 ||2025.5.12|**Human Motion Prediction via Test-domain-aware Adaptation with Easily-available Human Motions Estimated from Videos**||三维人体运动预测  |[link](72.md)|
 ||2025.5.9|MAGE:A Multi-stage Avatar Generator with Sparse Observations|| 从头戴式设备推断全身姿态 |[link](71.md)|

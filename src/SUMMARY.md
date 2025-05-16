@@ -3,7 +3,7 @@
 # Abstract
 
 - [  ](*.md)
-- [  ](87.md)
+- [TexTailor: Customized Text-aligned Texturing via Effective Resampling](87.md)
 - [Real2Render2Real: Scaling Robot Data Without Dynamics Simulation or Robot Hardware](86.md)
 - [Generating time-consistent dynamics with discriminator-guided image diffusion models](85.md)
 - [InstantSplamp: Fast and Generalizable Stenography Framework for Generative Gaussian Splatting](84.md)
