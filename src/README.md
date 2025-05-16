@@ -1,6 +1,16 @@
 |ID|Year|Name|Note|Tags|Link|
 |---|---|---|---|---|---|
 ||2025.|**||  |[link](****.md)|
+||2025.|**||  |[link](****.md)|
+||2025.|**||  |[link](****.md)|
+||2025.|**||  |[link](****.md)|
+||2025.|**||  |[link](****.md)|
+||2025.|**||  |[link](****.md)|
+||2025.|**||  |[link](****.md)|
+||2025.|**||  |[link](****.md)|
+||2025.5.14|SplineGS: Learning Smooth Trajectories in Gaussian Splatting for Dynamic Scene Reconstruction||  |[link](79.md)|
+||2025.5.14|CyberHost: A One-stage Diffusion Framework for Audio-driven Talking Body Generation||  |[link](78.md)|
+
 ||2025.5.12|**ShotAdapter: Text-to-Multi-Shot Video Generation with Diffusion Models**|| 文本到多镜头视频生成 |[link](73.md)|
 ||2025.5.12|**Human Motion Prediction via Test-domain-aware Adaptation with Easily-available Human Motions Estimated from Videos**||三维人体运动预测  |[link](72.md)|
 ||2025.5.9|MAGE:A Multi-stage Avatar Generator with Sparse Observations|| 从头戴式设备推断全身姿态 |[link](71.md)|
