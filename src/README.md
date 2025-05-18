@@ -1,15 +1,11 @@
 |ID|Year|Name|Note|Tags|Link|
 |---|---|---|---|---|---|
-||2025.5.15|TexTailor: Customized Text-aligned Texturing via Effective Resampling||  |[link](87.md)|
-||2025.5.15|InstantSplamp: Fast and Generalizable Stenography Framework for Generative Gaussian Splatting||  |[link](84.md)|
-||2025.5.14|Real2Render2Real: Scaling Robot Data Without Dynamics Simulation or Robot Hardware||  |[link](86.md)|
-||2025.5.14|Generating time-consistent dynamics with discriminator-guided image diffusion models||  |[link](85.md)|
-||2025.5.14|Text-driven Motion Generation: Overview, Challenges and Directions||  |[link](83.md)|
-||2025.5.14|CameraCtrl: Enabling Camera Control for Video Diffusion Models||  |[link](82.md)|
-||2025.5.14|SplineGS: Learning Smooth Trajectories in Gaussian Splatting for Dynamic Scene Reconstruction||  |[link](79.md)|
-||2025.5.14|CyberHost: A One-stage Diffusion Framework for Audio-driven Talking Body Generation||  |[link](78.md)|
-||2025.5.13|ACT-R: Adaptive Camera Trajectories for 3D Reconstruction from Single Image||  |[link](81.md)|
-||2025.5.13|M3G: Multi-Granular Gesture Generator for Audio-Driven Full-Body Human Motion Synthesis||  |[link](80.md)|
+||2025.5.14|**Generating time-consistent dynamics with discriminator-guided image diffusion models**||图像生成+时间一致性判别器=视频生成  |[link](85.md)|
+||2025.5.14|**Text-driven Motion Generation: Overview, Challenges and Directions**|| 文本驱动动作生成技术 |[link](83.md)|
+||2025.5.14|CameraCtrl: Enabling Camera Control for Video Diffusion Models|| 相机位姿控制的视频生成 |[link](82.md)|
+||2025.5.14|SplineGS: Learning Smooth Trajectories in Gaussian Splatting for Dynamic Scene Reconstruction|| 3DGS复杂场景重建 |[link](79.md)|
+||2025.5.14|CyberHost: A One-stage Diffusion Framework for Audio-driven Talking Body Generation|| 单阶段音频驱动的说话身体生成 |[link](78.md)|
+||2025.5.13|**M3G: Multi-Granular Gesture Generator for Audio-Driven Full-Body Human Motion Synthesis**|| 个性化姿态的建模 |[link](80.md)|
 ||2025.5.12|**ShotAdapter: Text-to-Multi-Shot Video Generation with Diffusion Models**|| 文本到多镜头视频生成 |[link](73.md)|
 ||2025.5.12|**Human Motion Prediction via Test-domain-aware Adaptation with Easily-available Human Motions Estimated from Videos**||三维人体运动预测  |[link](72.md)|
 ||2025.5.9|MAGE:A Multi-stage Avatar Generator with Sparse Observations|| 从头戴式设备推断全身姿态 |[link](71.md)|
@@ -17,7 +13,6 @@
 ||2025.5.9|TeGA: Texture Space Gaussian Avatars for High-Resolution Dynamic Head Modeling|| 基于3DGS和稀疏体积（3D头部）重建与渲染 |[link](69.md)|
 ||2025.5.9|Anymate: A Dataset and Baselines for Learning 3D Object Rigging|| 蒙皮绑定数据集 |[link](68.md)|
 ||2025.5.8|SVAD: From Single Image to 3D Avatar via Synthetic Data Generation with Video Diffusion and Data Augmentation|| 从单张图像创建高质量可驱动的3D人体 |[link](61.md)|
-||2025.5.8|**SOAP: Style-Omniscient Animatable Portraits**|| 从单张图像生成可动画化的3D虚拟头象  |[link](60.md)|
 ||2025.5.8|ReAlign: Bilingual Text-to-Motion Generation via Step-Aware Reward-Guided Alignment||  双语文本输入合成3D人体运动 |[link](59.md)|
 ||2025.5.7|ELGAR: Expressive Cello Performance Motion Generation for Audio Rendition|| 生成乐器演奏动作  |[link](56.md)|
 ||2025.5.7|PARC: Physics-based Augmentation with Reinforcement Learning for Character Controllers|| 基于物理模拟增强与强化学习的角色控制框架，过机器学习与物理仿真技术迭代增强运动数据集，持续拓展地形穿越控制器的能力。  |[link](55.md)|
@@ -66,12 +61,17 @@
 ||2022|Humanise: Language-conditioned human motion generation in 3d scenes ||  人-场景交互（HSI）数据集 |[link](65.md)|
 
 
-
+# 删除
+||2025.5.15|InstantSplamp: Fast and Generalizable Stenography Framework for Generative Gaussian Splatting|| 3D生成加水印 |[link](84.md)|
+||2025.5.14|Real2Render2Real: Scaling Robot Data Without Dynamics Simulation or Robot Hardware|| 生成机器人数据 |[link](86.md)|
+||2025.5.8|**SOAP: Style-Omniscient Animatable Portraits**|| 从单张图像生成可动画化的3D虚拟头象  |[link](60.md)|
 
 # Low
 
 |ID|Year|Name|Note|Tags|Link|
 |---|---|---|---|---|---|
+||2025.5.15|TexTailor: Customized Text-aligned Texturing via Effective Resampling|| 文本给3D物体加纹理 |[link](87.md)|
+||2025.5.13|ACT-R: Adaptive Camera Trajectories for 3D Reconstruction from Single Image|| 多视角的3D重建 |[link](81.md)|
 ||2025.5.12|Step1X-3D: Towards High-Fidelity and Controllable Generation of Textured 3D Assets||3D生成框架  |[link](75.md)|
 ||2025.5.12|Link to the Past: Temporal Propagation for Fast 3D Human Reconstruction from Monocular Video|| 单目视频实现快速3D穿衣人体重建 |[link](74.md)|
 ||2025.5.8|ReactDance: Progressive-Granular Representation for Long-Term Coherent Reactive Dance Generation|| 反应式舞蹈生成(Reactive Dance Generation, RDG)通过结合引导舞者动作和音乐输入来生成跟随者动作 |[link](67.md)|
