@@ -56,6 +56,7 @@
 ||2025.4.23|PIN-WM: Learning Physics-INformed World Models for Non-Prehensile Manipulation|| 从视频数据中提取物理信息|[link](10.md)|
 ||2025.4.3|TokenHSI: Unified Synthesis of Physical Human-Scene Interactions through Task Tokenization|| 人-场景交互(HSI)  |[link](57.md)|
 ||2025.3.26|**PhysAnimator: Physics-Guided Generative Cartoon Animation**|| 静态动漫插图生成动画 |[link](77.md)|
+||2025|Draganything: Motion control for anything using entity representation|
 ||2024.3.26|**Move as you say, interact as you can: Language-guided human motion generation with scene affordance**|| 3D环境中的文生3D动作  |[link](63.md)|
 ||2023|Synthesizing Diverse Human Motions in 3D Indoor Scenes||  三维室内场景人物互动 |[link](64.md)|
 ||2022|Humanise: Language-conditioned human motion generation in 3d scenes ||  人-场景交互（HSI）数据集 |[link](65.md)|
