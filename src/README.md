@@ -1,5 +1,16 @@
 |ID|Year|Name|Note|Tags|Link|
 |---|---|---|---|---|---|
+||2025.5.15|****||   |[link](**.md)|
+||2025.5.15|****||   |[link](**.md)|
+||2025.5.15|****||   |[link](**.md)|
+||2025.5.15|****||   |[link](**.md)|
+||2025.5.15|****||   |[link](**.md)|
+||2025.5.15|****||   |[link](**.md)|
+||2025.5.15|****||   |[link](**.md)|
+||2025.5.15|****||   |[link](**.md)|
+||2025.5.15|****||   |[link](**.md)|
+||2025.5.15|MTVCrafter: 4D Motion Tokenization for Open-World Human Image Animation||   |[link](86.md)|
+
 ||2025.5.14|**Generating time-consistent dynamics with discriminator-guided image diffusion models**||图像生成+时间一致性判别器=视频生成  |[link](84.md)|
 ||2025.5.14|**Text-driven Motion Generation: Overview, Challenges and Directions**|| 文本驱动动作生成技术 |[link](83.md)|
 ||2025.5.14|CameraCtrl: Enabling Camera Control for Video Diffusion Models|| 相机位姿控制的视频生成 |[link](82.md)|
