@@ -1,10 +1,10 @@
 |ID|Year|Name|Note|Tags|Link|
 |---|---|---|---|---|---|
 ||2025.5.15|****||   |[link](**.md)|
-||2025.5.15|****||   |[link](**.md)|
-||2025.5.15|****||   |[link](**.md)|
-||2025.5.15|****||   |[link](**.md)|
-||2025.5.15|****||   |[link](**.md)|
+||2025.5.14|Robust Photo-Realistic Hand Gesture Generation: from Single View to Multiple View||   |[link](94.md)|
+||2025.5.16|Infinigen-Sim: Procedural Generation of Articulated Simulation Assets||   |[link](93.md)|
+||2025.5.16|MoCLIP: Motion-Aware Fine-Tuning and Distillation of CLIP for Human Motion Generation||   |[link](92.md)|
+||2025.5.16|Towards Robust and Controllable Text-to-Motion via Masked Autoregressive Diffusion||   |[link](91.md)|
 ||2025.5.16|Locality Sensitive Avatars From Video||   |[link](90.md)|
 ||2025.5.15|Dyadic Mamba: Long-term Dyadic Human Motion Synthesis||   |[link](89.md)|
 ||2025.5.14|EWMBench: Evaluating Scene, Motion, and Semantic Quality in Embodied World Models||   |[link](88.md)|
