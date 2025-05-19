@@ -1,6 +1,6 @@
 |ID|Year|Name|Note|Tags|Link|
 |---|---|---|---|---|---|
-||2025.5.14|**Generating time-consistent dynamics with discriminator-guided image diffusion models**||图像生成+时间一致性判别器=视频生成  |[link](85.md)|
+||2025.5.14|**Generating time-consistent dynamics with discriminator-guided image diffusion models**||图像生成+时间一致性判别器=视频生成  |[link](84.md)|
 ||2025.5.14|**Text-driven Motion Generation: Overview, Challenges and Directions**|| 文本驱动动作生成技术 |[link](83.md)|
 ||2025.5.14|CameraCtrl: Enabling Camera Control for Video Diffusion Models|| 相机位姿控制的视频生成 |[link](82.md)|
 ||2025.5.14|SplineGS: Learning Smooth Trajectories in Gaussian Splatting for Dynamic Scene Reconstruction|| 3DGS复杂场景重建 |[link](79.md)|
@@ -67,7 +67,7 @@
 
 |ID|Year|Name|Note|Tags|Link|
 |---|---|---|---|---|---|
-||2025.5.15|TexTailor: Customized Text-aligned Texturing via Effective Resampling|| 文本给3D物体加纹理 |[link](87.md)|
+||2025.5.15|TexTailor: Customized Text-aligned Texturing via Effective Resampling|| 文本给3D物体加纹理 |[link](85.md)|
 ||2025.5.13|ACT-R: Adaptive Camera Trajectories for 3D Reconstruction from Single Image|| 多视角的3D重建 |[link](81.md)|
 ||2025.5.12|Step1X-3D: Towards High-Fidelity and Controllable Generation of Textured 3D Assets||3D生成框架  |[link](75.md)|
 ||2025.5.12|Link to the Past: Temporal Propagation for Fast 3D Human Reconstruction from Monocular Video|| 单目视频实现快速3D穿衣人体重建 |[link](74.md)|

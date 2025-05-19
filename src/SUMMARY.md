@@ -3,8 +3,8 @@
 # Abstract
 
 - [  ](*.md)
-- [TexTailor: Customized Text-aligned Texturing via Effective Resampling](87.md)
-- [Generating time-consistent dynamics with discriminator-guided image diffusion models](85.md)
+- [TexTailor: Customized Text-aligned Texturing via Effective Resampling](85.md)
+- [Generating time-consistent dynamics with discriminator-guided image diffusion models](84.md)
 - [Text-driven Motion Generation: Overview, Challenges and Directions](83.md)
 - [CameraCtrl: Enabling Camera Control for Video Diffusion Models](82.md)
 - [ACT-R: Adaptive Camera Trajectories for 3D Reconstruction from Single Image](81.md)
