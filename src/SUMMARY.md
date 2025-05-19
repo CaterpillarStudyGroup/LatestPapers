@@ -4,9 +4,7 @@
 
 - [  ](*.md)
 - [TexTailor: Customized Text-aligned Texturing via Effective Resampling](87.md)
-- [Real2Render2Real: Scaling Robot Data Without Dynamics Simulation or Robot Hardware](86.md)
 - [Generating time-consistent dynamics with discriminator-guided image diffusion models](85.md)
-- [InstantSplamp: Fast and Generalizable Stenography Framework for Generative Gaussian Splatting](84.md)
 - [Text-driven Motion Generation: Overview, Challenges and Directions](83.md)
 - [CameraCtrl: Enabling Camera Control for Video Diffusion Models](82.md)
 - [ACT-R: Adaptive Camera Trajectories for 3D Reconstruction from Single Image](81.md)
@@ -30,7 +28,6 @@
 - [Move as You Say, Interact as You Can:Language-guided Human Motion Generation with Scene Affordance](63.md)
 - [3D Scene Generation: A Survey](62.md)
 - [SVAD: From Single Image to 3D Avatar via Synthetic Data Generation with Video Diffusion and Data Augmentation](61.md)
-- [SOAP: Style-Omniscient Animatable Portraits](60.md)
 - [ReAlign: Bilingual Text-to-Motion Generation via Step-Aware Reward-Guided Alignment](59.md)
 - [MeshGen: Generating PBR Textured Mesh with Render-Enhanced Auto-Encoder and Generative Data Augmentation](58.md)
 - [TokenHSI: Unified Synthesis of Physical Human-Scene Interactions through Task Tokenization](57.md)

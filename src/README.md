@@ -62,10 +62,6 @@
 ||2022|Humanise: Language-conditioned human motion generation in 3d scenes ||  人-场景交互（HSI）数据集 |[link](65.md)|
 
 
-# 删除
-||2025.5.15|InstantSplamp: Fast and Generalizable Stenography Framework for Generative Gaussian Splatting|| 3D生成加水印 |[link](84.md)|
-||2025.5.14|Real2Render2Real: Scaling Robot Data Without Dynamics Simulation or Robot Hardware|| 生成机器人数据 |[link](86.md)|
-||2025.5.8|**SOAP: Style-Omniscient Animatable Portraits**|| 从单张图像生成可动画化的3D虚拟头象  |[link](60.md)|
 
 # Low
 
