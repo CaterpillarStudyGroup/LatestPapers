@@ -1,8 +1,8 @@
 |ID|Year|Name|Note|Tags|Link|
 |---|---|---|---|---|---|
-||2025.5.21|***||   |[link](**.md)|
-||2025.5.21|***||   |[link](**.md)|
-||2025.5.21|***||   |[link](**.md)|
+||2025.5.21|Intentional Gesture: Deliver Your Intentions with Gestures for Speech||   |[link](110.md)|
+||2025.5.21|AsynFusion: Towards Asynchronous Latent Consistency Models for Decoupled Whole-Body Audio-Driven Avatars||   |[link](109.md)|
+||2025.5.21|GS2E: Gaussian Splatting is an Effective Data Generator for Event Stream Generation||   |[link](108.md)|
 ||2025.5.21|EVA: Expressive Virtual Avatars from Multi-view Videos||   |[link](107.md)|
 ||2025.5.21|Interspatial Attention for Efficient 4D Human Video Generation||   |[link](106.md)|
 ||2025.5.20|Large-Scale Multi-Character Interaction Synthesis||   |[link](105.md)|
@@ -10,12 +10,11 @@
 ||2025.5.20|Vid2World: Crafting Video Diffusion Models to Interactive World Models||   |[link](103.md)|
 ||2025.5.20|MGStream: Motion-aware 3D Gaussian for Streamable Dynamic Scene Reconstruction||   |[link](102.md)|
 ||2025.5.20|LMP: Leveraging Motion Prior in Zero-Shot Video Generation with Diffusion Transformer||   |[link](101.md)|
-||2025.5.18|Video-GPT via Next Clip Diffusion||   |[link](100.md)|
-||2025.5.17|MonoMobility: Zero-Shot 3D Mobility Analysis from Monocular Videos||   |[link](99.md)|
 ||2025.5.19|RoPECraft: Training-Free Motion Transfer with Trajectory-Guided RoPE Optimization on Diffusion Transformers||   |[link](98.md)|
 ||2025.5.19|UniHM: Universal Human Motion Generation with Object Interactions in Indoor Scenes||   |[link](97.md)|
 ||2025.5.19|FinePhys: Fine-grained Human Action Generation by Explicitly Incorporating Physical Laws for Effective Skeletal Guidance||   |[link](96.md)|
-
+||2025.5.18|Video-GPT via Next Clip Diffusion||   |[link](100.md)|
+||2025.5.17|MonoMobility: Zero-Shot 3D Mobility Analysis from Monocular Videos||   |[link](99.md)|
 ||2025.5.16|Infinigen-Sim: Procedural Generation of Articulated Simulation Assets|| Blender工具，可创建铰链资源  |[link](93.md)|
 ||2025.5.16|PoseBench3D: A Cross-Dataset Analysis Framework for 3D Human Pose Estimation|| HPE的标准化测试环境  |[link](95.md)|
 ||2025.5.16|**MoCLIP: Motion-Aware Fine-Tuning and Distillation of CLIP for Human Motion Generation**|| Motion版的Clip  |[link](92.md)|
