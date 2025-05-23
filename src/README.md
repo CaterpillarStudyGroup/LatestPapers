@@ -1,12 +1,12 @@
 |ID|Year|Name|Note|Tags|Link|
 |---|---|---|---|---|---|
-||2025.5.16|***||   |[link](**.md)|
-||2025.5.16|***||   |[link](**.md)|
-||2025.5.16|***||   |[link](**.md)|
-||2025.5.16|***||   |[link](**.md)|
-||2025.5.16|***||   |[link](**.md)|
-||2025.5.20|***||   |[link](**.md)|
-||2025.5.20|***||   |[link](**.md)|
+||2025.5.21|***||   |[link](**.md)|
+||2025.5.21|***||   |[link](**.md)|
+||2025.5.21|***||   |[link](**.md)|
+||2025.5.21|***||   |[link](**.md)|
+||2025.5.21|***||   |[link](**.md)|
+||2025.5.20|Large-Scale Multi-Character Interaction Synthesis||   |[link](105.md)|
+||2025.5.20|Hunyuan-Game: Industrial-grade Intelligent Game Creation Model||   |[link](104.md)|
 ||2025.5.20|Vid2World: Crafting Video Diffusion Models to Interactive World Models||   |[link](103.md)|
 ||2025.5.20|MGStream: Motion-aware 3D Gaussian for Streamable Dynamic Scene Reconstruction||   |[link](102.md)|
 ||2025.5.20|LMP: Leveraging Motion Prior in Zero-Shot Video Generation with Diffusion Transformer||   |[link](101.md)|
