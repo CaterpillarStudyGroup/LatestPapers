@@ -10,11 +10,11 @@
 ||2025.5.16|***||   |[link](**.md)|
 ||2025.5.16|***||   |[link](**.md)|
 ||2025.5.16|***||   |[link](**.md)|
-||2025.5.16|***||   |[link](**.md)|
-||2025.5.16|***||   |[link](**.md)|
-||2025.5.16|***||   |[link](**.md)|
-||2025.5.16|***||   |[link](**.md)|
-||2025.5.16|***||   |[link](**.md)|
+||2025.5.18|***||   |[link](**.md)|
+||2025.5.17|***||   |[link](**.md)|
+||2025.5.19|***||   |[link](**.md)|
+||2025.5.19|UniHM: Universal Human Motion Generation with Object Interactions in Indoor Scenes||   |[link](97.md)|
+||2025.5.19|FinePhys: Fine-grained Human Action Generation by Explicitly Incorporating Physical Laws for Effective Skeletal Guidance||   |[link](96.md)|
 
 ||2025.5.16|Infinigen-Sim: Procedural Generation of Articulated Simulation Assets|| Blender工具，可创建铰链资源  |[link](93.md)|
 ||2025.5.16|PoseBench3D: A Cross-Dataset Analysis Framework for 3D Human Pose Estimation|| HPE的标准化测试环境  |[link](95.md)|
