@@ -25,7 +25,6 @@
 - [Towards Robust and Controllable Text-to-Motion via Masked Autoregressive Diffusion](91.md)
 - [Locality Sensitive Avatars From Video](90.md)
 - [Dyadic Mamba: Long-term Dyadic Human Motion Synthesis](89.md)
-- [EWMBench: Evaluating Scene, Motion, and Semantic Quality in Embodied World Models](88.md)
 - [HGM³: Hierarchical Generative Masked Motion Modeling with Hard Token Mining](87.md)
 - [MTVCrafter: 4D Motion Tokenization for Open-World Human Image Animation](86.md)
 - [TexTailor: Customized Text-aligned Texturing via Effective Resampling](85.md)

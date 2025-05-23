@@ -16,16 +16,8 @@
 ||2025.5.16|***||   |[link](**.md)|
 ||2025.5.16|***||   |[link](**.md)|
 
-||2025.5.16|PoseBench3D: A Cross-Dataset Analysis Framework for 3D Human Pose Estimation||   |[link](95.md)|
-||2025.5.16|Infinigen-Sim: Procedural Generation of Articulated Simulation Assets||   |[link](93.md)|
-||2025.5.16|MoCLIP: Motion-Aware Fine-Tuning and Distillation of CLIP for Human Motion Generation||   |[link](92.md)|
-||2025.5.16|Towards Robust and Controllable Text-to-Motion via Masked Autoregressive Diffusion||   |[link](91.md)|
-||2025.5.16|Locality Sensitive Avatars From Video||   |[link](90.md)|
-||2025.5.16|HGM³: Hierarchical Generative Masked Motion Modeling with Hard Token Mining||   |[link](87.md)|
-||2025.5.15|Dyadic Mamba: Long-term Dyadic Human Motion Synthesis||   |[link](89.md)|
-||2025.5.15|MTVCrafter: 4D Motion Tokenization for Open-World Human Image Animation||   |[link](86.md)|
-||2025.5.14|Robust Photo-Realistic Hand Gesture Generation: from Single View to Multiple View||   |[link](94.md)|
-||2025.5.14|EWMBench: Evaluating Scene, Motion, and Semantic Quality in Embodied World Models||   |[link](88.md)|
+||2025.5.16|Infinigen-Sim: Procedural Generation of Articulated Simulation Assets|| Blender工具，可创建铰链资源  |[link](93.md)|
+||2025.5.16|PoseBench3D: A Cross-Dataset Analysis Framework for 3D Human Pose Estimation|| HPE的标准化测试环境  |[link](95.md)|
 ||2025.5.16|**MoCLIP: Motion-Aware Fine-Tuning and Distillation of CLIP for Human Motion Generation**|| Motion版的Clip  |[link](92.md)|
 ||2025.5.16|**Towards Robust and Controllable Text-to-Motion via Masked Autoregressive Diffusion**|| VQVAE + diffusion  |[link](91.md)|
 ||2025.5.16|Locality Sensitive Avatars From Video|| 基于Nerf的HPE  |[link](90.md)|
@@ -94,9 +86,6 @@
 ||2023|Synthesizing Diverse Human Motions in 3D Indoor Scenes||  三维室内场景人物互动 |[link](64.md)|
 ||2022|Humanise: Language-conditioned human motion generation in 3d scenes ||  人-场景交互（HSI）数据集 |[link](65.md)|
 
-# 删除
-
-||2025.5.14|EWMBench: Evaluating Scene, Motion, and Semantic Quality in Embodied World Models|| 具身世界模型的评估基准  |[link](88.md)|
 
 # Low
 
