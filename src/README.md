@@ -5,11 +5,11 @@
 ||2025.5.16|***||   |[link](**.md)|
 ||2025.5.16|***||   |[link](**.md)|
 ||2025.5.16|***||   |[link](**.md)|
-||2025.5.16|***||   |[link](**.md)|
-||2025.5.16|***||   |[link](**.md)|
-||2025.5.16|***||   |[link](**.md)|
-||2025.5.16|***||   |[link](**.md)|
-||2025.5.16|***||   |[link](**.md)|
+||2025.5.20|***||   |[link](**.md)|
+||2025.5.20|***||   |[link](**.md)|
+||2025.5.20|Vid2World: Crafting Video Diffusion Models to Interactive World Models||   |[link](103.md)|
+||2025.5.20|MGStream: Motion-aware 3D Gaussian for Streamable Dynamic Scene Reconstruction||   |[link](102.md)|
+||2025.5.20|LMP: Leveraging Motion Prior in Zero-Shot Video Generation with Diffusion Transformer||   |[link](101.md)|
 ||2025.5.18|Video-GPT via Next Clip Diffusion||   |[link](100.md)|
 ||2025.5.17|MonoMobility: Zero-Shot 3D Mobility Analysis from Monocular Videos||   |[link](99.md)|
 ||2025.5.19|RoPECraft: Training-Free Motion Transfer with Trajectory-Guided RoPE Optimization on Diffusion Transformers||   |[link](98.md)|
