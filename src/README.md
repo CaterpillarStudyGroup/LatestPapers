@@ -3,8 +3,8 @@
 ||2025.5.21|***||   |[link](**.md)|
 ||2025.5.21|***||   |[link](**.md)|
 ||2025.5.21|***||   |[link](**.md)|
-||2025.5.21|***||   |[link](**.md)|
-||2025.5.21|***||   |[link](**.md)|
+||2025.5.21|EVA: Expressive Virtual Avatars from Multi-view Videos||   |[link](107.md)|
+||2025.5.21|Interspatial Attention for Efficient 4D Human Video Generation||   |[link](106.md)|
 ||2025.5.20|Large-Scale Multi-Character Interaction Synthesis||   |[link](105.md)|
 ||2025.5.20|Hunyuan-Game: Industrial-grade Intelligent Game Creation Model||   |[link](104.md)|
 ||2025.5.20|Vid2World: Crafting Video Diffusion Models to Interactive World Models||   |[link](103.md)|
