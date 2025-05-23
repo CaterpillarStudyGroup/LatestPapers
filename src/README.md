@@ -10,9 +10,9 @@
 ||2025.5.16|***||   |[link](**.md)|
 ||2025.5.16|***||   |[link](**.md)|
 ||2025.5.16|***||   |[link](**.md)|
-||2025.5.18|***||   |[link](**.md)|
-||2025.5.17|***||   |[link](**.md)|
-||2025.5.19|***||   |[link](**.md)|
+||2025.5.18|Video-GPT via Next Clip Diffusion||   |[link](100.md)|
+||2025.5.17|MonoMobility: Zero-Shot 3D Mobility Analysis from Monocular Videos||   |[link](99.md)|
+||2025.5.19|RoPECraft: Training-Free Motion Transfer with Trajectory-Guided RoPE Optimization on Diffusion Transformers||   |[link](98.md)|
 ||2025.5.19|UniHM: Universal Human Motion Generation with Object Interactions in Indoor Scenes||   |[link](97.md)|
 ||2025.5.19|FinePhys: Fine-grained Human Action Generation by Explicitly Incorporating Physical Laws for Effective Skeletal Guidance||   |[link](96.md)|
 
