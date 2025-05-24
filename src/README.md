@@ -1,20 +1,19 @@
 |ID|Year|Name|Note|Tags|Link|
 |---|---|---|---|---|---|
-||2025.5.21|Intentional Gesture: Deliver Your Intentions with Gestures for Speech||   |[link](110.md)|
-||2025.5.21|AsynFusion: Towards Asynchronous Latent Consistency Models for Decoupled Whole-Body Audio-Driven Avatars||   |[link](109.md)|
-||2025.5.21|GS2E: Gaussian Splatting is an Effective Data Generator for Event Stream Generation||   |[link](108.md)|
-||2025.5.21|EVA: Expressive Virtual Avatars from Multi-view Videos||   |[link](107.md)|
-||2025.5.21|Interspatial Attention for Efficient 4D Human Video Generation||   |[link](106.md)|
-||2025.5.20|Large-Scale Multi-Character Interaction Synthesis||   |[link](105.md)|
-||2025.5.20|Hunyuan-Game: Industrial-grade Intelligent Game Creation Model||   |[link](104.md)|
-||2025.5.20|Vid2World: Crafting Video Diffusion Models to Interactive World Models||   |[link](103.md)|
-||2025.5.20|MGStream: Motion-aware 3D Gaussian for Streamable Dynamic Scene Reconstruction||   |[link](102.md)|
-||2025.5.20|LMP: Leveraging Motion Prior in Zero-Shot Video Generation with Diffusion Transformer||   |[link](101.md)|
-||2025.5.19|RoPECraft: Training-Free Motion Transfer with Trajectory-Guided RoPE Optimization on Diffusion Transformers||   |[link](98.md)|
-||2025.5.19|UniHM: Universal Human Motion Generation with Object Interactions in Indoor Scenes||   |[link](97.md)|
-||2025.5.19|FinePhys: Fine-grained Human Action Generation by Explicitly Incorporating Physical Laws for Effective Skeletal Guidance||   |[link](96.md)|
-||2025.5.18|Video-GPT via Next Clip Diffusion||   |[link](100.md)|
-||2025.5.17|MonoMobility: Zero-Shot 3D Mobility Analysis from Monocular Videos||   |[link](99.md)|
+||2025.5.21|Intentional Gesture: Deliver Your Intentions with Gestures for Speech|| 伴随语音手势生成  |[link](110.md)|
+||2025.5.21|AsynFusion: Towards Asynchronous Latent Consistency Models for Decoupled Whole-Body Audio-Driven Avatars|| 全身音频驱动虚拟形象姿势与表情生成  |[link](109.md)|
+||2025.5.21|GS2E: Gaussian Splatting is an Effective Data Generator for Event Stream Generation|| 真实世界稀疏多视角RGB图像重建的数据集  |[link](108.md)|
+||2025.5.21|EVA: Expressive Virtual Avatars from Multi-view Videos|| 一种演员专用、完全可控且表现力丰富的数字人框架，该系统在实现高保真实时渲染的同时，能够对表情、肢体动作和手势进行独立控制  |[link](107.md)|
+||2025.5.21|Interspatial Attention for Efficient 4D Human Video Generation|| 以可控方式生成数字人(digital humans)的逼真视频  |[link](106.md)|
+||2025.5.20|Large-Scale Multi-Character Interaction Synthesis||  生成大规模多角色交互的角色动画 |[link](105.md)|
+||2025.5.20|Hunyuan-Game: Industrial-grade Intelligent Game Creation Model|| 专为游戏场景定制的图像生成模型和视频生成模型  |[link](104.md)|
+||2025.5.20|MGStream: Motion-aware 3D Gaussian for Streamable Dynamic Scene Reconstruction|| 3DGS可流式传输的动态新视角合成(DNVS)  |[link](102.md)|
+||2025.5.20|LMP: Leveraging Motion Prior in Zero-Shot Video Generation with Diffusion Transformer|| 文+图像+运动视频->视频  |[link](101.md)|
+||2025.5.19|RoPECraft: Training-Free Motion Transfer with Trajectory-Guided RoPE Optimization on Diffusion Transformers|| 一种面向扩散变换器的免训练视频运动迁移方法  |[link](98.md)|
+||2025.5.19|UniHM: Universal Human Motion Generation with Object Interactions in Indoor Scenes|| 整合静态环境、可移动物体、自然语言提示和空间路径点等多模态信息的文生动作  |[link](97.md)|
+||2025.5.19|FinePhys: Fine-grained Human Action Generation by Explicitly Incorporating Physical Laws for Effective Skeletal Guidance||  一个融合物理规律的细粒度人体动作生成框架 |[link](96.md)|
+||2025.5.18|Video-GPT via Next Clip Diffusion|| 将视频视为描述视觉世界的新型"语言"  |[link](100.md)|
+||2025.5.17|MonoMobility: Zero-Shot 3D Mobility Analysis from Monocular Videos||  以零样本方式从单目视频中分析三维运动特性 |[link](99.md)|
 ||2025.5.16|Infinigen-Sim: Procedural Generation of Articulated Simulation Assets|| Blender工具，可创建铰链资源  |[link](93.md)|
 ||2025.5.16|PoseBench3D: A Cross-Dataset Analysis Framework for 3D Human Pose Estimation|| HPE的标准化测试环境  |[link](95.md)|
 ||2025.5.16|**MoCLIP: Motion-Aware Fine-Tuning and Distillation of CLIP for Human Motion Generation**|| Motion版的Clip  |[link](92.md)|
@@ -90,6 +89,7 @@
 
 |ID|Year|Name|Note|Tags|Link|
 |---|---|---|---|---|---|
+||2025.5.20|Vid2World: Crafting Video Diffusion Models to Interactive World Models|| 将预训练视频扩散模型迁移应用于交互式世界模型的通用方法  |[link](103.md)|
 ||2025.5.16|Infinigen-Sim: Procedural Generation of Articulated Simulation Assets|| Blender工具，可创建铰链资源  |[link](93.md)|
 ||2025.5.16|PoseBench3D: A Cross-Dataset Analysis Framework for 3D Human Pose Estimation|| HPE的标准化测试环境  |[link](95.md)|
 ||2025.5.15|TexTailor: Customized Text-aligned Texturing via Effective Resampling|| 文本给3D物体加纹理 |[link](85.md)|
