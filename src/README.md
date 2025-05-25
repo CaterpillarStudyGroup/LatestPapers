@@ -11,7 +11,6 @@
 ||2025.5.20|LMP: Leveraging Motion Prior in Zero-Shot Video Generation with Diffusion Transformer|| 文+图像+运动视频->视频  |[link](101.md)|
 ||2025.5.19|RoPECraft: Training-Free Motion Transfer with Trajectory-Guided RoPE Optimization on Diffusion Transformers|| 一种面向扩散变换器的免训练视频运动迁移方法  |[link](98.md)|
 ||2025.5.19|UniHM: Universal Human Motion Generation with Object Interactions in Indoor Scenes|| 整合静态环境、可移动物体、自然语言提示和空间路径点等多模态信息的文生动作  |[link](97.md)|
-||2025.5.19|FinePhys: Fine-grained Human Action Generation by Explicitly Incorporating Physical Laws for Effective Skeletal Guidance||  一个融合物理规律的细粒度人体动作生成框架 |[link](96.md)|
 ||2025.5.18|Video-GPT via Next Clip Diffusion|| 将视频视为描述视觉世界的新型"语言"  |[link](100.md)|
 ||2025.5.17|MonoMobility: Zero-Shot 3D Mobility Analysis from Monocular Videos||  以零样本方式从单目视频中分析三维运动特性 |[link](99.md)|
 ||2025.5.16|Infinigen-Sim: Procedural Generation of Articulated Simulation Assets|| Blender工具，可创建铰链资源  |[link](93.md)|
@@ -78,12 +77,13 @@
 ||2025.4.23|PMG: Progressive Motion Generation via Sparse Anchor Postures Curriculum Learning||**更高控制精度和更精细的运动生成** |[link](6.md)|
 ||2025.4.23|PIN-WM: Learning Physics-INformed World Models for Non-Prehensile Manipulation|| 从视频数据中提取物理信息|[link](10.md)|
 ||2025.4.3|TokenHSI: Unified Synthesis of Physical Human-Scene Interactions through Task Tokenization|| 人-场景交互(HSI)  |[link](57.md)|
-||2025.3.26|**PhysAnimator: Physics-Guided Generative Cartoon Animation**|| 静态动漫插图生成动画 |[link](77.md)|
 ||2025|Draganything: Motion control for anything using entity representation|
 ||2024.3.26|**Move as you say, interact as you can: Language-guided human motion generation with scene affordance**|| 3D环境中的文生3D动作  |[link](63.md)|
 ||2023|Synthesizing Diverse Human Motions in 3D Indoor Scenes||  三维室内场景人物互动 |[link](64.md)|
 ||2022|Humanise: Language-conditioned human motion generation in 3d scenes ||  人-场景交互（HSI）数据集 |[link](65.md)|
 
+# 删除
+||2025.3.26|**PhysAnimator: Physics-Guided Generative Cartoon Animation**|| 静态动漫插图生成动画 |[link](77.md)|
 
 # Low
 
