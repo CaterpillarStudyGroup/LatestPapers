@@ -83,6 +83,7 @@
 ||2022|Humanise: Language-conditioned human motion generation in 3d scenes ||  人-场景交互（HSI）数据集 |[link](65.md)|
 
 # 删除
+||2025.5.19|FinePhys: Fine-grained Human Action Generation by Explicitly Incorporating Physical Laws for Effective Skeletal Guidance||  一个融合物理规律的细粒度人体动作生成框架 |[link](96.md)|
 ||2025.3.26|**PhysAnimator: Physics-Guided Generative Cartoon Animation**|| 静态动漫插图生成动画 |[link](77.md)|
 
 # Low
