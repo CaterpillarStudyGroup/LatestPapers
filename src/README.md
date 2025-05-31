@@ -15,7 +15,6 @@
 ||2025.5.17|MonoMobility: Zero-Shot 3D Mobility Analysis from Monocular Videos||  以零样本方式从单目视频中分析三维运动特性 |[link](99.md)|
 ||2025.5.16|Infinigen-Sim: Procedural Generation of Articulated Simulation Assets|| Blender工具，可创建铰链资源  |[link](93.md)|
 ||2025.5.16|PoseBench3D: A Cross-Dataset Analysis Framework for 3D Human Pose Estimation|| HPE的标准化测试环境  |[link](95.md)|
-||2025.5.16|**Towards Robust and Controllable Text-to-Motion via Masked Autoregressive Diffusion**|| VQVAE + diffusion  |[link](91.md)|
 ||2025.5.16|Locality Sensitive Avatars From Video|| 基于Nerf的HPE  |[link](90.md)|
 ||2025.5.16|HGM³: Hierarchical Generative Masked Motion Modeling with Hard Token Mining|| 文生动作新框架  |[link](87.md)|
 ||2025.5.15|Dyadic Mamba: Long-term Dyadic Human Motion Synthesis|| 文生超长序列双人动作  |[link](89.md)|
@@ -82,6 +81,7 @@
 ||2022|Humanise: Language-conditioned human motion generation in 3d scenes ||  人-场景交互（HSI）数据集 |[link](65.md)|
 
 # 删除
+||2025.5.16|**Towards Robust and Controllable Text-to-Motion via Masked Autoregressive Diffusion**|| VQVAE + diffusion  |[link](91.md)|
 ||2025.5.16|**MoCLIP: Motion-Aware Fine-Tuning and Distillation of CLIP for Human Motion Generation**|| Motion版的Clip  |[link](92.md)|
 ||2025.5.19|FinePhys: Fine-grained Human Action Generation by Explicitly Incorporating Physical Laws for Effective Skeletal Guidance||  一个融合物理规律的细粒度人体动作生成框架 |[link](96.md)|
 ||2025.3.26|**PhysAnimator: Physics-Guided Generative Cartoon Animation**|| 静态动漫插图生成动画 |[link](77.md)|
