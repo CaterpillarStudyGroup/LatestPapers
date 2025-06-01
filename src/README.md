@@ -16,12 +16,11 @@
 ||2025.5.16|Infinigen-Sim: Procedural Generation of Articulated Simulation Assets|| Blender工具，可创建铰链资源  |[link](93.md)|
 ||2025.5.16|PoseBench3D: A Cross-Dataset Analysis Framework for 3D Human Pose Estimation|| HPE的标准化测试环境  |[link](95.md)|
 ||2025.5.16|Locality Sensitive Avatars From Video|| 基于Nerf的HPE  |[link](90.md)|
-||2025.5.16|HGM³: Hierarchical Generative Masked Motion Modeling with Hard Token Mining|| 文生动作新框架  |[link](87.md)|
+||2025.5.16|**Towards Robust and Controllable Text-to-Motion via Masked Autoregressive Diffusion**|| VQVAE + diffusion  |[link](91.md)|
 ||2025.5.15|Dyadic Mamba: Long-term Dyadic Human Motion Synthesis|| 文生超长序列双人动作  |[link](89.md)|
 ||2025.5.15|**MTVCrafter: 4D Motion Tokenization for Open-World Human Image Animation**||  直接建模原始三维运动序列(即4D运动)的人体图像动画框架 |[link](86.md)|
 ||2025.5.14|**Robust Photo-Realistic Hand Gesture Generation: from Single View to Multiple View**|| 高保真手势生成  |[link](94.md)|
 ||2025.5.14|**Generating time-consistent dynamics with discriminator-guided image diffusion models**||图像生成+时间一致性判别器=视频生成  |[link](84.md)|
-||2025.5.14|**Text-driven Motion Generation: Overview, Challenges and Directions**|| 文本驱动动作生成技术 |[link](83.md)|
 ||2025.5.14|CameraCtrl: Enabling Camera Control for Video Diffusion Models|| 相机位姿控制的视频生成 |[link](82.md)|
 ||2025.5.14|SplineGS: Learning Smooth Trajectories in Gaussian Splatting for Dynamic Scene Reconstruction|| 3DGS复杂场景重建 |[link](79.md)|
 ||2025.5.14|CyberHost: A One-stage Diffusion Framework for Audio-driven Talking Body Generation|| 单阶段音频驱动的说话身体生成 |[link](78.md)|
@@ -48,16 +47,15 @@
 ||2025.5.3|MVHumanNet++: A Large-scale Dataset of Multi-view Daily Dressing Human Captures with Richer Annotations for 3D Human Digitization || 数据集，多视角人体动作序列 |[link](44.md)|
 ||2025.5.2|Model See Model Do: Speech-Driven Facial Animation with Style Control|| 语音驱动，唇形同步，风格 |[link](41.md)|
 ||2025.5.2|3D Human Pose Estimation via Spatial Graph Order Attention and Temporal Body Aware Transformer|| 动捕 |[link](40.md)|
-||2025.5.2|**GENMO: A GENeralist Model for Human MOtion**||  人体运动通用模型，动作估计，动作生成|[link](37.md)|
 ||2025.5.1|T2VPhysBench: A First-Principles Benchmark for Physical Consistency in Text-to-Video Generation|| 文生视频，物理，评估 |[link](34.md)|
 ||2025.5.1|Direct Motion Models for Assessing Generated Videos|| 视频生成评价指标，物体交互，运动质量 |[link](33.md)|
 ||2025.5.1|**Real-Time Animatable 2DGS-Avatars with Detail Enhancement from Monocular Videos**|| 2DGS,SMPL,人体重建 |[link](32.md)|
 ||2025.4.30|**Eye2Eye: A Simple Approach for Monocular-to-Stereo Video Synthesis**|| 文生3D视频 |[link](35.md)|
 ||2025.4.30|CoCoDiff: Diversifying Skeleton Action Features via Coarse-Fine Text-Co-Guided Latent Diffusion|| 3D动作的特征多样性 |[link](31.md)|
 ||2025.4.30|Common3D: Self-Supervised Learning of 3D Morphable Models for Common Objects in Neural Feature Space|| 3DMM泛化到常见物体 |[link](30.md)|
+||2025.4.30|**ReVision: High-Quality, Low-Cost Video Generation with Explicit 3D Physics Modeling for Complex Motion and Interaction**||视频生成，物理  |[link](27.md)|
 ||2025.4.30|HoloTime: Taming Video Diffusion Models for Panoramic 4D Scene Generation|| 4D场景生成 |[link](29.md)|
 ||2025.4.30|MagicPortrait: Temporally Consistent Face Reenactment with 3D Geometric Guidance|| 视频人脸驱动，FLAME |[link](28.md)|
-||2025.4.30|**ReVision: High-Quality, Low-Cost Video Generation with Explicit 3D Physics Modeling for Complex Motion and Interaction**||视频生成，物理  |[link](27.md)|
 ||2025.4.29|Efficient Listener: Dyadic Facial Motion Synthesis via Action Diffusion|| Human Head Generation|[link](25.md)|
 ||2025.4.29|Creating Your Editable 3D Photorealistic Avatar with Tetrahedron-constrained Gaussian Splatting ||生成可编辑3D数字人|[link](24.md)|
 ||2025.4.29|SoccerDiffusion: Toward Learning End-to-End Humanoid Robot Soccer from Gameplay Recordings||踢足球仿真|[link](23.md)|
@@ -81,7 +79,9 @@
 ||2022|Humanise: Language-conditioned human motion generation in 3d scenes ||  人-场景交互（HSI）数据集 |[link](65.md)|
 
 # 删除
-||2025.5.16|**Towards Robust and Controllable Text-to-Motion via Masked Autoregressive Diffusion**|| VQVAE + diffusion  |[link](91.md)|
+||2025.5.16|HGM³: Hierarchical Generative Masked Motion Modeling with Hard Token Mining|| 文生动作新框架  |[link](87.md)|
+||2025.5.2|**GENMO: A GENeralist Model for Human MOtion**||  人体运动通用模型，动作估计，动作生成|[link](37.md)|
+||2025.5.14|**Text-driven Motion Generation: Overview, Challenges and Directions**|| 文本驱动动作生成技术 |[link](83.md)|
 ||2025.5.16|**MoCLIP: Motion-Aware Fine-Tuning and Distillation of CLIP for Human Motion Generation**|| Motion版的Clip  |[link](92.md)|
 ||2025.5.19|FinePhys: Fine-grained Human Action Generation by Explicitly Incorporating Physical Laws for Effective Skeletal Guidance||  一个融合物理规律的细粒度人体动作生成框架 |[link](96.md)|
 ||2025.3.26|**PhysAnimator: Physics-Guided Generative Cartoon Animation**|| 静态动漫插图生成动画 |[link](77.md)|
