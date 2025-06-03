@@ -17,7 +17,7 @@
 - [  ](114.md)
 - [  ](113.md)
 - [  ](112.md)
-- [  ](111.md)
+- [MAGIC: Motion-Aware Generative Inference via Confidence-Guided LLM](111.md)
 - [Intentional Gesture: Deliver Your Intentions with Gestures for Speech](110.md)
 - [AsynFusion: Towards Asynchronous Latent Consistency Models for Decoupled Whole-Body Audio-Driven Avatars](109.md)
 - [GS2E: Gaussian Splatting is an Effective Data Generator for Event Stream Generation](108.md)
