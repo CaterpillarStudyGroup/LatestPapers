@@ -3,11 +3,11 @@
 # Abstract
 
 - [  ](*.md)
-- [  ](125.md)
-- [  ](124.md)
-- [  ](123.md)
-- [  ](122.md)
-- [  ](121.md)
+- [Force Prompting: Video Generation Models Can Learn and Generalize Physics-based Control Signals](125.md)
+- [PAMD: Plausibility-Aware Motion Diffusion Model for Long Dance Generation](124.md)
+- [Absolute Coordinates Make Motion Generation Easy](123.md)
+- [Flow Matching for Geometric Trajectory Simulation](122.md)
+- [Pose Splatter: A 3D Gaussian Splatting Model for Quantifying Animal Pose and Appearance](121.md)
 - [CGS-GAN: 3D Consistent Gaussian Splatting GANs for High Resolution Human Head Synthesis](120.md)
 - [Multi-Person Interaction Generation from Two-Person Motion Priors](119.md)
 - [DanceTogether! Identity-Preserving Multi-Person Interactive Video Generation](118.md)
