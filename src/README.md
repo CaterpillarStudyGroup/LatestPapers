@@ -6,11 +6,11 @@
 ||2025.5.22|***||    |[link](***.md)|
 ||2025.5.22|***||    |[link](***.md)|
 ||2025.5.22|***||    |[link](***.md)|
-||2025.5.22|***||    |[link](***.md)|
-||2025.5.22|***||    |[link](***.md)|
-||2025.5.22|***||    |[link](***.md)|
-||2025.5.22|***||    |[link](***.md)|
-||2025.5.22|***||    |[link](***.md)|
+||2025.5.23|CGS-GAN: 3D Consistent Gaussian Splatting GANs for High Resolution Human Head Synthesis||    |[link](120.md)|
+||2025.5.23|Multi-Person Interaction Generation from Two-Person Motion Priors||    |[link](119.md)|
+||2025.5.23|DanceTogether! Identity-Preserving Multi-Person Interactive Video Generation||    |[link](118.md)|
+||2025.5.23|Temporal Differential Fields for 4D Motion Modeling via Image-to-Video Synthesis||    |[link](117.md)|
+||2025.5.23|WonderPlay: Dynamic 3D Scene Generation from a Single Image and Actions||    |[link](116.md)|
 ||2025.5.22|Motion Matters: Compact Gaussian Streaming for Free-Viewpoint Video Reconstruction||    |[link](115.md)|
 ||2025.5.22|Pursuing Temporal-Consistent Video Virtual Try-On via Dynamic Pose Interaction||    |[link](114.md)|
 ||2025.5.22|SHaDe: Compact and Consistent Dynamic 3D Reconstruction via Tri-Plane Deformation and Latent Diffusion||    |[link](113.md)|
