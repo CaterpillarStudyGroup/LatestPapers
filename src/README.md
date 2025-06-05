@@ -30,11 +30,11 @@
 ||2025.5.22|***||    |[link](13*.md)|
 ||2025.5.22|***||    |[link](13*.md)|
 
-||2025.5.22|***||    |[link](12*.md)|
-||2025.5.22|***||    |[link](12*.md)|
-||2025.5.22|***||    |[link](12*.md)|
-||2025.5.22|***||    |[link](12*.md)|
-||2025.5.22|***||    |[link](12*.md)|
+||2025.5.27|IKMo: Image-Keyframed Motion Generation with Trajectory-Pose Conditioned Motion Diffusion Model||    |[link](130.md)|
+||2025.5.26|AniCrafter: Customizing Realistic Human-Centric Animation via Avatar-Background Conditioning in Video Diffusion Models||    |[link](129.md)|
+||2025.5.26|ParticleGS: Particle-Based Dynamics Modeling of 3D Gaussians for Prior-free Motion Extrapolation||    |[link](128.md)|
+||2025.5.26|MotionPro: A Precise Motion Controller for Image-to-Video Generation||    |[link](127.md)|
+||2025.5.26|DIPO: Dual-State Images Controlled Articulated Object Generation Powered by Diverse Data||    |[link](126.md)|
 
 ||2025.5.26|Force Prompting: Video Generation Models Can Learn and Generalize Physics-based Control Signals||    |[link](125.md)|
 ||2025.5.26|PAMD: Plausibility-Aware Motion Diffusion Model for Long Dance Generation||    |[link](124.md)|
