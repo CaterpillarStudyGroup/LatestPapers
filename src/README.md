@@ -24,11 +24,11 @@
 ||2025.5.22|***||    |[link](13*.md)|
 ||2025.5.22|***||    |[link](13*.md)|
 
-||2025.3.22|***||    |[link](13*.md)|
-||2025.5.22|***||    |[link](13*.md)|
-||2025.5.22|***||    |[link](13*.md)|
-||2025.5.22|***||    |[link](13*.md)|
-||2025.5.22|***||    |[link](13*.md)|
+||2025.5.28|LatentMove: Towards Complex Human Movement Video Generation ||    |[link](135.md)|
+||2025.5.28|UniMoGen: Universal Motion Generation||    |[link](134.md)|
+||2025.5.27|Diffusion Model-based Activity Completion for AI Motion Capture from Videos||    |[link](133.md)|
+||2025.5.27|Think Before You Diffuse: LLMs-Guided Physics-Aware Video Generation||    |[link](132.md)|
+||2025.5.23|How Much Do Large Language Models Know about Human Motion? A Case Study in 3D Avatar Control||    |[link](131.md)|
 
 ||2025.5.27|IKMo: Image-Keyframed Motion Generation with Trajectory-Pose Conditioned Motion Diffusion Model||    |[link](130.md)|
 ||2025.5.26|AniCrafter: Customizing Realistic Human-Centric Animation via Avatar-Background Conditioning in Video Diffusion Models||    |[link](129.md)|
