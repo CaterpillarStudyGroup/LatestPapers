@@ -1,41 +1,34 @@
 |ID|Year|Name|Note|Tags|Link|
 |---|---|---|---|---|---|
-||2025.6.22|***||    |[link](15*.md)|
-||2025.5.22|***||    |[link](15*.md)|
-||2025.5.22|***||    |[link](15*.md)|
-||2025.5.22|***||    |[link](15*.md)|
-||2025.5.22|***||    |[link](15*.md)|
-
+||2025.6.4|EnliveningGS: Active Locomotion of 3DGS||    |[link](154.md)|
+||2025.6.4|AniMo: Species-Aware Model for Text-Driven Animal Motion Generation||    |[link](153.md)|
+||2025.6.3|Controllable Human-centric Keyframe Interpolation with Generative Prior||    |[link](152.md)|
+||2025.6.3|SViMo: Synchronized Diffusion for Video and Motion Generation in Hand-object Interaction Scenarios||    |[link](151.md)|
+||2025.6.3|LinkTo-Anime: A 2D Animation Optical Flow Dataset from 3D Model Rendering||    |[link](155.md)|
 ||2025.6.2|HOSIG: Full-Body Human-Object-Scene Interaction Generation with Hierarchical Scene Perception||    |[link](150.md)|
 ||2025.6.2|DiffuseSlide: Training-Free High Frame Rate Video Generation Diffusion ||    |[link](149.md)|
 ||2025.6.2|UMA: Ultra-detailed Human Avatars via Multi-level Surface Alignment||    |[link](148.md)|
 ||2025.6.1|FlowMo: Variance-Based Flow Guidance for Coherent Motion in Video Generation||    |[link](147.md)|
 ||2025.6.1|TRiMM: Transformer-Based Rich Motion Matching for Real-Time multi-modal Interaction in Digital Humans||    |[link](146.md)|
-
 ||2025.5.30|UniGeo: Taming Video Diffusion for Unified Consistent Geometry Estimation||    |[link](145.md)|
 ||2025.5.30|LTM3D: Bridging Token Spaces for Conditional 3D Generation with Auto-Regressive Diffusion Framework||    |[link](144.md)|
 ||2025.5.30|DreamDance: Animating Character Art via Inpainting Stable Gaussian Worlds||    |[link](143.md)|
 ||2025.5.30|AdaHuman: Animatable Detailed 3D Human Generation with Compositional Multiview Diffusion||    |[link](142.md)|
 ||2025.5.29|Generating Fit Check Videos with a Handheld Camera||    |[link](141.md)|
-
 ||2025.5.29|GeoMan: Temporally Consistent Human Geometry Estimation using Image-to-Video Diffusion||    |[link](140.md)|
 ||2025.5.29|MMGT: Motion Mask Guided Two-Stage Network for Co-Speech Gesture Video Generation||    |[link](139.md)|
 ||2025.5.29|ATI: Any Trajectory Instruction for Controllable Video Generation||    |[link](138.md)|
 ||2025.5.29|Hallo4: High-Fidelity Dynamic Portrait Animation via Direct Preference Optimization and Temporal Motion Modulation||    |[link](137.md)|
 ||2025.5.29|HyperMotion: DiT-Based Pose-Guided Human Image Animation of Complex Motions||    |[link](136.md)|
-
 ||2025.5.28|LatentMove: Towards Complex Human Movement Video Generation ||    |[link](135.md)|
 ||2025.5.28|UniMoGen: Universal Motion Generation||    |[link](134.md)|
 ||2025.5.27|Diffusion Model-based Activity Completion for AI Motion Capture from Videos||    |[link](133.md)|
 ||2025.5.27|Think Before You Diffuse: LLMs-Guided Physics-Aware Video Generation||    |[link](132.md)|
-
-
 ||2025.5.27|IKMo: Image-Keyframed Motion Generation with Trajectory-Pose Conditioned Motion Diffusion Model||    |[link](130.md)|
 ||2025.5.26|AniCrafter: Customizing Realistic Human-Centric Animation via Avatar-Background Conditioning in Video Diffusion Models||    |[link](129.md)|
 ||2025.5.26|ParticleGS: Particle-Based Dynamics Modeling of 3D Gaussians for Prior-free Motion Extrapolation||    |[link](128.md)|
 ||2025.5.26|MotionPro: A Precise Motion Controller for Image-to-Video Generation||    |[link](127.md)|
 ||2025.5.26|DIPO: Dual-State Images Controlled Articulated Object Generation Powered by Diverse Data||    |[link](126.md)|
-
 ||2025.5.26|Force Prompting: Video Generation Models Can Learn and Generalize Physics-based Control Signals||    |[link](125.md)|
 ||2025.5.26|PAMD: Plausibility-Aware Motion Diffusion Model for Long Dance Generation||    |[link](124.md)|
 ||2025.5.26|Absolute Coordinates Make Motion Generation Easy||    |[link](123.md)|
