@@ -6,11 +6,11 @@
 ||2025.5.22|***||    |[link](15*.md)|
 ||2025.5.22|***||    |[link](15*.md)|
 
-||2025.6.22|***||    |[link](14*.md)|
-||2025.5.22|***||    |[link](14*.md)|
-||2025.5.22|***||    |[link](14*.md)|
-||2025.5.22|***||    |[link](14*.md)|
-||2025.5.22|***||    |[link](14*.md)|
+||2025.6.2|HOSIG: Full-Body Human-Object-Scene Interaction Generation with Hierarchical Scene Perception||    |[link](150.md)|
+||2025.6.2|DiffuseSlide: Training-Free High Frame Rate Video Generation Diffusion ||    |[link](149.md)|
+||2025.6.2|UMA: Ultra-detailed Human Avatars via Multi-level Surface Alignment||    |[link](148.md)|
+||2025.6.1|FlowMo: Variance-Based Flow Guidance for Coherent Motion in Video Generation||    |[link](147.md)|
+||2025.6.1|TRiMM: Transformer-Based Rich Motion Matching for Real-Time multi-modal Interaction in Digital Humans||    |[link](146.md)|
 
 ||2025.5.30|UniGeo: Taming Video Diffusion for Unified Consistent Geometry Estimation||    |[link](145.md)|
 ||2025.5.30|LTM3D: Bridging Token Spaces for Conditional 3D Generation with Auto-Regressive Diffusion Framework||    |[link](144.md)|
