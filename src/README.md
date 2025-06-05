@@ -1,34 +1,34 @@
 |ID|Year|Name|Note|Tags|Link|
 |---|---|---|---|---|---|
-||2025.3.22|***||    |[link](15*.md)|
+||2025.6.22|***||    |[link](15*.md)|
 ||2025.5.22|***||    |[link](15*.md)|
 ||2025.5.22|***||    |[link](15*.md)|
 ||2025.5.22|***||    |[link](15*.md)|
 ||2025.5.22|***||    |[link](15*.md)|
 
-||2025.3.22|***||    |[link](14*.md)|
+||2025.6.22|***||    |[link](14*.md)|
 ||2025.5.22|***||    |[link](14*.md)|
 ||2025.5.22|***||    |[link](14*.md)|
 ||2025.5.22|***||    |[link](14*.md)|
 ||2025.5.22|***||    |[link](14*.md)|
 
-||2025.3.22|***||    |[link](14*.md)|
+||2025.6.22|***||    |[link](14*.md)|
 ||2025.5.22|***||    |[link](14*.md)|
 ||2025.5.22|***||    |[link](14*.md)|
 ||2025.5.22|***||    |[link](14*.md)|
 ||2025.5.22|***||    |[link](14*.md)|
 
-||2025.3.22|***||    |[link](13*.md)|
-||2025.5.22|***||    |[link](13*.md)|
-||2025.5.22|***||    |[link](13*.md)|
-||2025.5.22|***||    |[link](13*.md)|
-||2025.5.22|***||    |[link](13*.md)|
+||2025.5.29|GeoMan: Temporally Consistent Human Geometry Estimation using Image-to-Video Diffusion||    |[link](140.md)|
+||2025.5.29|MMGT: Motion Mask Guided Two-Stage Network for Co-Speech Gesture Video Generation||    |[link](139.md)|
+||2025.5.29|ATI: Any Trajectory Instruction for Controllable Video Generation||    |[link](138.md)|
+||2025.5.29|Hallo4: High-Fidelity Dynamic Portrait Animation via Direct Preference Optimization and Temporal Motion Modulation||    |[link](137.md)|
+||2025.5.29|HyperMotion: DiT-Based Pose-Guided Human Image Animation of Complex Motions||    |[link](136.md)|
 
 ||2025.5.28|LatentMove: Towards Complex Human Movement Video Generation ||    |[link](135.md)|
 ||2025.5.28|UniMoGen: Universal Motion Generation||    |[link](134.md)|
 ||2025.5.27|Diffusion Model-based Activity Completion for AI Motion Capture from Videos||    |[link](133.md)|
 ||2025.5.27|Think Before You Diffuse: LLMs-Guided Physics-Aware Video Generation||    |[link](132.md)|
-||2025.5.23|How Much Do Large Language Models Know about Human Motion? A Case Study in 3D Avatar Control||    |[link](131.md)|
+
 
 ||2025.5.27|IKMo: Image-Keyframed Motion Generation with Trajectory-Pose Conditioned Motion Diffusion Model||    |[link](130.md)|
 ||2025.5.26|AniCrafter: Customizing Realistic Human-Centric Animation via Avatar-Background Conditioning in Video Diffusion Models||    |[link](129.md)|
@@ -40,6 +40,7 @@
 ||2025.5.26|PAMD: Plausibility-Aware Motion Diffusion Model for Long Dance Generation||    |[link](124.md)|
 ||2025.5.26|Absolute Coordinates Make Motion Generation Easy||    |[link](123.md)|
 ||2025.5.24|Flow Matching for Geometric Trajectory Simulation||    |[link](122.md)|
+||2025.5.23|How Much Do Large Language Models Know about Human Motion? A Case Study in 3D Avatar Control||    |[link](131.md)|
 ||2025.5.23|Pose Splatter: A 3D Gaussian Splatting Model for Quantifying Animal Pose and Appearance||    |[link](121.md)|
 ||2025.5.23|CGS-GAN: 3D Consistent Gaussian Splatting GANs for High Resolution Human Head Synthesis||    |[link](120.md)|
 ||2025.5.23|Multi-Person Interaction Generation from Two-Person Motion Priors||    |[link](119.md)|
