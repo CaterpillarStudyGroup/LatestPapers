@@ -1,6 +1,41 @@
 |ID|Year|Name|Note|Tags|Link|
 |---|---|---|---|---|---|
-||2025.5.22|***||    |[link](***.md)|
+||2025.3.22|***||    |[link](15*.md)|
+||2025.5.22|***||    |[link](15*.md)|
+||2025.5.22|***||    |[link](15*.md)|
+||2025.5.22|***||    |[link](15*.md)|
+||2025.5.22|***||    |[link](15*.md)|
+
+||2025.3.22|***||    |[link](14*.md)|
+||2025.5.22|***||    |[link](14*.md)|
+||2025.5.22|***||    |[link](14*.md)|
+||2025.5.22|***||    |[link](14*.md)|
+||2025.5.22|***||    |[link](14*.md)|
+
+||2025.3.22|***||    |[link](14*.md)|
+||2025.5.22|***||    |[link](14*.md)|
+||2025.5.22|***||    |[link](14*.md)|
+||2025.5.22|***||    |[link](14*.md)|
+||2025.5.22|***||    |[link](14*.md)|
+
+||2025.3.22|***||    |[link](13*.md)|
+||2025.5.22|***||    |[link](13*.md)|
+||2025.5.22|***||    |[link](13*.md)|
+||2025.5.22|***||    |[link](13*.md)|
+||2025.5.22|***||    |[link](13*.md)|
+
+||2025.3.22|***||    |[link](13*.md)|
+||2025.5.22|***||    |[link](13*.md)|
+||2025.5.22|***||    |[link](13*.md)|
+||2025.5.22|***||    |[link](13*.md)|
+||2025.5.22|***||    |[link](13*.md)|
+
+||2025.5.22|***||    |[link](12*.md)|
+||2025.5.22|***||    |[link](12*.md)|
+||2025.5.22|***||    |[link](12*.md)|
+||2025.5.22|***||    |[link](12*.md)|
+||2025.5.22|***||    |[link](12*.md)|
+
 ||2025.5.26|Force Prompting: Video Generation Models Can Learn and Generalize Physics-based Control Signals||    |[link](125.md)|
 ||2025.5.26|PAMD: Plausibility-Aware Motion Diffusion Model for Long Dance Generation||    |[link](124.md)|
 ||2025.5.26|Absolute Coordinates Make Motion Generation Easy||    |[link](123.md)|
@@ -16,7 +51,6 @@
 ||2025.5.22|SHaDe: Compact and Consistent Dynamic 3D Reconstruction via Tri-Plane Deformation and Latent Diffusion||    |[link](113.md)|
 ||2025.5.22|MEgoHand: Multimodal Egocentric Hand-Object Interaction Motion Generation||    |[link](112.md)|
 ||2025.5.22|MAGIC: Motion-Aware Generative Inference via Confidence-Guided LLM||    |[link](111.md)|
-
 ||2025.5.21|Intentional Gesture: Deliver Your Intentions with Gestures for Speech|| 伴随语音手势生成  |[link](110.md)|
 ||2025.5.21|AsynFusion: Towards Asynchronous Latent Consistency Models for Decoupled Whole-Body Audio-Driven Avatars|| 全身音频驱动虚拟形象姿势与表情生成  |[link](109.md)|
 ||2025.5.21|GS2E: Gaussian Splatting is an Effective Data Generator for Event Stream Generation|| 真实世界稀疏多视角RGB图像重建的数据集  |[link](108.md)|
