@@ -12,11 +12,11 @@
 ||2025.5.22|***||    |[link](14*.md)|
 ||2025.5.22|***||    |[link](14*.md)|
 
-||2025.6.22|***||    |[link](14*.md)|
-||2025.5.22|***||    |[link](14*.md)|
-||2025.5.22|***||    |[link](14*.md)|
-||2025.5.22|***||    |[link](14*.md)|
-||2025.5.22|***||    |[link](14*.md)|
+||2025.5.30|UniGeo: Taming Video Diffusion for Unified Consistent Geometry Estimation||    |[link](145.md)|
+||2025.5.30|LTM3D: Bridging Token Spaces for Conditional 3D Generation with Auto-Regressive Diffusion Framework||    |[link](144.md)|
+||2025.5.30|DreamDance: Animating Character Art via Inpainting Stable Gaussian Worlds||    |[link](143.md)|
+||2025.5.30|AdaHuman: Animatable Detailed 3D Human Generation with Compositional Multiview Diffusion||    |[link](142.md)|
+||2025.5.29|Generating Fit Check Videos with a Handheld Camera||    |[link](141.md)|
 
 ||2025.5.29|GeoMan: Temporally Consistent Human Geometry Estimation using Image-to-Video Diffusion||    |[link](140.md)|
 ||2025.5.29|MMGT: Motion Mask Guided Two-Stage Network for Co-Speech Gesture Video Generation||    |[link](139.md)|
