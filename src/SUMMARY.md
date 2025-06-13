@@ -6,8 +6,8 @@
 
 - [  ](180.md)
 - [  ](179.md)
-- [  ](178.md)
-- [  ](177.md)
+- [AnimateAnyMesh: A Feed-Forward 4D Foundation Model for Text-Driven Universal Mesh Animation](178.md)
+- [Self-Supervised Multi-Part Articulated Objects Modeling via Deformable Gaussian Splatting and Progressive Primitive Segmentation](177.md)
 - [SILK: Smooth InterpoLation frameworK for motion in-betweening A Simplified Computational Approach](176.md)
 
 - [RoboSwap: A GAN-driven Video Diffusion Framework For Unsupervised Robot Arm Swapping](175.md)

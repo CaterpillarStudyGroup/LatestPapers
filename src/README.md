@@ -1,40 +1,35 @@
 |ID|Year|Name|Note|Tags|Link|
 |---|---|---|---|---|---|
-||2025.6.4|****||    |[link](1**.md)|
-||2025.6.4|****||    |[link](1**.md)|
-||2025.6.4|****||    |[link](1**.md)|
-||2025.6.4|****||    |[link](1**.md)|
-||2025.6.9|SILK: Smooth InterpoLation frameworK for motion in-betweening A Simplified Computational Approach||    |[link](176.md)|
-
+||2025.6.11|PlayerOne: Egocentric World Simulator||    |[link](180.md)|
+||2025.6.11|HAIF-GS: Hierarchical and Induced Flow-Guided Gaussian Splatting for Dynamic Scene||    |[link](179.md)|
+||2025.6.11|AnimateAnyMesh: A Feed-Forward 4D Foundation Model for Text-Driven Universal Mesh Animation||    |[link](178.md)|
+||2025.6.11|Self-Supervised Multi-Part Articulated Objects Modeling via Deformable Gaussian Splatting and Progressive Primitive Segmentation||    |[link](177.md)|
 ||2025.6.10|RoboSwap: A GAN-driven Video Diffusion Framework For Unsupervised Robot Arm Swapping||    |[link](175.md)|
 ||2025.6.10|StreamSplat: Towards Online Dynamic 3D Reconstruction from Uncalibrated Video Streams||    |[link](174.md)|
 ||2025.6.10|Orientation Matters: Making 3D Generative Models Orientation-Aligned||    |[link](173.md)|
 ||2025.6.10|Generalizable Articulated Object Reconstruction from Casually Captured RGBD Videos||    |[link](172.md)|
 ||2025.6.10|HunyuanVideo-HOMA: Generic Human-Object Interaction in Multimodal Driven Human Animation||    |[link](171.md)|
-
+||2025.6.9|SILK: Smooth InterpoLation frameworK for motion in-betweening A Simplified Computational Approach||    |[link](176.md)|
 ||2025.6.9|PIG: Physically-based Multi-Material Interaction with 3D Gaussians||    |[link](170.md)|
 ||2025.6.9|Drive Any Mesh: 4D Latent Diffusion for Mesh Deformation from Video||    |[link](169.md)|
 ||2025.6.9|NOVA3D: Normal Aligned Video Diffusion Model for Single Image to 3D Generation||    |[link](168.md)|
 ||2025.6.9|PhysiInter: Integrating Physical Mapping for High-Fidelity Human Interaction Generation||    |[link](167.md)|
 ||2025.6.7|Parametric Gaussian Human Model: Generalizable Prior for Efficient and Realistic Human Avatar Modeling||    |[link](166.md)|
-
 ||2025.6.5|Revisiting Depth Representations for Feed-Forward 3D Gaussian Splatting ||    |[link](165.md)|
 ||2025.6.5|Follow-Your-Creation: Empowering 4D Creation through Video Inpainting||    |[link](164.md)|
 ||2025.6.5|Realizing Text-Driven Motion Generation on NAO Robot: A Reinforcement Learning-Optimized Control Pipeline||    |[link](163.md)|
 ||2025.6.5|Follow-Your-Motion: Video Motion Transfer via Efficient Spatial-Temporal Decoupled Finetuning||    |[link](162.md)|
 ||2025.6.5|FreeGave: 3D Physics Learning from Dynamic Videos by Gaussian Velocity||    |[link](161.md)|
-
 ||2025.6.5|POMP: Physics-consistent Motion Generative Model through Phase Manifolds||    |[link](160.md)|
 ||2025.6.5|SinGS: Animatable Single-Image Human Gaussian Splats with Kinematic Priors||    |[link](159.md)|
 ||2025.6.4|SplArt: Articulation Estimation and Part-Level Reconstruction with 3D Gaussian Splatting||    |[link](158.md)|
 ||2025.6.4|HuGeDiff: 3D Human Generation via Diffusion with Gaussian Splatting||    |[link](157.md)|
-||2025.5.31|Multimodal Generative AI with Autoregressive LLMs for Human Motion Understanding and Generation: A Way Forward||    |[link](156.md)|
-
 ||2025.6.4|**EnliveningGS: Active Locomotion of 3DGS**|| 3D 高斯溅射(3DGS)表示的 3D 模型能够实现主动运动   |[link](154.md)|
 ||2025.6.3|Controllable Human-centric Keyframe Interpolation with Generative Prior||  3D关键帧插值器  |[link](152.md)|
 ||2025.6.3|SViMo: Synchronized Diffusion for Video and Motion Generation in Hand-object Interaction Scenarios|| 将**视觉先验**和**动态约束**结合在一个**同步扩散过程**中，以同时生成HOI视频和运动数据   |[link](151.md)|
 ||2025.6.2|HOSIG: Full-Body Human-Object-Scene Interaction Generation with Hierarchical Scene Perception|| 通过**分层场景感知**合成全身交互   |[link](150.md)|
 ||2025.6.2|UMA: Ultra-detailed Human Avatars via Multi-level Surface Alignment||  基于多视角视频学习具有生动动态效果与照片级真实感的可动画着装人体模型  |[link](148.md)|
+||2025.5.31|Multimodal Generative AI with Autoregressive LLMs for Human Motion Understanding and Generation: A Way Forward||    |[link](156.md)|
 ||2025.5.30|DreamDance: Animating Character Art via Inpainting Stable Gaussian Worlds||  基于精确的相机轨迹生成稳定、一致的角色与场景运动  |[link](143.md)|
 ||2025.5.29|Generating Fit Check Videos with a Handheld Camera|| 仅需手持移动设备即可实现全身视频捕捉   |[link](141.md)|
 ||2025.5.29|Hallo4: High-Fidelity Dynamic Portrait Animation via Direct Preference Optimization and Temporal Motion Modulation||  由音频和骨骼运动驱动的高度动态且具有照片级真实感的肖像动画  |[link](137.md)|
