@@ -79,9 +79,6 @@
 
 # 删除
 
-|106|2025.5.26|Force Prompting: Video Generation Models Can Learn and Generalize Physics-based Control Signals|将物理力作为视频生成的控制信号的视频生成 |开源  |[link](https://caterpillarstudygroup.github.io/ReadPapers/106.html)|
-||2025.5.14|**Generating time-consistent dynamics with discriminator-guided image diffusion models**||图像生成+时间一致性判别器=视频生成  |[link](84.md)|
-|105|2025.5.27|Think Before You Diffuse: LLMs-Guided Physics-Aware Video Generation| 通过对预训练的视频扩散模型进行微调，实现物理准确且逼真的视频生成 | 数据集,LLM  |[link](132.md)|
 
 # Low
 
