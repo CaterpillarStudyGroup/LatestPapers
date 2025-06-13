@@ -24,11 +24,11 @@
 ||2025.6.4|****||    |[link](1**.md)|
 ||2025.6.4|****||    |[link](1**.md)|
 
-||2025.6.4|****||    |[link](1**.md)|
-||2025.6.4|****||    |[link](1**.md)|
-||2025.6.4|****||    |[link](1**.md)|
-||2025.6.4|****||    |[link](1**.md)|
-||2025.6.4|****||    |[link](1**.md)|
+||2025.6.5|POMP: Physics-consistent Motion Generative Model through Phase Manifolds||    |[link](160.md)|
+||2025.6.5|SinGS: Animatable Single-Image Human Gaussian Splats with Kinematic Priors||    |[link](159.md)|
+||2025.6.4|SplArt: Articulation Estimation and Part-Level Reconstruction with 3D Gaussian Splatting||    |[link](158.md)|
+||2025.6.4|HuGeDiff: 3D Human Generation via Diffusion with Gaussian Splatting||    |[link](157.md)|
+||2025.5.31|Multimodal Generative AI with Autoregressive LLMs for Human Motion Understanding and Generation: A Way Forward||    |[link](156.md)|
 
 ||2025.6.4|**EnliveningGS: Active Locomotion of 3DGS**|| 3D 高斯溅射(3DGS)表示的 3D 模型能够实现主动运动   |[link](154.md)|
 ||2025.6.3|Controllable Human-centric Keyframe Interpolation with Generative Prior||  3D关键帧插值器  |[link](152.md)|

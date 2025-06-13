@@ -28,11 +28,11 @@
 - [  ](162.md)
 - [  ](161.md)
 
-- [  ](160.md)
-- [  ](159.md)
-- [  ](158.md)
-- [  ](157.md)
-- [  ](156.md)
+- [POMP: Physics-consistent Motion Generative Model through Phase Manifolds](160.md)
+- [SinGS: Animatable Single-Image Human Gaussian Splats with Kinematic Priors](159.md)
+- [SplArt: Articulation Estimation and Part-Level Reconstruction with 3D Gaussian Splatting](158.md)
+- [HuGeDiff: 3D Human Generation via Diffusion with Gaussian Splatting](157.md)
+- [Multimodal Generative AI with Autoregressive LLMs for Human Motion Understanding and Generation: A Way Forward](156.md)
 
 - [LinkTo-Anime: A 2D Animation Optical Flow Dataset from 3D Model Rendering](155.md)
 - [EnliveningGS: Active Locomotion of 3DGS](154.md)
