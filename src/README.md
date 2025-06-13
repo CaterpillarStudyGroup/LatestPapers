@@ -12,11 +12,11 @@
 ||2025.6.4|****||    |[link](1**.md)|
 ||2025.6.4|****||    |[link](1**.md)|
 
-||2025.6.4|****||    |[link](1**.md)|
-||2025.6.4|****||    |[link](1**.md)|
-||2025.6.4|****||    |[link](1**.md)|
-||2025.6.4|****||    |[link](1**.md)|
-||2025.6.4|****||    |[link](1**.md)|
+||2025.6.9|PIG: Physically-based Multi-Material Interaction with 3D Gaussians||    |[link](170.md)|
+||2025.6.9|Drive Any Mesh: 4D Latent Diffusion for Mesh Deformation from Video||    |[link](169.md)|
+||2025.6.9|NOVA3D: Normal Aligned Video Diffusion Model for Single Image to 3D Generation||    |[link](168.md)|
+||2025.6.9|PhysiInter: Integrating Physical Mapping for High-Fidelity Human Interaction Generation||    |[link](167.md)|
+||2025.6.7|Parametric Gaussian Human Model: Generalizable Prior for Efficient and Realistic Human Avatar Modeling||    |[link](166.md)|
 
 ||2025.6.5|Revisiting Depth Representations for Feed-Forward 3D Gaussian Splatting ||    |[link](165.md)|
 ||2025.6.5|Follow-Your-Creation: Empowering 4D Creation through Video Inpainting||    |[link](164.md)|

@@ -16,11 +16,11 @@
 - [  ](172.md)
 - [  ](171.md)
 
-- [  ](170.md)
-- [  ](169.md)
-- [  ](168.md)
-- [  ](167.md)
-- [  ](166.md)
+- [PIG: Physically-based Multi-Material Interaction with 3D Gaussians](170.md)
+- [Drive Any Mesh: 4D Latent Diffusion for Mesh Deformation from Video](169.md)
+- [NOVA3D: Normal Aligned Video Diffusion Model for Single Image to 3D Generation](168.md)
+- [PhysiInter: Integrating Physical Mapping for High-Fidelity Human Interaction Generation](167.md)
+- [Parametric Gaussian Human Model: Generalizable Prior for Efficient and Realistic Human Avatar Modeling](166.md)
 
 - [Revisiting Depth Representations for Feed-Forward 3D Gaussian Splatting ](165.md)
 - [Follow-Your-Creation: Empowering 4D Creation through Video Inpainting](164.md)
