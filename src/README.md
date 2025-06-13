@@ -4,13 +4,13 @@
 ||2025.6.4|****||    |[link](1**.md)|
 ||2025.6.4|****||    |[link](1**.md)|
 ||2025.6.4|****||    |[link](1**.md)|
-||2025.6.4|****||    |[link](1**.md)|
+||2025.6.9|SILK: Smooth InterpoLation frameworK for motion in-betweening A Simplified Computational Approach||    |[link](176.md)|
 
-||2025.6.4|****||    |[link](1**.md)|
-||2025.6.4|****||    |[link](1**.md)|
-||2025.6.4|****||    |[link](1**.md)|
-||2025.6.4|****||    |[link](1**.md)|
-||2025.6.4|****||    |[link](1**.md)|
+||2025.6.10|RoboSwap: A GAN-driven Video Diffusion Framework For Unsupervised Robot Arm Swapping||    |[link](175.md)|
+||2025.6.10|StreamSplat: Towards Online Dynamic 3D Reconstruction from Uncalibrated Video Streams||    |[link](174.md)|
+||2025.6.10|Orientation Matters: Making 3D Generative Models Orientation-Aligned||    |[link](173.md)|
+||2025.6.10|Generalizable Articulated Object Reconstruction from Casually Captured RGBD Videos||    |[link](172.md)|
+||2025.6.10|HunyuanVideo-HOMA: Generic Human-Object Interaction in Multimodal Driven Human Animation||    |[link](171.md)|
 
 ||2025.6.9|PIG: Physically-based Multi-Material Interaction with 3D Gaussians||    |[link](170.md)|
 ||2025.6.9|Drive Any Mesh: 4D Latent Diffusion for Mesh Deformation from Video||    |[link](169.md)|
