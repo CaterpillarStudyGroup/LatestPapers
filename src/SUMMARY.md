@@ -3,37 +3,31 @@
 # Abstract
 
 - [  ](*.md)
-
-- [  ](180.md)
-- [  ](179.md)
+- [PlayerOne: Egocentric World Simulator](180.md)
+- [HAIF-GS: Hierarchical and Induced Flow-Guided Gaussian Splatting for Dynamic Scene](179.md)
 - [AnimateAnyMesh: A Feed-Forward 4D Foundation Model for Text-Driven Universal Mesh Animation](178.md)
 - [Self-Supervised Multi-Part Articulated Objects Modeling via Deformable Gaussian Splatting and Progressive Primitive Segmentation](177.md)
 - [SILK: Smooth InterpoLation frameworK for motion in-betweening A Simplified Computational Approach](176.md)
-
 - [RoboSwap: A GAN-driven Video Diffusion Framework For Unsupervised Robot Arm Swapping](175.md)
 - [StreamSplat: Towards Online Dynamic 3D Reconstruction from Uncalibrated Video Streams](174.md)
 - [Orientation Matters: Making 3D Generative Models Orientation-Aligned](173.md)
 - [Generalizable Articulated Object Reconstruction from Casually Captured RGBD Videos](172.md)
 - [HunyuanVideo-HOMA: Generic Human-Object Interaction in Multimodal Driven Human Animation](171.md)
-
 - [PIG: Physically-based Multi-Material Interaction with 3D Gaussians](170.md)
 - [Drive Any Mesh: 4D Latent Diffusion for Mesh Deformation from Video](169.md)
 - [NOVA3D: Normal Aligned Video Diffusion Model for Single Image to 3D Generation](168.md)
 - [PhysiInter: Integrating Physical Mapping for High-Fidelity Human Interaction Generation](167.md)
 - [Parametric Gaussian Human Model: Generalizable Prior for Efficient and Realistic Human Avatar Modeling](166.md)
-
 - [Revisiting Depth Representations for Feed-Forward 3D Gaussian Splatting ](165.md)
 - [Follow-Your-Creation: Empowering 4D Creation through Video Inpainting](164.md)
 - [Realizing Text-Driven Motion Generation on NAO Robot: A Reinforcement Learning-Optimized Control Pipeline](163.md)
 - [Follow-Your-Motion: Video Motion Transfer via Efficient Spatial-Temporal Decoupled Finetuning](162.md)
 - [FreeGave: 3D Physics Learning from Dynamic Videos by Gaussian Velocity](161.md)
-
 - [POMP: Physics-consistent Motion Generative Model through Phase Manifolds](160.md)
 - [SinGS: Animatable Single-Image Human Gaussian Splats with Kinematic Priors](159.md)
 - [SplArt: Articulation Estimation and Part-Level Reconstruction with 3D Gaussian Splatting](158.md)
 - [HuGeDiff: 3D Human Generation via Diffusion with Gaussian Splatting](157.md)
 - [Multimodal Generative AI with Autoregressive LLMs for Human Motion Understanding and Generation: A Way Forward](156.md)
-
 - [LinkTo-Anime: A 2D Animation Optical Flow Dataset from 3D Model Rendering](155.md)
 - [EnliveningGS: Active Locomotion of 3DGS](154.md)
 - [AniMo: Species-Aware Model for Text-Driven Animal Motion Generation](153.md)
