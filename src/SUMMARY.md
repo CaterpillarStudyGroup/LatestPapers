@@ -22,11 +22,11 @@
 - [  ](167.md)
 - [  ](166.md)
 
-- [  ](165.md)
-- [  ](164.md)
-- [  ](163.md)
-- [  ](162.md)
-- [  ](161.md)
+- [Revisiting Depth Representations for Feed-Forward 3D Gaussian Splatting ](165.md)
+- [Follow-Your-Creation: Empowering 4D Creation through Video Inpainting](164.md)
+- [Realizing Text-Driven Motion Generation on NAO Robot: A Reinforcement Learning-Optimized Control Pipeline](163.md)
+- [Follow-Your-Motion: Video Motion Transfer via Efficient Spatial-Temporal Decoupled Finetuning](162.md)
+- [FreeGave: 3D Physics Learning from Dynamic Videos by Gaussian Velocity](161.md)
 
 - [POMP: Physics-consistent Motion Generative Model through Phase Manifolds](160.md)
 - [SinGS: Animatable Single-Image Human Gaussian Splats with Kinematic Priors](159.md)

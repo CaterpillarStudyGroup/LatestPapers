@@ -18,11 +18,11 @@
 ||2025.6.4|****||    |[link](1**.md)|
 ||2025.6.4|****||    |[link](1**.md)|
 
-||2025.6.4|****||    |[link](1**.md)|
-||2025.6.4|****||    |[link](1**.md)|
-||2025.6.4|****||    |[link](1**.md)|
-||2025.6.4|****||    |[link](1**.md)|
-||2025.6.4|****||    |[link](1**.md)|
+||2025.6.5|Revisiting Depth Representations for Feed-Forward 3D Gaussian Splatting ||    |[link](165.md)|
+||2025.6.5|Follow-Your-Creation: Empowering 4D Creation through Video Inpainting||    |[link](164.md)|
+||2025.6.5|Realizing Text-Driven Motion Generation on NAO Robot: A Reinforcement Learning-Optimized Control Pipeline||    |[link](163.md)|
+||2025.6.5|Follow-Your-Motion: Video Motion Transfer via Efficient Spatial-Temporal Decoupled Finetuning||    |[link](162.md)|
+||2025.6.5|FreeGave: 3D Physics Learning from Dynamic Videos by Gaussian Velocity||    |[link](161.md)|
 
 ||2025.6.5|POMP: Physics-consistent Motion Generative Model through Phase Manifolds||    |[link](160.md)|
 ||2025.6.5|SinGS: Animatable Single-Image Human Gaussian Splats with Kinematic Priors||    |[link](159.md)|
