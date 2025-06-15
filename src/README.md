@@ -1,7 +1,6 @@
 |ID|Year|Name|Note|Tags|Link|
 |---|---|---|---|---|---|
 ||2025.6.11|PlayerOne: Egocentric World Simulator||    |[link](180.md)|
-||2025.6.11|HAIF-GS: Hierarchical and Induced Flow-Guided Gaussian Splatting for Dynamic Scene||    |[link](179.md)|
 ||2025.6.11|Self-Supervised Multi-Part Articulated Objects Modeling via Deformable Gaussian Splatting and Progressive Primitive Segmentation||    |[link](177.md)|
 ||2025.6.10|RoboSwap: A GAN-driven Video Diffusion Framework For Unsupervised Robot Arm Swapping||    |[link](175.md)|
 ||2025.6.10|StreamSplat: Towards Online Dynamic 3D Reconstruction from Uncalibrated Video Streams||    |[link](174.md)|
@@ -17,7 +16,6 @@
 ||2025.6.5|Realizing Text-Driven Motion Generation on NAO Robot: A Reinforcement Learning-Optimized Control Pipeline||    |[link](163.md)|
 ||2025.6.5|Follow-Your-Motion: Video Motion Transfer via Efficient Spatial-Temporal Decoupled Finetuning||    |[link](162.md)|
 ||2025.6.5|**FreeGave: 3D Physics Learning from Dynamic Videos by Gaussian Velocity**||    |[link](161.md)|
-||2025.6.5|SinGS: Animatable Single-Image Human Gaussian Splats with Kinematic Priors||    |[link](159.md)|
 ||2025.6.4|SplArt: Articulation Estimation and Part-Level Reconstruction with 3D Gaussian Splatting||    |[link](158.md)|
 ||2025.6.4|HuGeDiff: 3D Human Generation via Diffusion with Gaussian Splatting||    |[link](157.md)|
 ||2025.6.3|Controllable Human-centric Keyframe Interpolation with Generative Prior||  3D关键帧插值器  |[link](152.md)|
@@ -54,7 +52,6 @@
 ||2025.5.16|PoseBench3D: A Cross-Dataset Analysis Framework for 3D Human Pose Estimation|| HPE的标准化测试环境  |[link](95.md)|
 ||2025.5.16|Locality Sensitive Avatars From Video|| 基于Nerf的HPE  |[link](90.md)|
 ||2025.5.15|**MTVCrafter: 4D Motion Tokenization for Open-World Human Image Animation**||  直接建模原始三维运动序列(即4D运动)的人体图像动画框架 |[link](86.md)|
-||2025.5.14|SplineGS: Learning Smooth Trajectories in Gaussian Splatting for Dynamic Scene Reconstruction|| 3DGS复杂场景重建 |[link](79.md)|
 ||2025.5.13|**M3G: Multi-Granular Gesture Generator for Audio-Driven Full-Body Human Motion Synthesis**|| 个性化姿态的建模 |[link](80.md)|
 ||2025.5.12|**ShotAdapter: Text-to-Multi-Shot Video Generation with Diffusion Models**|| 文本到多镜头视频生成 |[link](73.md)|
 ||2025.5.12|**Human Motion Prediction via Test-domain-aware Adaptation with Easily-available Human Motions Estimated from Videos**||三维人体运动预测  |[link](72.md)|
@@ -100,6 +97,7 @@
 # 删除
 
 |109|2025.6.11|**AnimateAnyMesh: A Feed-Forward 4D Foundation Model for Text-Driven Universal Mesh Animation**| 1. 将动态网格分解为初始状态与相对轨迹<br> 2. 融合网格拓扑信息 <br> 3. 基于注意力机制实现高效变长压缩与重建| 修正流，数据集   |[link](https://caterpillarstudygroup.github.io/ReadPapers/109.html)|
+|110|2025.6.9|**Drive Any Mesh: 4D Latent Diffusion for Mesh Deformation from Video**|1. 以文本和目标视频为条件驱动Mesh<br> 2. 将动态网格分解为初始状态与相对轨迹 <br> 3. 使用latent set + Transformer VAE对动态Mesh进行编码<br> 4. 使用diffusion进行生成| Latent Sets，diffusion，数据集  |[link](https://caterpillarstudygroup.github.io/ReadPapers/110.html)|
 
 # Low
 
