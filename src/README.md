@@ -103,6 +103,7 @@
 
 |ID|Year|Name|Note|Tags|Link|
 |---|---|---|---|---|---|
+||2025.6.5|**POMP: Physics-consistent Motion Generative Model through Phase Manifolds**|1. 使用运动学生成动作 2. 使用动力学优化动作 3. 优化结果再映射回运动学数据 <br> | 物理合理，自回归，动作优化   |[link](160.md)|
 ||2025.6.3|LinkTo-Anime: A 2D Animation Optical Flow Dataset from 3D Model Rendering||    |[link](155.md)|
 ||2025.5.30|AdaHuman: Animatable Detailed 3D Human Generation with Compositional Multiview Diffusion|| 从单张真实场景图像生成高保真可动画3D头像   |[link](142.md)|
 ||2025.5.30|UniGeo: Taming Video Diffusion for Unified Consistent Geometry Estimation||  利用扩散模型先验知识辅助单目几何估计  |[link](145.md)|
