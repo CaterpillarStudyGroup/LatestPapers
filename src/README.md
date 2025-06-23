@@ -24,11 +24,11 @@
 ||2025.6.11|**||    |[link](187.md)|
 ||2025.6.11|**||    |[link](186.md)|
 
-||2025.6.11|**||    |[link](185.md)|
-||2025.6.11|**||    |[link](184.md)|
-||2025.6.11|**||    |[link](183.md)|
-||2025.6.11|**||    |[link](182.md)|
-||2025.6.11|**||    |[link](181.md)|
+||2025.6.12|DreamActor-H1: High-Fidelity Human-Product Demonstration Video Generation via Motion-designed Diffusion Transformers||    |[link](185.md)|
+||2025.6.12|M4V: Multi-Modal Mamba for Text-to-Video Generation||    |[link](184.md)|
+||2025.6.12|Motion-R1: Chain-of-Thought Reasoning and Reinforcement Learning for Human Motion Generation||    |[link](183.md)|
+||2025.6.12|Rethinking Generative Human Video Coding with Implicit Motion Transformation||    |[link](182.md)|
+||2025.4.14|Controllable Expressive 3D Facial Animation via Diffusion in a Unified Multimodal Space||    |[link](181.md)|
 
 ||2025.6.11|PlayerOne: Egocentric World Simulator||    |[link](180.md)|
 ||2025.6.11|Self-Supervised Multi-Part Articulated Objects Modeling via Deformable Gaussian Splatting and Progressive Primitive Segmentation||    |[link](177.md)|

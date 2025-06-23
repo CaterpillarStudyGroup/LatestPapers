@@ -28,11 +28,11 @@
 - [  ](187.md)
 - [  ](186.md)
 
-- [  ](185.md)
-- [  ](184.md)
-- [  ](183.md)
-- [  ](182.md)
-- [  ](181.md)
+- [DreamActor-H1: High-Fidelity Human-Product Demonstration Video Generation via Motion-designed Diffusion Transformers](185.md)
+- [M4V: Multi-Modal Mamba for Text-to-Video Generation](184.md)
+- [Motion-R1: Chain-of-Thought Reasoning and Reinforcement Learning for Human Motion Generation](183.md)
+- [Rethinking Generative Human Video Coding with Implicit Motion Transformation](182.md)
+- [Controllable Expressive 3D Facial Animation via Diffusion in a Unified Multimodal Space](181.md)
 
 - [PlayerOne: Egocentric World Simulator](180.md)
 - [HAIF-GS: Hierarchical and Induced Flow-Guided Gaussian Splatting for Dynamic Scene](179.md)
