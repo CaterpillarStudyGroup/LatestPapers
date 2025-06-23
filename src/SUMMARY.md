@@ -16,11 +16,11 @@
 - [  ](197.md)
 - [  ](196.md)
 
-- [  ](195.md)
-- [  ](194.md)
-- [  ](193.md)
-- [  ](192.md)
-- [  ](191.md)
+- [PF-LHM: 3D Animatable Avatar Reconstruction from Pose-free Articulated Human Images](195.md)
+- [MAMMA: Markerless & Automatic Multi-Person Motion Action Capture](194.md)
+- [iDiT-HOI: Inpainting-based Hand Object Interaction Reenactment via Video Diffusion Transformer](193.md)
+- [RL from Physical Feedback: Aligning Large Motion Models with Humanoid Control](192.md)
+- [KungfuBot: Physics-Based Humanoid Whole-Body Control for Learning Highly-Dynamic Skills](191.md)
 
 - [Enter: Graduated Realism: A Pedagogical Framework for AI-Powered Avatars in Virtual Reality Teacher Training](190.md)
 - [Auto-Connect: Connectivity-Preserving RigFormer with Direct Preference Optimization](189.md)
