@@ -18,11 +18,11 @@
 ||2025.6.11|**||    |[link](192.md)|
 ||2025.6.11|**||    |[link](191.md)|
 
-||2025.6.11|**||    |[link](190.md)|
-||2025.6.11|**||    |[link](189.md)|
-||2025.6.11|**||    |[link](188.md)|
-||2025.6.11|**||    |[link](187.md)|
-||2025.6.11|**||    |[link](186.md)|
+||2025.6.13|Enter: Graduated Realism: A Pedagogical Framework for AI-Powered Avatars in Virtual Reality Teacher Training||    |[link](190.md)|
+||2025.6.13|Auto-Connect: Connectivity-Preserving RigFormer with Direct Preference Optimization||    |[link](189.md)|
+||2025.6.13|SignAligner: Harmonizing Complementary Pose Modalities for Coherent Sign Language Generation||    |[link](188.md)|
+||2025.6.13|Aligned Novel View Image and Geometry Synthesis via Cross-modal Attention Instillation||    |[link](187.md)|
+||2025.6.11|AlignHuman: Improving Motion and Fidelity via Timestep-Segment Preference Optimization for Audio-Driven Human Animation||    |[link](186.md)|
 
 ||2025.6.12|DreamActor-H1: High-Fidelity Human-Product Demonstration Video Generation via Motion-designed Diffusion Transformers||    |[link](185.md)|
 ||2025.6.12|M4V: Multi-Modal Mamba for Text-to-Video Generation||    |[link](184.md)|
