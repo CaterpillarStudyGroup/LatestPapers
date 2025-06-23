@@ -6,11 +6,11 @@
 ||2025.6.11|**||    |[link](202.md)|
 ||2025.6.11|**||    |[link](201.md)|
 
-||2025.6.11|**||    |[link](200.md)|
-||2025.6.11|**||    |[link](199.md)|
-||2025.6.11|**||    |[link](198.md)|
-||2025.6.11|**||    |[link](197.md)|
-||2025.6.11|**||    |[link](196.md)|
+||2025.6.17|VideoMAR: Autoregressive Video Generatio with Continuous Tokens||    |[link](200.md)|
+||2025.6.17|SyncTalk++: High-Fidelity and Efficient Synchronized Talking Heads Synthesis Using Gaussian Splatting||    |[link](199.md)|
+||2025.6.17|GAF: Gaussian Action Field as a Dvnamic World Model for Robotic Mlanipulation||    |[link](198.md)|
+||2025.6.17|GMT: General Motion Tracking for Humanoid Whole-Body Control||    |[link](197.md)|
+||2025.6.17|Toward Rich Video Human-Motion2D Generation||    |[link](196.md)|
 
 ||2025.6.16|PF-LHM: 3D Animatable Avatar Reconstruction from Pose-free Articulated Human Images||    |[link](195.md)|
 ||2025.6.16|MAMMA: Markerless & Automatic Multi-Person Motion Action Capture||    |[link](194.md)|

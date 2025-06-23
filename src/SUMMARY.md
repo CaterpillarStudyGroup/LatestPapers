@@ -10,11 +10,11 @@
 - [  ](202.md)
 - [  ](201.md)
 
-- [  ](200.md)
-- [  ](199.md)
-- [  ](198.md)
-- [  ](197.md)
-- [  ](196.md)
+- [VideoMAR: Autoregressive Video Generatio with Continuous Tokens](200.md)
+- [SyncTalk++: High-Fidelity and Efficient Synchronized Talking Heads Synthesis Using Gaussian Splatting](199.md)
+- [GAF: Gaussian Action Field as a Dvnamic World Model for Robotic Mlanipulation](198.md)
+- [GMT: General Motion Tracking for Humanoid Whole-Body Control](197.md)
+- [Toward Rich Video Human-Motion2D Generation](196.md)
 
 - [PF-LHM: 3D Animatable Avatar Reconstruction from Pose-free Articulated Human Images](195.md)
 - [MAMMA: Markerless & Automatic Multi-Person Motion Action Capture](194.md)
