@@ -1,5 +1,35 @@
 |ID|Year|Name|Note|Tags|Link|
 |---|---|---|---|---|---|
+||2025.6.11|**||    |[link](205.md)|
+||2025.6.11|**||    |[link](204.md)|
+||2025.6.11|**||    |[link](203.md)|
+||2025.6.11|**||    |[link](202.md)|
+||2025.6.11|**||    |[link](201.md)|
+
+||2025.6.11|**||    |[link](200.md)|
+||2025.6.11|**||    |[link](199.md)|
+||2025.6.11|**||    |[link](198.md)|
+||2025.6.11|**||    |[link](197.md)|
+||2025.6.11|**||    |[link](196.md)|
+
+||2025.6.11|**||    |[link](195.md)|
+||2025.6.11|**||    |[link](194.md)|
+||2025.6.11|**||    |[link](193.md)|
+||2025.6.11|**||    |[link](192.md)|
+||2025.6.11|**||    |[link](191.md)|
+
+||2025.6.11|**||    |[link](190.md)|
+||2025.6.11|**||    |[link](189.md)|
+||2025.6.11|**||    |[link](188.md)|
+||2025.6.11|**||    |[link](187.md)|
+||2025.6.11|**||    |[link](186.md)|
+
+||2025.6.11|**||    |[link](185.md)|
+||2025.6.11|**||    |[link](184.md)|
+||2025.6.11|**||    |[link](183.md)|
+||2025.6.11|**||    |[link](182.md)|
+||2025.6.11|**||    |[link](181.md)|
+
 ||2025.6.11|PlayerOne: Egocentric World Simulator||    |[link](180.md)|
 ||2025.6.11|Self-Supervised Multi-Part Articulated Objects Modeling via Deformable Gaussian Splatting and Progressive Primitive Segmentation||    |[link](177.md)|
 ||2025.6.10|RoboSwap: A GAN-driven Video Diffusion Framework For Unsupervised Robot Arm Swapping||    |[link](175.md)|
