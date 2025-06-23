@@ -1,35 +1,29 @@
 |ID|Year|Name|Note|Tags|Link|
 |---|---|---|---|---|---|
-||2025.6.11|**||    |[link](205.md)|
-||2025.6.11|**||    |[link](204.md)|
-||2025.6.11|**||    |[link](203.md)|
-||2025.6.11|**||    |[link](202.md)|
-||2025.6.11|**||    |[link](201.md)|
-
+||2025.6.18|Nabla-R2D3: Effective and Efficient 3D Diffusion Alignment with 2D Rewards||    |[link](205.md)|
+||2025.6.18|Hunyuan3D 2.1: From Images to High-Fidelity 3D Assets with Production-Ready PBR Material||    |[link](204.md)|
+||2025.6.18|Particle-Grid Neural Dynamics for Learning Deformable Object Models from RGB-D Videos||    |[link](203.md)|
+||2025.6.18|HOIDiNi: Human-Object Interaction through Diffusion Noise Optimization||    |[link](202.md)|
+||2025.6.18|GenHOI: Generalizing Text-driven 4D Human-Object Interaction Synthesis for Unseen Objects||    |[link](201.md)|
 ||2025.6.17|VideoMAR: Autoregressive Video Generatio with Continuous Tokens||    |[link](200.md)|
 ||2025.6.17|SyncTalk++: High-Fidelity and Efficient Synchronized Talking Heads Synthesis Using Gaussian Splatting||    |[link](199.md)|
 ||2025.6.17|GAF: Gaussian Action Field as a Dvnamic World Model for Robotic Mlanipulation||    |[link](198.md)|
 ||2025.6.17|GMT: General Motion Tracking for Humanoid Whole-Body Control||    |[link](197.md)|
 ||2025.6.17|Toward Rich Video Human-Motion2D Generation||    |[link](196.md)|
-
 ||2025.6.16|PF-LHM: 3D Animatable Avatar Reconstruction from Pose-free Articulated Human Images||    |[link](195.md)|
 ||2025.6.16|MAMMA: Markerless & Automatic Multi-Person Motion Action Capture||    |[link](194.md)|
 ||2025.6.15|iDiT-HOI: Inpainting-based Hand Object Interaction Reenactment via Video Diffusion Transformer||    |[link](193.md)|
 ||2025.6.15|RL from Physical Feedback: Aligning Large Motion Models with Humanoid Control||    |[link](192.md)|
 ||2025.6.15|KungfuBot: Physics-Based Humanoid Whole-Body Control for Learning Highly-Dynamic Skills||    |[link](191.md)|
-
 ||2025.6.13|Enter: Graduated Realism: A Pedagogical Framework for AI-Powered Avatars in Virtual Reality Teacher Training||    |[link](190.md)|
 ||2025.6.13|Auto-Connect: Connectivity-Preserving RigFormer with Direct Preference Optimization||    |[link](189.md)|
 ||2025.6.13|SignAligner: Harmonizing Complementary Pose Modalities for Coherent Sign Language Generation||    |[link](188.md)|
 ||2025.6.13|Aligned Novel View Image and Geometry Synthesis via Cross-modal Attention Instillation||    |[link](187.md)|
-||2025.6.11|AlignHuman: Improving Motion and Fidelity via Timestep-Segment Preference Optimization for Audio-Driven Human Animation||    |[link](186.md)|
-
 ||2025.6.12|DreamActor-H1: High-Fidelity Human-Product Demonstration Video Generation via Motion-designed Diffusion Transformers||    |[link](185.md)|
 ||2025.6.12|M4V: Multi-Modal Mamba for Text-to-Video Generation||    |[link](184.md)|
 ||2025.6.12|Motion-R1: Chain-of-Thought Reasoning and Reinforcement Learning for Human Motion Generation||    |[link](183.md)|
 ||2025.6.12|Rethinking Generative Human Video Coding with Implicit Motion Transformation||    |[link](182.md)|
-||2025.4.14|Controllable Expressive 3D Facial Animation via Diffusion in a Unified Multimodal Space||    |[link](181.md)|
-
+||2025.6.11|AlignHuman: Improving Motion and Fidelity via Timestep-Segment Preference Optimization for Audio-Driven Human Animation||    |[link](186.md)|
 ||2025.6.11|PlayerOne: Egocentric World Simulator||    |[link](180.md)|
 ||2025.6.11|Self-Supervised Multi-Part Articulated Objects Modeling via Deformable Gaussian Splatting and Progressive Primitive Segmentation||    |[link](177.md)|
 ||2025.6.10|RoboSwap: A GAN-driven Video Diffusion Framework For Unsupervised Robot Arm Swapping||    |[link](175.md)|
@@ -119,6 +113,7 @@
 ||2025.4.24|3DV-TON: Textured 3D-Guided Consistent Video Try-on via Diffusion Models||虚拟试衣|[link](1.md)|
 ||2025.4.24|PICO: Reconstructing 3D People In Contact with Objects||人物交互3D重建|[link](4.md)|
 ||2025.4.23|PIN-WM: Learning Physics-INformed World Models for Non-Prehensile Manipulation|| 从视频数据中提取物理信息|[link](10.md)|
+||2025.4.14|Controllable Expressive 3D Facial Animation via Diffusion in a Unified Multimodal Space||    |[link](181.md)|
 ||2025.4.3|TokenHSI: Unified Synthesis of Physical Human-Scene Interactions through Task Tokenization|| 人-场景交互(HSI)  |[link](57.md)|
 ||2025|Draganything: Motion control for anything using entity representation|
 ||2023|Synthesizing Diverse Human Motions in 3D Indoor Scenes||  三维室内场景人物互动 |[link](64.md)|

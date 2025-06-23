@@ -3,37 +3,31 @@
 # Abstract
 
 - [  ](*.md)
-
-- [  ](205.md)
-- [  ](204.md)
-- [  ](203.md)
-- [  ](202.md)
-- [  ](201.md)
-
+- [Nabla-R2D3: Effective and Efficient 3D Diffusion Alignment with 2D Rewards](205.md)
+- [Hunyuan3D 2.1: From Images to High-Fidelity 3D Assets with Production-Ready PBR Material](204.md)
+- [Particle-Grid Neural Dynamics for Learning Deformable Object Models from RGB-D Videos](203.md)
+- [HOIDiNi: Human-Object Interaction through Diffusion Noise Optimization](202.md)
+- [GenHOI: Generalizing Text-driven 4D Human-Object Interaction Synthesis for Unseen Objects](201.md)
 - [VideoMAR: Autoregressive Video Generatio with Continuous Tokens](200.md)
 - [SyncTalk++: High-Fidelity and Efficient Synchronized Talking Heads Synthesis Using Gaussian Splatting](199.md)
 - [GAF: Gaussian Action Field as a Dvnamic World Model for Robotic Mlanipulation](198.md)
 - [GMT: General Motion Tracking for Humanoid Whole-Body Control](197.md)
 - [Toward Rich Video Human-Motion2D Generation](196.md)
-
 - [PF-LHM: 3D Animatable Avatar Reconstruction from Pose-free Articulated Human Images](195.md)
 - [MAMMA: Markerless & Automatic Multi-Person Motion Action Capture](194.md)
 - [iDiT-HOI: Inpainting-based Hand Object Interaction Reenactment via Video Diffusion Transformer](193.md)
 - [RL from Physical Feedback: Aligning Large Motion Models with Humanoid Control](192.md)
 - [KungfuBot: Physics-Based Humanoid Whole-Body Control for Learning Highly-Dynamic Skills](191.md)
-
 - [Enter: Graduated Realism: A Pedagogical Framework for AI-Powered Avatars in Virtual Reality Teacher Training](190.md)
 - [Auto-Connect: Connectivity-Preserving RigFormer with Direct Preference Optimization](189.md)
 - [SignAligner: Harmonizing Complementary Pose Modalities for Coherent Sign Language Generation](188.md)
 - [Aligned Novel View Image and Geometry Synthesis via Cross-modal Attention Instillation](187.md)
 - [AlignHuman: Improving Motion and Fidelity via Timestep-Segment Preference Optimization for Audio-Driven Human Animation](186.md)
-
 - [DreamActor-H1: High-Fidelity Human-Product Demonstration Video Generation via Motion-designed Diffusion Transformers](185.md)
 - [M4V: Multi-Modal Mamba for Text-to-Video Generation](184.md)
 - [Motion-R1: Chain-of-Thought Reasoning and Reinforcement Learning for Human Motion Generation](183.md)
 - [Rethinking Generative Human Video Coding with Implicit Motion Transformation](182.md)
 - [Controllable Expressive 3D Facial Animation via Diffusion in a Unified Multimodal Space](181.md)
-
 - [PlayerOne: Egocentric World Simulator](180.md)
 - [HAIF-GS: Hierarchical and Induced Flow-Guided Gaussian Splatting for Dynamic Scene](179.md)
 - [AnimateAnyMesh: A Feed-Forward 4D Foundation Model for Text-Driven Universal Mesh Animation](178.md)
