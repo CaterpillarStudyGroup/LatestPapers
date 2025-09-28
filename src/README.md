@@ -1,13 +1,5 @@
 |ID|Year|Name|Note|Tags|Link|
 |---|---|---|---|---|---|
-||2025.6.18|Nabla-R2D3: Effective and Efficient 3D Diffusion Alignment with 2D Rewards||    |[link](205.md)|
-||2025.6.18|Hunyuan3D 2.1: From Images to High-Fidelity 3D Assets with Production-Ready PBR Material||    |[link](204.md)|
-||2025.6.18|Particle-Grid Neural Dynamics for Learning Deformable Object Models from RGB-D Videos||    |[link](203.md)|
-||2025.6.18|HOIDiNi: Human-Object Interaction through Diffusion Noise Optimization||    |[link](202.md)|
-||2025.6.18|GenHOI: Generalizing Text-driven 4D Human-Object Interaction Synthesis for Unseen Objects||    |[link](201.md)|
-||2025.6.17|VideoMAR: Autoregressive Video Generatio with Continuous Tokens||    |[link](200.md)|
-||2025.6.17|SyncTalk++: High-Fidelity and Efficient Synchronized Talking Heads Synthesis Using Gaussian Splatting||    |[link](199.md)|
-||2025.6.17|GAF: Gaussian Action Field as a Dvnamic World Model for Robotic Mlanipulation||    |[link](198.md)|
 ||2025.6.17|GMT: General Motion Tracking for Humanoid Whole-Body Control||    |[link](197.md)|
 ||2025.6.17|Toward Rich Video Human-Motion2D Generation||    |[link](196.md)|
 ||2025.6.16|PF-LHM: 3D Animatable Avatar Reconstruction from Pose-free Articulated Human Images||    |[link](195.md)|
@@ -121,13 +113,14 @@
 
 # 删除
 
-
+||2025.6.5|**POMP: Physics-consistent Motion Generative Model through Phase Manifolds**|1. 使用运动学生成动作 2. 使用动力学优化动作 3. 优化结果再映射回运动学数据 <br> | 物理合理，自回归，动作优化   |[link](160.md)|
 
 # Low
 
 |ID|Year|Name|Note|Tags|Link|
 |---|---|---|---|---|---|
-||2025.6.5|**POMP: Physics-consistent Motion Generative Model through Phase Manifolds**|1. 使用运动学生成动作 2. 使用动力学优化动作 3. 优化结果再映射回运动学数据 <br> | 物理合理，自回归，动作优化   |[link](160.md)|
+||2025.6.18|Hunyuan3D 2.1: From Images to High-Fidelity 3D Assets with Production-Ready PBR Material||  Mesh建模  |[link](204.md)|
+||2025.6.18|Nabla-R2D3: Effective and Efficient 3D Diffusion Alignment with 2D Rewards|| Diffusion训练优化 |[link](205.md)|
 ||2025.6.3|LinkTo-Anime: A 2D Animation Optical Flow Dataset from 3D Model Rendering||    |[link](155.md)|
 ||2025.5.30|AdaHuman: Animatable Detailed 3D Human Generation with Compositional Multiview Diffusion|| 从单张真实场景图像生成高保真可动画3D头像   |[link](142.md)|
 ||2025.5.30|UniGeo: Taming Video Diffusion for Unified Consistent Geometry Estimation||  利用扩散模型先验知识辅助单目几何估计  |[link](145.md)|
