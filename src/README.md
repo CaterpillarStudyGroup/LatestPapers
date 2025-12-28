@@ -45,7 +45,6 @@
 ||2025.5.29|HyperMotion: DiT-Based Pose-Guided Human Image Animation of Complex Motions| 高质量的人体姿态标注和精选的视频片段 |  数据集  |[link](136.md)|
 ||2025.5.27|Diffusion Model-based Activity Completion for AI Motion Capture from Videos|| 将AI动作捕捉应用于**虚拟人**领域   |[link](133.md)|
 ||2025.5.26|AniCrafter: Customizing Realistic Human-Centric Animation via Avatar-Background Conditioning in Video Diffusion Models||   将给定角色集成并动画化到开放域的动态背景中，同时遵循给定的人体运动序列 |[link](129.md)|
-||2025.5.26|ParticleGS: Particle-Based Dynamics Modeling of 3D Gaussians for Prior-free Motion Extrapolation||  根据视觉观测数据建模三维高斯分布的动力学特性  |[link](128.md)|
 ||2025.5.26|DIPO: Dual-State Images Controlled Articulated Object Generation Powered by Diverse Data||  从一对图像可控生成铰接式三维物体  |[link](126.md)|
 ||2025.5.24|Flow Matching for Geometric Trajectory Simulation|| **通过融合流匹配技术和数据依赖耦合机制实现了基于物理知识的几何轨迹模拟**   |[link](122.md)|
 ||2025.5.23|How Much Do Large Language Models Know about Human Motion? A Case Study in 3D Avatar Control|| 大语言模型文生动作评估   |[link](131.md)|

@@ -73,7 +73,6 @@
 - [Diffusion Model-based Activity Completion for AI Motion Capture from Videos](133.md)
 - [How Much Do Large Language Models Know about Human Motion? A Case Study in 3D Avatar Control](131.md)
 - [AniCrafter: Customizing Realistic Human-Centric Animation via Avatar-Background Conditioning in Video Diffusion Models](129.md)
-- [ParticleGS: Particle-Based Dynamics Modeling of 3D Gaussians for Prior-free Motion Extrapolation](128.md)
 - [MotionPro: A Precise Motion Controller for Image-to-Video Generation](127.md)
 - [DIPO: Dual-State Images Controlled Articulated Object Generation Powered by Diverse Data](126.md)
 - [Force Prompting: Video Generation Models Can Learn and Generalize Physics-based Control Signals](125.md)
