@@ -31,7 +31,6 @@
 ||2025.6.5|Follow-Your-Creation: Empowering 4D Creation through Video Inpainting||    |[link](164.md)|
 ||2025.6.5|Realizing Text-Driven Motion Generation on NAO Robot: A Reinforcement Learning-Optimized Control Pipeline||    |[link](163.md)|
 ||2025.6.5|Follow-Your-Motion: Video Motion Transfer via Efficient Spatial-Temporal Decoupled Finetuning||    |[link](162.md)|
-||2025.6.5|**FreeGave: 3D Physics Learning from Dynamic Videos by Gaussian Velocity**||    |[link](161.md)|
 ||2025.6.4|SplArt: Articulation Estimation and Part-Level Reconstruction with 3D Gaussian Splatting||    |[link](158.md)|
 ||2025.6.4|HuGeDiff: 3D Human Generation via Diffusion with Gaussian Splatting||    |[link](157.md)|
 ||2025.6.3|Controllable Human-centric Keyframe Interpolation with Generative Prior||  3D关键帧插值器  |[link](152.md)|
