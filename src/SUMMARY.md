@@ -3,6 +3,7 @@
 # Abstract
 
 - [  ](*.md)
+- [Physics-based fluid simulation in computer graphics: Survey, research trends, and challenges](206.md)
 - [Nabla-R2D3: Effective and Efficient 3D Diffusion Alignment with 2D Rewards](205.md)
 - [Hunyuan3D 2.1: From Images to High-Fidelity 3D Assets with Production-Ready PBR Material](204.md)
 - [HOIDiNi: Human-Object Interaction through Diffusion Noise Optimization](202.md)
