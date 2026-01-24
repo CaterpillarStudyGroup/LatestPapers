@@ -1,5 +1,6 @@
 |ID|Year|Name|Note|Tags|Link|
 |---|---|---|---|---|---|
+||2024.10|Physics-based fluid simulation in computer graphics: Survey, research trends, and challenges||    |[link](206.md)|
 ||2025.6.17|GMT: General Motion Tracking for Humanoid Whole-Body Control||    |[link](197.md)|
 ||2025.6.17|Toward Rich Video Human-Motion2D Generation||    |[link](196.md)|
 ||2025.6.16|PF-LHM: 3D Animatable Avatar Reconstruction from Pose-free Articulated Human Images||    |[link](195.md)|
